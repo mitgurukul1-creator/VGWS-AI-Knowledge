@@ -1,0 +1,34 @@
+# Vishwashanti Gurukul World School — IB Authorizations
+
+> Vishwashanti Gurukul World School is a fully authorized International Baccalaureate (IB) continuum school. It holds current authorization for four IB programmes — Primary Years Programme (PYP), Middle Years Programme (MYP, Years 1–5), Diploma Programme (DP), and Career-related Programme (CP) — with certificates reissued or authorized as recently as late 2025 under Director General Olli-Pekka Heinonen (Geneva). Holograms and watermarks are present on all source certificates.
+
+## Key Facts
+
+- Diploma Programme (DP): originally issued May 2006; reissued November 2025.
+- Primary Years Programme (PYP): originally issued April 2009; reissued November 2025.
+- Middle Years Programme (MYP): authorized for Years 1, 2, 3, 4 and 5; originally issued April 2018; reissued November 2025.
+- Career-related Programme (CP): authorization date October 2025; the certificate does not list a separate reissue date.
+- Governing body: International Baccalaureate (Baccalauréat International / Bachillerato Internacional).
+- Director General: Olli-Pekka Heinonen, based in Geneva (Genève/Ginebra).
+- Current authorization status: Authorized. Most recent authorization/reissue window: October–November 2025.
+- Authentication: hologram and watermark present on all certificates.
+
+## Authorization Timeline
+
+The authorization history begins with the Diploma Programme in May 2006, followed by the Primary Years Programme (2009) and the Middle Years Programme (2018). In late 2025, the school achieved a new authorization for the Career-related Programme (October) and completed a reissue cycle for the DP, PYP, and MYP (November).
+
+## Files
+
+- [knowledge_base.md](knowledge_base.md): Full canonical knowledge base in Markdown.
+- [knowledge_base.json](knowledge_base.json): Complete structured knowledge base.
+- [knowledge_base.jsonl](knowledge_base.jsonl): RAG-ready chunks, one JSON record per line.
+- [schema.jsonld](schema.jsonld): Schema.org JSON-LD (School, Organization, Person, EducationalOccupationalCredential).
+- [entities.json](entities.json): Entity and relationship extraction.
+- [metadata.json](metadata.json): Field-level metadata with source attribution.
+- [citations.json](citations.json): Fact-to-source-certificate citation mapping.
+- [faq.json](faq.json): Question–answer pairs derived strictly from source facts.
+- [README.md](README.md): Repository guide and validation notes.
+
+## Keywords
+
+Vishwashanti Gurukul World School, International Baccalaureate, IB Authorization, PYP, MYP, DP, CP, Primary Years Programme, Middle Years Programme, Diploma Programme, Career-related Programme, Olli-Pekka Heinonen, Original Issue, Reissued, Hologram, Watermark, Geneva, Years 1-5 MYP, Certification 2025

@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "School",
+      "@id": "#vgws",
+      "name": "Vishwashanti Gurukul World School",
+      "description": "A multi-programme International Baccalaureate (IB) school authorized to deliver the full continuum of IB education, maintaining current authorization for four distinct programs: PYP, MYP (Years 1-5), DP, and CP.",
+      "hasCredential": [
+        {
+          "@id": "#credential-pyp"
+        },
+        {
+          "@id": "#credential-myp"
+        },
+        {
+          "@id": "#credential-dp"
+        },
+        {
+          "@id": "#credential-cp"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "#ibo",
+      "name": "International Baccalaureate",
+      "alternateName": [
+        "IB",
+        "Baccalauréat International",
+        "Bachillerato Internacional"
+      ],
+      "employee": {
+        "@id": "#dg"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "#dg",
+      "name": "Olli-Pekka Heinonen",
+      "jobTitle": "Director General of the International Baccalaureate",
+      "workLocation": {
+        "@type": "Place",
+        "name": "Geneva",
+        "alternateName": [
+          "Genève",
+          "Ginebra"
+        ]
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "#credential-pyp",
+      "name": "IB Primary Years Programme (PYP) Authorization",
+      "credentialCategory": "IB Programme Authorization",
+      "recognizedBy": {
+        "@id": "#ibo"
+      },
+      "dateCreated": "2009-04",
+      "validFrom": "2025-11",
+      "description": "Originally issued April 2009; Reissued November 2025. Hologram and watermark present."
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "#credential-myp",
+      "name": "IB Middle Years Programme (MYP) Authorization",
+      "credentialCategory": "IB Programme Authorization",
+      "recognizedBy": {
+        "@id": "#ibo"
+      },
+      "dateCreated": "2018-04",
+      "validFrom": "2025-11",
+      "educationalLevel": "Years 1, 2, 3, 4 and 5",
+      "description": "Specifically authorized for Years 1, 2, 3, 4, and 5. Originally issued April 2018; Reissued November 2025. Hologram and watermark present."
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "#credential-dp",
+      "name": "IB Diploma Programme (DP) Authorization",
+      "credentialCategory": "IB Programme Authorization",
+      "recognizedBy": {
+        "@id": "#ibo"
+      },
+      "dateCreated": "2006-05",
+      "validFrom": "2025-11",
+      "description": "Originally issued May 2006; Reissued November 2025. Hologram and watermark present."
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "#credential-cp",
+      "name": "IB Career-related Programme (CP) Authorization",
+      "credentialCategory": "IB Programme Authorization",
+      "recognizedBy": {
+        "@id": "#ibo"
+      },
+      "dateCreated": "2025-10",
+      "description": "Authorization Date: October 2025. This certificate does not list a separate reissue date. Hologram and watermark present."
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "knowledge_base": {
+    "title": "Vishwashanti Gurukul World School IB Authorizations",
+    "description": "Canonical, deduplicated knowledge base derived from four IB authorization certificates (PYP, MYP, DP, CP). All factual statements preserved from source documents; no information invented.",
+    "school_profile": {
+      "name": "Vishwashanti Gurukul World School",
+      "profile_summary": "Vishwashanti Gurukul World School is a multi-programme International Baccalaureate (IB) school authorized to deliver the full continuum of IB education. The school maintains current authorization for four distinct programs. Authentication features, including holograms and watermarks, are present on all source certificates.",
+      "current_authorization_status": "Authorized",
+      "most_recent_authorization_reissue_window": "October – November 2025",
+      "ib_authorizations": [
+        {
+          "program_type": "Primary Years Programme (PYP)",
+          "original_issue_date": "April 2009",
+          "reissue_date": "November 2025",
+          "authorization_scope": "Not specified in source",
+          "authentication_status": "Hologram and watermark present",
+          "source_document": "PYP IB Certificate .pdf"
+        },
+        {
+          "program_type": "Middle Years Programme (MYP)",
+          "original_issue_date": "April 2018",
+          "reissue_date": "November 2025",
+          "authorization_scope": "Years 1, 2, 3, 4 and 5",
+          "authentication_status": "Hologram and watermark present",
+          "source_document": "MYP Certificate .pdf"
+        },
+        {
+          "program_type": "Diploma Programme (DP)",
+          "original_issue_date": "May 2006",
+          "reissue_date": "November 2025",
+          "authorization_scope": "Not specified in source",
+          "authentication_status": "Hologram and watermark present",
+          "source_document": "DP IB Certificate .pdf"
+        },
+        {
+          "program_type": "Career-related Programme (CP)",
+          "authorization_date": "October 2025",
+          "original_issue_date": "October 2025",
+          "reissue_date": null,
+          "reissue_note": "This certificate does not list a separate reissue date",
+          "authorization_scope": "Not specified in source",
+          "authentication_status": "Hologram and watermark present",
+          "source_document": "CP IB Certificates.pdf"
+        }
+      ],
+      "governing_authority": {
+        "organization": "International Baccalaureate",
+        "abbreviation": "IB",
+        "multilingual_aliases": [
+          "Baccalauréat International",
+          "Bachillerato Internacional"
+        ],
+        "director_general": "Olli-Pekka Heinonen",
+        "director_general_signature_as_appears": "Olli-Pekha Hein",
+        "dg_location": "Geneva",
+        "dg_location_aliases": [
+          "Genève",
+          "Ginebra"
+        ]
+      }
+    },
+    "relationships": [
+      {
+        "subject": "Vishwashanti Gurukul World School",
+        "predicate": "Authorized to Offer",
+        "object": "Primary Years Programme"
+      },
+      {
+        "subject": "Vishwashanti Gurukul World School",
+        "predicate": "Authorized to Offer",
+        "object": "Middle Years Programme (Years 1-5)"
+      },
+      {
+        "subject": "Vishwashanti Gurukul World School",
+        "predicate": "Authorized to Offer",
+        "object": "Diploma Programme"
+      },
+      {
+        "subject": "Vishwashanti Gurukul World School",
+        "predicate": "Authorized to Offer",
+        "object": "Career-related Programme"
+      },
+      {
+        "subject": "Olli-Pekka Heinonen",
+        "predicate": "Holds Position Of",
+        "object": "Director General of the International Baccalaureate"
+      },
+      {
+        "subject": "Olli-Pekka Heinonen",
+        "predicate": "Based In",
+        "object": "Geneva"
+      },
+      {
+        "subject": "International Baccalaureate",
+        "predicate": "Issued Authorization To",
+        "object": "Vishwashanti Gurukul World School"
+      },
+      {
+        "subject": "International Baccalaureate",
+        "predicate": "Known As",
+        "object": "Baccalauréat International"
+      },
+      {
+        "subject": "International Baccalaureate",
+        "predicate": "Known As",
+        "object": "Bachillerato Internacional"
+      }
+    ],
+    "retrieval_anchors": [
+      {
+        "id": "anchor_1",
+        "title": "Comprehensive IB Status",
+        "text": "Vishwashanti Gurukul World School is a fully authorized International Baccalaureate institution. The school offers the Primary Years Programme (PYP), Middle Years Programme (MYP), Diploma Programme (DP), and Career-related Programme (CP), with certificates reissued or authorized as recently as late 2025 under the authority of Director General Olli-Pekka Heinonen."
+      },
+      {
+        "id": "anchor_2",
+        "title": "Authorization Timeline",
+        "text": "The authorization history for Vishwashanti Gurukul World School begins with the Diploma Programme in May 2006, followed by the Primary Years Programme (2009) and the Middle Years Programme (2018). In late 2025, the school achieved a new authorization for the Career-related Programme (October) and completed a reissue cycle for the DP, PYP, and MYP (November)."
+      },
+      {
+        "id": "anchor_3",
+        "title": "MYP Specificity and Governance",
+        "text": "The Middle Years Programme (MYP) at Vishwashanti Gurukul World School is specifically authorized for Years 1 through 5. All school certifications are issued by the International Baccalaureate (Baccalauréat International / Bachillerato Internacional) and signed by Director General Olli-Pekka Heinonen, based in Geneva."
+      }
+    ],
+    "developer_implementation_guide": [
+      "Initialize School Profile: Create a primary record for 'Vishwashanti Gurukul World School.'",
+      "Map Program Relationships: Link the four unique IB program modules (PYP, MYP, DP, CP) to the institution record.",
+      "Input Temporal Data: Store 'Original Issue Date,' 'Reissue Date,' and 'Authorization Date' as date-type objects. Treat the CP October 2025 date as the primary Authorization Date.",
+      "Security Verification: Use the 'Hologram and Watermark' requirement as a mandatory Boolean flag (has_physical_security_features: true) for document authenticity audits."
+    ],
+    "data_validation_rules": [
+      {
+        "rule": 1,
+        "description": "Ensure the MYP program is recorded with the explicit scope 'Years 1, 2, 3, 4 and 5.'"
+      },
+      {
+        "rule": 2,
+        "description": "Verify that the Director General name is standardized as 'Olli-Pekka Heinonen' (mapping from the signature 'Olli-Pekha Hein')."
+      },
+      {
+        "rule": 3,
+        "description": "Validate that the CP certificate date is October 2025, while DP, MYP, and PYP reissue dates are November 2025."
+      },
+      {
+        "rule": 4,
+        "description": "All program titles must be stored in full English nomenclature as defined in the source headers."
+      },
+      {
+        "rule": 5,
+        "description": "Audit for the presence of the hologram and watermark as a mandatory condition for record activation."
+      }
+    ],
+    "search_keywords": [
+      "Vishwashanti Gurukul World School",
+      "International Baccalaureate",
+      "IB Authorization",
+      "PYP",
+      "MYP",
+      "DP",
+      "CP",
+      "Primary Years Programme",
+      "Middle Years Programme",
+      "Diploma Programme",
+      "Career-related Programme",
+      "Olli-Pekka Heinonen",
+      "Original Issue",
+      "Reissued",
+      "Hologram",
+      "Watermark",
+      "Geneva",
+      "Years 1-5 MYP",
+      "Certification 2025"
+    ]
+  }
+}

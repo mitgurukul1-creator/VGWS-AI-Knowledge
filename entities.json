@@ -1,0 +1,111 @@
+{
+  "entities": {
+    "educational_institution": [
+      {
+        "name": "Vishwashanti Gurukul World School",
+        "type": "Educational Institution"
+      }
+    ],
+    "governing_body": [
+      {
+        "name": "International Baccalaureate",
+        "abbreviation": "IB",
+        "aliases": [
+          "Baccalauréat International",
+          "Bachillerato Internacional"
+        ],
+        "type": "Governing Body"
+      }
+    ],
+    "authorized_programs": [
+      {
+        "name": "Primary Years Programme",
+        "abbreviation": "PYP",
+        "type": "IB Program"
+      },
+      {
+        "name": "Middle Years Programme",
+        "abbreviation": "MYP",
+        "scope": "Years 1, 2, 3, 4 and 5",
+        "type": "IB Program"
+      },
+      {
+        "name": "Diploma Programme",
+        "abbreviation": "DP",
+        "type": "IB Program"
+      },
+      {
+        "name": "Career-related Programme",
+        "abbreviation": "CP",
+        "type": "IB Program"
+      }
+    ],
+    "key_individuals": [
+      {
+        "name": "Olli-Pekka Heinonen",
+        "role": "Director General",
+        "organization": "International Baccalaureate",
+        "location": "Geneva",
+        "signature_as_appears": "Olli-Pekha Hein",
+        "type": "Person"
+      }
+    ],
+    "geographic_locations": [
+      {
+        "name": "Geneva",
+        "aliases": [
+          "Genève",
+          "Ginebra"
+        ],
+        "type": "Location"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "subject": "Vishwashanti Gurukul World School",
+      "predicate": "Authorized to Offer",
+      "object": "Primary Years Programme"
+    },
+    {
+      "subject": "Vishwashanti Gurukul World School",
+      "predicate": "Authorized to Offer",
+      "object": "Middle Years Programme (Years 1-5)"
+    },
+    {
+      "subject": "Vishwashanti Gurukul World School",
+      "predicate": "Authorized to Offer",
+      "object": "Diploma Programme"
+    },
+    {
+      "subject": "Vishwashanti Gurukul World School",
+      "predicate": "Authorized to Offer",
+      "object": "Career-related Programme"
+    },
+    {
+      "subject": "Olli-Pekka Heinonen",
+      "predicate": "Holds Position Of",
+      "object": "Director General of the International Baccalaureate"
+    },
+    {
+      "subject": "Olli-Pekka Heinonen",
+      "predicate": "Based In",
+      "object": "Geneva"
+    },
+    {
+      "subject": "International Baccalaureate",
+      "predicate": "Issued Authorization To",
+      "object": "Vishwashanti Gurukul World School"
+    },
+    {
+      "subject": "International Baccalaureate",
+      "predicate": "Known As",
+      "object": "Baccalauréat International"
+    },
+    {
+      "subject": "International Baccalaureate",
+      "predicate": "Known As",
+      "object": "Bachillerato Internacional"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "metadata": [
+    {
+      "field_name": "Institution Name",
+      "value": "Vishwashanti Gurukul World School",
+      "source_document": "All Certificates"
+    },
+    {
+      "field_name": "Organization Body",
+      "value": "International Baccalaureate (IB)",
+      "source_document": "All Certificates"
+    },
+    {
+      "field_name": "Director General",
+      "value": "Olli-Pekka Heinonen",
+      "source_document": "All Certificates"
+    },
+    {
+      "field_name": "Current Authorization Status",
+      "value": "Authorized",
+      "source_document": "All Certificates"
+    },
+    {
+      "field_name": "Most Recent Authorization/Reissue Window",
+      "value": "October – November 2025",
+      "source_document": "All Certificates"
+    }
+  ],
+  "knowledge_base_info": {
+    "title": "Vishwashanti Gurukul World School IB Authorizations",
+    "source_documents": [
+      "PYP IB Certificate .pdf",
+      "MYP Certificate .pdf",
+      "DP IB Certificate .pdf",
+      "CP IB Certificates.pdf"
+    ],
+    "authentication_features": "Holograms and watermarks present on all source certificates",
+    "program_count": 4,
+    "search_keywords": [
+      "Vishwashanti Gurukul World School",
+      "International Baccalaureate",
+      "IB Authorization",
+      "PYP",
+      "MYP",
+      "DP",
+      "CP",
+      "Primary Years Programme",
+      "Middle Years Programme",
+      "Diploma Programme",
+      "Career-related Programme",
+      "Olli-Pekka Heinonen",
+      "Original Issue",
+      "Reissued",
+      "Hologram",
+      "Watermark",
+      "Geneva",
+      "Years 1-5 MYP",
+      "Certification 2025"
+    ]
+  }
+}
