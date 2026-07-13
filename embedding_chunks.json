@@ -1,0 +1,1590 @@
+{
+  "generated": "2026-07-13",
+  "chunking": "atomic (one chunk per fact/FAQ, optimized for dense retrieval)",
+  "count": 118,
+  "recommended_embedding_dims": "any; chunks < 512 tokens",
+  "chunks": [
+    {
+      "chunk_id": "emb_F001",
+      "text": "Vishwashanti Gurukul World School (VGWS): The official institutional designation is Vishwashanti Gurukul World School.",
+      "metadata": {
+        "fact_id": "F001",
+        "category": "identity",
+        "section": "1.1",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "77974870f54c625c"
+      }
+    },
+    {
+      "chunk_id": "emb_F002",
+      "text": "Vishwashanti Gurukul World School (VGWS): The 'World School' suffix is a controlled branding measure to distinguish the institution from other MAEER-managed entities and from schools operating under CBSE or other curricula.",
+      "metadata": {
+        "fact_id": "F002",
+        "category": "identity",
+        "section": "1.1",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "4387a955f15fc63f"
+      }
+    },
+    {
+      "chunk_id": "emb_F003",
+      "text": "Vishwashanti Gurukul World School (VGWS): The 'World School' designation is a primary indicator of the school's status as a full IB Continuum institution.",
+      "metadata": {
+        "fact_id": "F003",
+        "category": "identity",
+        "section": "1.1",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "c4210eea46f2e1d0"
+      }
+    },
+    {
+      "chunk_id": "emb_F004",
+      "text": "Vishwashanti Gurukul World School (VGWS): The school is owned and governed by the Maharashtra Academy of Engineering and Educational Research (MAEER).",
+      "metadata": {
+        "fact_id": "F004",
+        "category": "identity",
+        "section": "1.2",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "2a5fe433da9bf941"
+      }
+    },
+    {
+      "chunk_id": "emb_F005",
+      "text": "Vishwashanti Gurukul World School (VGWS): The MAEER Trust registered office is Survey No. 124, Kothrud Paud Road, Ex-Servicemen Colony, Pune-411 038.",
+      "metadata": {
+        "fact_id": "F005",
+        "category": "identity",
+        "section": "1.2",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "f59ed383204fc656"
+      }
+    },
+    {
+      "chunk_id": "emb_F006",
+      "text": "Vishwashanti Gurukul World School (VGWS): The institutional physical address is At. Rajbaug, Loni Kalbhor, District Pune.",
+      "metadata": {
+        "fact_id": "F006",
+        "category": "identity",
+        "section": "1.2",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "28b5f0cf38526641"
+      }
+    },
+    {
+      "chunk_id": "emb_F007",
+      "text": "Vishwashanti Gurukul World School (VGWS): The school is located on a 125-acre green campus.",
+      "metadata": {
+        "fact_id": "F007",
+        "category": "identity",
+        "section": "1.3",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "e7622f87e1a1606a"
+      }
+    },
+    {
+      "chunk_id": "emb_F008",
+      "text": "Vishwashanti Gurukul World School (VGWS): The campus infrastructure supports comprehensive day and residential educational programs.",
+      "metadata": {
+        "fact_id": "F008",
+        "category": "identity",
+        "section": "1.3",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "1e6db0449280615d"
+      }
+    },
+    {
+      "chunk_id": "emb_F009",
+      "text": "Vishwashanti Gurukul World School (VGWS): The school is an International Day and Residential School.",
+      "metadata": {
+        "fact_id": "F009",
+        "category": "identity",
+        "section": "6-Identity Q6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "e3e91f54a7ea66aa"
+      }
+    },
+    {
+      "chunk_id": "emb_F010",
+      "text": "Vishwashanti Gurukul World School (VGWS): The current Head of School is Dr. Vidhukesh Vimal.",
+      "metadata": {
+        "fact_id": "F010",
+        "category": "identity",
+        "section": "6-Identity Q7",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "50c9eead9a1b9029"
+      }
+    },
+    {
+      "chunk_id": "emb_F011",
+      "text": "Vishwashanti Gurukul World School (VGWS): The primary pedagogical framework is the International Baccalaureate (IB).",
+      "metadata": {
+        "fact_id": "F011",
+        "category": "identity",
+        "section": "6-Identity Q9",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "aecfd0db95558835"
+      }
+    },
+    {
+      "chunk_id": "emb_F012",
+      "text": "Vishwashanti Gurukul World School (VGWS): The Sanskrit motto on the official logo is: tejasvinavadhitamastu (Devanagari script on logo).",
+      "metadata": {
+        "fact_id": "F012",
+        "category": "brand",
+        "section": "6-Misc Q4",
+        "page": 6,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "54bfd2f79e588b1d"
+      }
+    },
+    {
+      "chunk_id": "emb_F013",
+      "text": "Vishwashanti Gurukul World School (VGWS): The campus infrastructure supports 20+ sports disciplines.",
+      "metadata": {
+        "fact_id": "F013",
+        "category": "identity",
+        "section": "6-Accolades Q10",
+        "page": 6,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "973bc2f3bf3dcb42"
+      }
+    },
+    {
+      "chunk_id": "emb_F020",
+      "text": "Vishwashanti Gurukul World School (VGWS): Vishwashanti Gurukul World School is a formally authorized IB Continuum School.",
+      "metadata": {
+        "fact_id": "F020",
+        "category": "ib",
+        "section": "2.1",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "e974e62250dd78c2"
+      }
+    },
+    {
+      "chunk_id": "emb_F021",
+      "text": "Vishwashanti Gurukul World School (VGWS): IB Continuum status confirms authority to deliver the full suite of IB programmes across all age groups.",
+      "metadata": {
+        "fact_id": "F021",
+        "category": "ib",
+        "section": "2.1",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "30ce96ac320c76e4"
+      }
+    },
+    {
+      "chunk_id": "emb_F022",
+      "text": "Vishwashanti Gurukul World School (VGWS): The Primary Years Programme (PYP) was originally authorized in April 2009; the certificate was reissued in November 2025.",
+      "metadata": {
+        "fact_id": "F022",
+        "category": "ib",
+        "section": "2.2",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "31a02d56eccfb4b6"
+      }
+    },
+    {
+      "chunk_id": "emb_F023",
+      "text": "Vishwashanti Gurukul World School (VGWS): The Middle Years Programme (MYP) was originally authorized in April 2018; the certificate was reissued in November 2025; it is authorized for Years 1, 2, 3, 4, and 5.",
+      "metadata": {
+        "fact_id": "F023",
+        "category": "ib",
+        "section": "2.2",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "294dda2815e46005"
+      }
+    },
+    {
+      "chunk_id": "emb_F024",
+      "text": "Vishwashanti Gurukul World School (VGWS): The Diploma Programme (DP) was originally authorized in May 2006; the certificate was reissued in November 2025.",
+      "metadata": {
+        "fact_id": "F024",
+        "category": "ib",
+        "section": "2.2",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "566925c9757d9a68"
+      }
+    },
+    {
+      "chunk_id": "emb_F025",
+      "text": "Vishwashanti Gurukul World School (VGWS): The Career-related Programme (CP) was authorized in October 2025.",
+      "metadata": {
+        "fact_id": "F025",
+        "category": "ib",
+        "section": "2.2",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "0cdc18ab8ece2cc7"
+      }
+    },
+    {
+      "chunk_id": "emb_F026",
+      "text": "Vishwashanti Gurukul World School (VGWS): All reissued IB certificates are signed by Olli-Pekka Heinonen, Director General (Geneva).",
+      "metadata": {
+        "fact_id": "F026",
+        "category": "ib",
+        "section": "2.2",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "c48fb82de90b20ea"
+      }
+    },
+    {
+      "chunk_id": "emb_F027",
+      "text": "Vishwashanti Gurukul World School (VGWS): The Diploma Programme (May 2006) is the earliest IB programme authorized at the school.",
+      "metadata": {
+        "fact_id": "F027",
+        "category": "ib",
+        "section": "6-Identity Q10",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "94693e00a29ad9ef"
+      }
+    },
+    {
+      "chunk_id": "emb_F028",
+      "text": "Vishwashanti Gurukul World School (VGWS): The school offers four distinct IB programmes: PYP, MYP, DP, and CP.",
+      "metadata": {
+        "fact_id": "F028",
+        "category": "ib",
+        "section": "6-Curriculum Q15",
+        "page": 5,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "57683eef3164f281"
+      }
+    },
+    {
+      "chunk_id": "emb_F029",
+      "text": "Vishwashanti Gurukul World School (VGWS): The school is authorized for IB for Standard I through Standard XII.",
+      "metadata": {
+        "fact_id": "F029",
+        "category": "ib",
+        "section": "6-Curriculum Q10",
+        "page": 5,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "fbf2d759a43ab99a"
+      }
+    },
+    {
+      "chunk_id": "emb_F030",
+      "text": "Vishwashanti Gurukul World School (VGWS): Original IB certificates feature a hologram and a watermark for authenticity verification.",
+      "metadata": {
+        "fact_id": "F030",
+        "category": "ib",
+        "section": "6-Curriculum Q14",
+        "page": 5,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "c5f3af913f6efb7f"
+      }
+    },
+    {
+      "chunk_id": "emb_F031",
+      "text": "Vishwashanti Gurukul World School (VGWS): The PYP covers the Primary Education Framework.",
+      "metadata": {
+        "fact_id": "F031",
+        "category": "ib",
+        "section": "2.2",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "8eaf150d73f418c3"
+      }
+    },
+    {
+      "chunk_id": "emb_F032",
+      "text": "Vishwashanti Gurukul World School (VGWS): The DP covers the Pre-university Academic Framework.",
+      "metadata": {
+        "fact_id": "F032",
+        "category": "ib",
+        "section": "2.2",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "7015cc9452485a9f"
+      }
+    },
+    {
+      "chunk_id": "emb_F033",
+      "text": "Vishwashanti Gurukul World School (VGWS): The CP covers the Vocational/Career-focused Framework.",
+      "metadata": {
+        "fact_id": "F033",
+        "category": "ib",
+        "section": "2.2",
+        "page": 1,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "720d48cfb7c673b6"
+      }
+    },
+    {
+      "chunk_id": "emb_F034",
+      "text": "Vishwashanti Gurukul World School (VGWS): The foundational benefits of the IB Continuum are a visionary approach to education and holistic student development.",
+      "metadata": {
+        "fact_id": "F034",
+        "category": "ib",
+        "section": "6-Curriculum Q12",
+        "page": 5,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "ee9f3ed065c7acdf"
+      }
+    },
+    {
+      "chunk_id": "emb_F040",
+      "text": "Vishwashanti Gurukul World School (VGWS): The institution operates under a No Objection Certificate (NOC) for the IB curriculum issued by the School Education and Sports Department, Government of Maharashtra.",
+      "metadata": {
+        "fact_id": "F040",
+        "category": "regulatory",
+        "section": "3.1",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "a97eabb9832c05b0"
+      }
+    },
+    {
+      "chunk_id": "emb_F041",
+      "text": "Vishwashanti Gurukul World School (VGWS): The NOC reference number is NOC-4023/C.R.No.263/SM-3.",
+      "metadata": {
+        "fact_id": "F041",
+        "category": "regulatory",
+        "section": "3.1",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "3860b87cdc0a647e"
+      }
+    },
+    {
+      "chunk_id": "emb_F042",
+      "text": "Vishwashanti Gurukul World School (VGWS): The NOC was issued on January 12, 2024 and expires on January 11, 2027 (valid for three years).",
+      "metadata": {
+        "fact_id": "F042",
+        "category": "regulatory",
+        "section": "3.1",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "f65355990236b94d"
+      }
+    },
+    {
+      "chunk_id": "emb_F043",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 1: Adherence to Sections 18 and 19 of the Right of Children to Free and Compulsory Education Act, 2009.",
+      "metadata": {
+        "fact_id": "F043",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "be9d67d7a60006bc"
+      }
+    },
+    {
+      "chunk_id": "emb_F044",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 2: Strict adherence to Section 12(1)(C) of the RTE Act, 2009 and Maharashtra RTE Rules 2011 (reserved seats).",
+      "metadata": {
+        "fact_id": "F044",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "7baeec978238faf1"
+      }
+    },
+    {
+      "chunk_id": "emb_F045",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 3: Mandatory integration of 'Divyang' (Special Needs) students in every class, per Resolution No. Mise 2015/(119-A)/SD-6 dated 8th January 2016.",
+      "metadata": {
+        "fact_id": "F045",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "f8a9844583452534"
+      }
+    },
+    {
+      "chunk_id": "emb_F046",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 4: Compliance with all state Educational Acts, Rules, and Policies issued periodically.",
+      "metadata": {
+        "fact_id": "F046",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "a59458156b60c113"
+      }
+    },
+    {
+      "chunk_id": "emb_F047",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 5: Mandatory use of State Board or respective Board curriculum for Standard I to VIII.",
+      "metadata": {
+        "fact_id": "F047",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "510fce707d22dc9f"
+      }
+    },
+    {
+      "chunk_id": "emb_F048",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 6: Compulsory instruction of the Marathi language as a subject from Standard I to X.",
+      "metadata": {
+        "fact_id": "F048",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "df8f286cd5eb9b5d"
+      }
+    },
+    {
+      "chunk_id": "emb_F049",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 7: Staff salaries must meet or exceed Schedule 'C' of the Maharashtra Employees of Private Schools (Conditions of Service) Regulation Act, 1981.",
+      "metadata": {
+        "fact_id": "F049",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "0614400ab1f7613b"
+      }
+    },
+    {
+      "chunk_id": "emb_F050",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 8: Compliance with traffic/safety guidelines and fire protection codes per the National Building Code of India, Part-IV Fire 1997.",
+      "metadata": {
+        "fact_id": "F050",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "07cc5dde2782b769"
+      }
+    },
+    {
+      "chunk_id": "emb_F051",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 9: Mandatory conduct of 3 tests annually for students up to Standard VIII, with achievement data recorded in the SARAL database.",
+      "metadata": {
+        "fact_id": "F051",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "a6c8c279973a9fef"
+      }
+    },
+    {
+      "chunk_id": "emb_F052",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 10: Regular child-wise data entry into SARAL and U-DISE as demanded by State Authorities.",
+      "metadata": {
+        "fact_id": "F052",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "b045f8605a7382b8"
+      }
+    },
+    {
+      "chunk_id": "emb_F053",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 11: Compliance with the Maharashtra Educational Institutions (Regulation of Fees) Act, 2011.",
+      "metadata": {
+        "fact_id": "F053",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "6c291a3f8f1fed07"
+      }
+    },
+    {
+      "chunk_id": "emb_F054",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 12: Compulsory teaching of Indian History and specifically History related to Maharashtra.",
+      "metadata": {
+        "fact_id": "F054",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 2,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "d40a2d05a201e93b"
+      }
+    },
+    {
+      "chunk_id": "emb_F055",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 13: Formation of a Complaint Redressal Committee per the Woman and Child Department government resolution dated 19.6.2014.",
+      "metadata": {
+        "fact_id": "F055",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "0236558a0e7407be"
+      }
+    },
+    {
+      "chunk_id": "emb_F056",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 14: The fee structure must be published on the official Government RTE portal.",
+      "metadata": {
+        "fact_id": "F056",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "38d8f710d6f16ffe"
+      }
+    },
+    {
+      "chunk_id": "emb_F057",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 15: Compulsory entry of student Aadhar Numbers into the SARAL portal.",
+      "metadata": {
+        "fact_id": "F057",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "079493b037f6b517"
+      }
+    },
+    {
+      "chunk_id": "emb_F058",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 16: The State retains the right to withdraw the NOC at any time without notice for rule deviation.",
+      "metadata": {
+        "fact_id": "F058",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "69db5e77f91b35c1"
+      }
+    },
+    {
+      "chunk_id": "emb_F059",
+      "text": "Vishwashanti Gurukul World School (VGWS): NOC Condition 17: Binding requirement to implement CBSE/ICSE/other board syllabi step-by-step if future affiliation is intended.",
+      "metadata": {
+        "fact_id": "F059",
+        "category": "regulatory",
+        "section": "3.2",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "0c011d39905c1c83"
+      }
+    },
+    {
+      "chunk_id": "emb_F060",
+      "text": "Vishwashanti Gurukul World School (VGWS): Safety compliance follows guidelines from Police, Fire Services, and the Transport Department.",
+      "metadata": {
+        "fact_id": "F060",
+        "category": "regulatory",
+        "section": "6-Misc Q1",
+        "page": 6,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "34002c82c0c11f63"
+      }
+    },
+    {
+      "chunk_id": "emb_F070",
+      "text": "Vishwashanti Gurukul World School (VGWS): AY 2022-23: At the 24th World Education Summit (Hyderabad), the school received the 'Excellence in International Curriculum Practices' award.",
+      "metadata": {
+        "fact_id": "F070",
+        "category": "awards",
+        "section": "4.1",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "0eba0e60c5809d0d"
+      }
+    },
+    {
+      "chunk_id": "emb_F071",
+      "text": "Vishwashanti Gurukul World School (VGWS): The 2022 Hyderabad award was received by Mr. Udayan Verma (Head of Admissions and Outreach).",
+      "metadata": {
+        "fact_id": "F071",
+        "category": "awards",
+        "section": "4.1",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "63820e7402c8df7e"
+      }
+    },
+    {
+      "chunk_id": "emb_F072",
+      "text": "Vishwashanti Gurukul World School (VGWS): The 2022 Hyderabad award was presented by Mr. Augus P Saptoo (Consul General of Indonesia) and Shri Navin Mittal (Commissioner, Collegiate and Technical Education, Telangana).",
+      "metadata": {
+        "fact_id": "F072",
+        "category": "awards",
+        "section": "4.1",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "08b9d0395a6f8aa6"
+      }
+    },
+    {
+      "chunk_id": "emb_F073",
+      "text": "Vishwashanti Gurukul World School (VGWS): AY 2022-23: Silicon India recognized the school among the 'Top 10 Most Promising Residential Schools' in India.",
+      "metadata": {
+        "fact_id": "F073",
+        "category": "awards",
+        "section": "4.1",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "a6ffb5e7c681cbd5"
+      }
+    },
+    {
+      "chunk_id": "emb_F074",
+      "text": "Vishwashanti Gurukul World School (VGWS): AY 2023-24: Education World India School Rankings ranked the school No. 4 in India and No. 2 in Maharashtra (International Residential Schools category).",
+      "metadata": {
+        "fact_id": "F074",
+        "category": "awards",
+        "section": "4.2",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "d13505a77309a2b2"
+      }
+    },
+    {
+      "chunk_id": "emb_F075",
+      "text": "Vishwashanti Gurukul World School (VGWS): AY 2023-24: Insight Success featured the school as a 'Place for modern value education'.",
+      "metadata": {
+        "fact_id": "F075",
+        "category": "awards",
+        "section": "4.2",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "412d09c5aadfbd91"
+      }
+    },
+    {
+      "chunk_id": "emb_F076",
+      "text": "Vishwashanti Gurukul World School (VGWS): AY 2023-24: National Geographic (NATGEO) selected the school for an exclusive showcase titled 'The Future School', highlighting visionary educational approaches.",
+      "metadata": {
+        "fact_id": "F076",
+        "category": "awards",
+        "section": "4.2",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "db5aa1935be6a6ed"
+      }
+    },
+    {
+      "chunk_id": "emb_F077",
+      "text": "Vishwashanti Gurukul World School (VGWS): AY 2024-25: Education World awarded the school the title 'School of the Year 2024-25' for excellence in academic brilliance and student well-being.",
+      "metadata": {
+        "fact_id": "F077",
+        "category": "awards",
+        "section": "4.3",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "c0284d9e9397a8a9"
+      }
+    },
+    {
+      "chunk_id": "emb_F078",
+      "text": "Vishwashanti Gurukul World School (VGWS): AY 2024-25: E News Network conferred the 'Dynamic Schools 2024' award at the Maharashtra Educators' Summit & Awards.",
+      "metadata": {
+        "fact_id": "F078",
+        "category": "awards",
+        "section": "4.3",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "87b9e860b68fee3b"
+      }
+    },
+    {
+      "chunk_id": "emb_F079",
+      "text": "Vishwashanti Gurukul World School (VGWS): The 'Dynamic Schools 2024' award recognizes exemplary contribution to education in Maharashtra.",
+      "metadata": {
+        "fact_id": "F079",
+        "category": "awards",
+        "section": "6-Accolades Q9",
+        "page": 6,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "1f75c39ac275f612"
+      }
+    },
+    {
+      "chunk_id": "emb_F080",
+      "text": "Vishwashanti Gurukul World School (VGWS): AY 2025-26: Education Today Merit Awards ranked the school No. 2 in Maharashtra and No. 2 in Pune (Boarding Schools category).",
+      "metadata": {
+        "fact_id": "F080",
+        "category": "awards",
+        "section": "4.4",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "b0972ba0c729f3ad"
+      }
+    },
+    {
+      "chunk_id": "emb_F081",
+      "text": "Vishwashanti Gurukul World School (VGWS): AY 2025-26: Education World India School Rankings ranked the school No. 4 in India and No. 1 in Maharashtra (International Residential Schools category).",
+      "metadata": {
+        "fact_id": "F081",
+        "category": "awards",
+        "section": "4.4",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "253b97186d5be499"
+      }
+    },
+    {
+      "chunk_id": "emb_F082",
+      "text": "Vishwashanti Gurukul World School (VGWS): AY 2025-26: The New Age Summit 2026 conferred the \"Best India's International Day and Residential School\" award.",
+      "metadata": {
+        "fact_id": "F082",
+        "category": "awards",
+        "section": "4.4",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "a978387a566d9c63"
+      }
+    },
+    {
+      "chunk_id": "emb_F090",
+      "text": "Vishwashanti Gurukul World School (VGWS): Official YouTube channel: www.youtube.com/@Mitgurukulpune",
+      "metadata": {
+        "fact_id": "F090",
+        "category": "social",
+        "section": "5",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "058c0eed59061e7b"
+      }
+    },
+    {
+      "chunk_id": "emb_F091",
+      "text": "Vishwashanti Gurukul World School (VGWS): Official Facebook page: https://www.facebook.com/share/1DMrmpAAGJ/",
+      "metadata": {
+        "fact_id": "F091",
+        "category": "social",
+        "section": "5",
+        "page": 3,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "adf359a233c372cb"
+      }
+    },
+    {
+      "chunk_id": "emb_F092",
+      "text": "Vishwashanti Gurukul World School (VGWS): Official Instagram: https://www.instagram.com/mitgurukulofficial",
+      "metadata": {
+        "fact_id": "F092",
+        "category": "social",
+        "section": "5",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "0126957b2cbc6fd3"
+      }
+    },
+    {
+      "chunk_id": "emb_F093",
+      "text": "Vishwashanti Gurukul World School (VGWS): LinkedIn professional profile: https://www.linkedin.com/in/mit-vishwashanti-gurukul-8a3460218",
+      "metadata": {
+        "fact_id": "F093",
+        "category": "social",
+        "section": "5",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "17470a19bf3ce596"
+      }
+    },
+    {
+      "chunk_id": "emb_F094",
+      "text": "Vishwashanti Gurukul World School (VGWS): LinkedIn institutional page: https://www.linkedin.com/company/mitgurukulofficial/",
+      "metadata": {
+        "fact_id": "F094",
+        "category": "social",
+        "section": "5",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "5d344d2dad895584"
+      }
+    },
+    {
+      "chunk_id": "emb_F095",
+      "text": "Vishwashanti Gurukul World School (VGWS): Official X (Twitter): https://x.com/MITGurukulOff",
+      "metadata": {
+        "fact_id": "F095",
+        "category": "social",
+        "section": "5",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "900ae07113831193"
+      }
+    },
+    {
+      "chunk_id": "emb_F100",
+      "text": "Vishwashanti Gurukul World School (VGWS): All data points in the master document are derived exclusively from the provided source context; no external geographical data or unverified rankings were included.",
+      "metadata": {
+        "fact_id": "F100",
+        "category": "governance",
+        "section": "8",
+        "page": 7,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "d10bf83835e79fda"
+      }
+    },
+    {
+      "chunk_id": "emb_F101",
+      "text": "Vishwashanti Gurukul World School (VGWS): All rankings in the master document are categorized by school category as per official records.",
+      "metadata": {
+        "fact_id": "F101",
+        "category": "governance",
+        "section": "8",
+        "page": 7,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "7986351bed47c94f"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ01",
+      "text": "Q: What is the full official nomenclature of the institution? A: Vishwashanti Gurukul World School. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ01",
+        "category": "faq",
+        "faq_category": "Identity & Background",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "c93e4ffb2c0e9d9a"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ02",
+      "text": "Q: Which legal entity governs the school? A: Maharashtra Academy of Engineering and Educational Research (MAEER). (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ02",
+        "category": "faq",
+        "faq_category": "Identity & Background",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "91b221e3bea4fe4b"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ03",
+      "text": "Q: Where is the physical campus located? A: At. Rajbaug, Loni Kalbhor, District Pune. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ03",
+        "category": "faq",
+        "faq_category": "Identity & Background",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "6329582674bd3e62"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ04",
+      "text": "Q: What is the total area of the institutional grounds? A: 125 acres. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ04",
+        "category": "faq",
+        "faq_category": "Identity & Background",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "f87ebc1d8eaf244f"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ05",
+      "text": "Q: Why was the 'World School' suffix added to the branding? A: To clarify the school's status as an IB Continuum institution and prevent confusion with MAEER's CBSE or other MIT-branded entities. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ05",
+        "category": "faq",
+        "faq_category": "Identity & Background",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "e993a9fca607990f"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ06",
+      "text": "Q: Does the institution offer residential facilities? A: Yes, it is an International Day and Residential School. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ06",
+        "category": "faq",
+        "faq_category": "Identity & Background",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "34c53874158d44fb"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ07",
+      "text": "Q: Who is the current Head of School? A: Dr. Vidhukesh Vimal, Head of School. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ07",
+        "category": "faq",
+        "faq_category": "Identity & Background",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "e8e31b3f2f92f033"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ08",
+      "text": "Q: What is the registered address of the MAEER Trust? A: Survey No. 124, Kothrud Paud Road, Ex-Servicemen Colony, Pune-411 038. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ08",
+        "category": "faq",
+        "faq_category": "Identity & Background",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "5a1c1e8e7710a4fc"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ09",
+      "text": "Q: What is the primary pedagogical framework? A: The International Baccalaureate (IB). (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ09",
+        "category": "faq",
+        "faq_category": "Identity & Background",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "451823375cfc2e99"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ10",
+      "text": "Q: When was the earliest IB program authorized? A: The Diploma Programme (DP) was originally authorized in May 2006. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ10",
+        "category": "faq",
+        "faq_category": "Identity & Background",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "ecc4dc1a46c0c487"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ11",
+      "text": "Q: What programs comprise the school's 'IB Continuum' status? A: PYP, MYP, DP, and CP. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ11",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "d0a9f2d7ffefbb28"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ12",
+      "text": "Q: When was the PYP first authorized? A: April 2009. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ12",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "23070907facc2d3d"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ13",
+      "text": "Q: When was the MYP first authorized? A: April 2018. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ13",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "7d573794e0122d55"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ14",
+      "text": "Q: What is the original authorization date for the DP? A: May 2006. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ14",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "593f3b8c0fcf4cfa"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ15",
+      "text": "Q: When was the CP authorized? A: October 2025. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ15",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "2fde107c7db5629d"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ16",
+      "text": "Q: Which year groups does the MYP cover? A: Years 1, 2, 3, 4, and 5. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ16",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "2d2fa0a230752396"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ17",
+      "text": "Q: When were current IB certificates reissued? A: November 2025. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ17",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "12f2d2426ae1ea25"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ18",
+      "text": "Q: Who is the signatory for current IB authorizations? A: Olli-Pekka Heinonen, Director General. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ18",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "57f557c1f81410b5"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ19",
+      "text": "Q: Where is the IB headquarters located for certification purposes? A: Geneva. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ19",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "2a16f3d948f81019"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ20",
+      "text": "Q: Is the IB curriculum used for all grades? A: The school is authorized for IB for Std. I through Std. XII. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ20",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "6784a6a0033db6c4"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ21",
+      "text": "Q: Has the school been recognized for its IB implementation? A: Yes, it received the 'Excellence in International Curriculum Practices' award in 2022. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ21",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "34b52161f8455bc2"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ22",
+      "text": "Q: What are the foundational benefits of the IB Continuum? A: A visionary approach to education and holistic student development. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ22",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "53b6e4312d985a16"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ23",
+      "text": "Q: Is the Career-related Programme (CP) currently active? A: Yes, it was authorized in October 2025. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ23",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "aac8aa7de35b2223"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ24",
+      "text": "Q: How are IB certificates verified for authenticity? A: Original certificates feature a hologram and a watermark. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ24",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "58f3a309230ba60e"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ25",
+      "text": "Q: How many distinct IB programs are offered? A: Four (PYP, MYP, DP, and CP). (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ25",
+        "category": "faq",
+        "faq_category": "Curriculum & IB",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "f3e991224f6f5611"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ26",
+      "text": "Q: What is the status of the school's state recognition? A: It holds a valid No Objection Certificate (NOC) from the Government of Maharashtra. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ26",
+        "category": "faq",
+        "faq_category": "Regulatory & Admissions",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "ee9177f387eba8dc"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ27",
+      "text": "Q: Is Marathi instruction mandatory? A: Yes, as a subject from Std I to X. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ27",
+        "category": "faq",
+        "faq_category": "Regulatory & Admissions",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "11bdb77068a4157c"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ28",
+      "text": "Q: What is the regulatory requirement for inclusive education? A: 'Divyang' children must be integrated into every class. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ28",
+        "category": "faq",
+        "faq_category": "Regulatory & Admissions",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "5d56585e1eda9696"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ29",
+      "text": "Q: What is the mandate regarding regional history? A: History of Maharashtra must be taught. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ29",
+        "category": "faq",
+        "faq_category": "Regulatory & Admissions",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "2790b2d870b92741"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ30",
+      "text": "Q: Where is the fee structure publicly disclosed? A: On the Government's RTE portal. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ30",
+        "category": "faq",
+        "faq_category": "Regulatory & Admissions",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "90d469b9bcf019a9"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ31",
+      "text": "Q: Does the school follow the RTE Act 2009? A: Yes, as mandated by NOC conditions 1 and 2. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ31",
+        "category": "faq",
+        "faq_category": "Regulatory & Admissions",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "9486b33e97c21624"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ32",
+      "text": "Q: How is student data tracked by the state? A: Through the SARAL and U-DISE databases. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ32",
+        "category": "faq",
+        "faq_category": "Regulatory & Admissions",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "b2e0f390ae908711"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ33",
+      "text": "Q: Under what conditions can the NOC be revoked? A: If there is any deviation from state rules or instructions, without prior notice. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ33",
+        "category": "faq",
+        "faq_category": "Regulatory & Admissions",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "725294fe8fdd3fdc"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ34",
+      "text": "Q: What was the school's Education World rank for 2023-24? A: No. 4 in India and No. 2 in Maharashtra. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ34",
+        "category": "faq",
+        "faq_category": "Accolades & Facilities",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "620ca18bc8fa3588"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ35",
+      "text": "Q: What was the Education World rank for 2025-26? A: No. 4 in India and No. 1 in Maharashtra. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ35",
+        "category": "faq",
+        "faq_category": "Accolades & Facilities",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "0eaefae1f48f4993"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ36",
+      "text": "Q: Who received the 24th World Education Summit award for the school? A: Mr. Udayan Verma. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ36",
+        "category": "faq",
+        "faq_category": "Accolades & Facilities",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "fc5af1d54a788450"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ37",
+      "text": "Q: In which NATGEO program was the school featured? A: 'The Future School.' (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ37",
+        "category": "faq",
+        "faq_category": "Accolades & Facilities",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "b2cc8320e53f55fe"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ38",
+      "text": "Q: When was the 'School of the Year' title awarded? A: 2024-25. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ38",
+        "category": "faq",
+        "faq_category": "Accolades & Facilities",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "5babc58901415883"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ39",
+      "text": "Q: What was the Silicon India ranking achievement? A: Top 10 Most Promising Residential Schools (2022). (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ39",
+        "category": "faq",
+        "faq_category": "Accolades & Facilities",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "7117e3cea5ba71f0"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ40",
+      "text": "Q: What were the 2025 Education Today ranks? A: No. 2 in Maharashtra and No. 2 in Pune. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ40",
+        "category": "faq",
+        "faq_category": "Accolades & Facilities",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "d2d7474bb8bc9983"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ41",
+      "text": "Q: Which summit awarded the school in 2026? A: The New Age Summit. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ41",
+        "category": "faq",
+        "faq_category": "Accolades & Facilities",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "4daf949ae0494d2c"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ42",
+      "text": "Q: What is the significance of the 'Dynamic Schools 2024' award? A: It recognizes exemplary contribution to education in Maharashtra. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ42",
+        "category": "faq",
+        "faq_category": "Accolades & Facilities",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "5fee732516a9cd0c"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ43",
+      "text": "Q: How many sports disciplines are supported by the campus infrastructure? A: 20+ sports. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ43",
+        "category": "faq",
+        "faq_category": "Accolades & Facilities",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "2a7c1210294c0cff"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ44",
+      "text": "Q: How does the school ensure safety compliance? A: Following guidelines from Police, Fire Services, and the Transport Department. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ44",
+        "category": "faq",
+        "faq_category": "Miscellaneous",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "4272b7a0143cd9da"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ45",
+      "text": "Q: Does the school have a sexual harassment policy? A: Yes, a Complaint Redressal Committee is formed as per state mandates. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ45",
+        "category": "faq",
+        "faq_category": "Miscellaneous",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "e173892aea02a6e3"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ46",
+      "text": "Q: Is student Aadhar registration required? A: Yes, registration on the SARAL portal is mandatory. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ46",
+        "category": "faq",
+        "faq_category": "Miscellaneous",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "d857f3209780eb4c"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ47",
+      "text": "Q: What is the Sanskrit motto on the official logo? A: tejasvinavadhitamastu (rendered in Devanagari on the official logo). (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ47",
+        "category": "faq",
+        "faq_category": "Miscellaneous",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "f6cf13e937f81073"
+      }
+    },
+    {
+      "chunk_id": "emb_FAQ48",
+      "text": "Q: Who presented the 2022 Hyderabad award? A: Mr. Augus P Saptoo and Shri Navin Mittal. (Vishwashanti Gurukul World School FAQ)",
+      "metadata": {
+        "fact_id": "FAQ48",
+        "category": "faq",
+        "faq_category": "Miscellaneous",
+        "section": "6",
+        "page": 4,
+        "confidence": 1.0,
+        "source": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+        "sha256": "8a74d0e036fdf90e"
+      }
+    }
+  ]
+}

@@ -1,100 +1,142 @@
 {
   "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "School",
-      "@id": "#vgws",
-      "name": "Vishwashanti Gurukul World School",
-      "description": "A multi-programme International Baccalaureate (IB) school authorized to deliver the full continuum of IB education, maintaining current authorization for four distinct programs: PYP, MYP (Years 1-5), DP, and CP.",
-      "hasCredential": [
-        {
-          "@id": "#credential-pyp"
-        },
-        {
-          "@id": "#credential-myp"
-        },
-        {
-          "@id": "#credential-dp"
-        },
-        {
-          "@id": "#credential-cp"
-        }
-      ]
-    },
-    {
-      "@type": "Organization",
-      "@id": "#ibo",
-      "name": "International Baccalaureate",
-      "alternateName": [
-        "IB",
-        "Baccalauréat International",
-        "Bachillerato Internacional"
-      ],
-      "employee": {
-        "@id": "#dg"
-      }
-    },
-    {
-      "@type": "Person",
-      "@id": "#dg",
-      "name": "Olli-Pekka Heinonen",
-      "jobTitle": "Director General of the International Baccalaureate",
-      "workLocation": {
-        "@type": "Place",
-        "name": "Geneva",
-        "alternateName": [
-          "Genève",
-          "Ginebra"
-        ]
-      }
-    },
-    {
-      "@type": "EducationalOccupationalCredential",
-      "@id": "#credential-pyp",
-      "name": "IB Primary Years Programme (PYP) Authorization",
-      "credentialCategory": "IB Programme Authorization",
-      "recognizedBy": {
-        "@id": "#ibo"
-      },
-      "dateCreated": "2009-04",
-      "validFrom": "2025-11",
-      "description": "Originally issued April 2009; Reissued November 2025. Hologram and watermark present."
-    },
-    {
-      "@type": "EducationalOccupationalCredential",
-      "@id": "#credential-myp",
-      "name": "IB Middle Years Programme (MYP) Authorization",
-      "credentialCategory": "IB Programme Authorization",
-      "recognizedBy": {
-        "@id": "#ibo"
-      },
-      "dateCreated": "2018-04",
-      "validFrom": "2025-11",
-      "educationalLevel": "Years 1, 2, 3, 4 and 5",
-      "description": "Specifically authorized for Years 1, 2, 3, 4, and 5. Originally issued April 2018; Reissued November 2025. Hologram and watermark present."
-    },
-    {
-      "@type": "EducationalOccupationalCredential",
-      "@id": "#credential-dp",
-      "name": "IB Diploma Programme (DP) Authorization",
-      "credentialCategory": "IB Programme Authorization",
-      "recognizedBy": {
-        "@id": "#ibo"
-      },
-      "dateCreated": "2006-05",
-      "validFrom": "2025-11",
-      "description": "Originally issued May 2006; Reissued November 2025. Hologram and watermark present."
-    },
-    {
-      "@type": "EducationalOccupationalCredential",
-      "@id": "#credential-cp",
-      "name": "IB Career-related Programme (CP) Authorization",
-      "credentialCategory": "IB Programme Authorization",
-      "recognizedBy": {
-        "@id": "#ibo"
-      },
-      "dateCreated": "2025-10",
-      "description": "Authorization Date: October 2025. This certificate does not list a separate reissue date. Hologram and watermark present."
+  "@type": [
+    "School",
+    "EducationalOrganization"
+  ],
+  "additionalType": [
+    "https://en.wikipedia.org/wiki/Boarding_school",
+    "https://en.wikipedia.org/wiki/International_school",
+    "IB World School",
+    "IB Continuum School"
+  ],
+  "name": "Vishwashanti Gurukul World School",
+  "alternateName": [
+    "VGWS",
+    "MIT Vishwashanti Gurukul",
+    "MIT Vishwashanti Gurukul, Pune",
+    "MIT Gurukul",
+    "Vishwashanti Gurukul",
+    "MIT VGWS"
+  ],
+  "legalName": "Vishwashanti Gurukul World School",
+  "url": "https://mitgurukul.com",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://mitgurukul.com/logo.png",
+    "caption": "Official logo bearing the Sanskrit motto ॥ तेजस्विनावधीतमस्तु ॥",
+    "comment": "PLACEHOLDER PATH — replace with the live canonical logo URL before publishing"
+  },
+  "slogan": "॥ तेजस्विनावधीतमस्तु ॥",
+  "description": "An IB Continuum World School offering PYP, MYP, DP, and CP on a 125-acre green campus in Pune, India. International Day and Residential School governed by MAEER.",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Pune, Maharashtra, India"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "At. Rajbaug, Loni Kalbhor",
+    "addressLocality": "Pune",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "TO_VERIFY",
+    "longitude": "TO_VERIFY",
+    "comment": "Coordinates not present in source document — populate from Google Business Profile before publishing"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Admissions",
+    "url": "https://mitgurukul.com",
+    "comment": "Phone/email not present in source document — populate from official website before publishing"
+  },
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "Maharashtra Academy of Engineering and Educational Research (MAEER)",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Survey No. 124, Kothrud Paud Road, Ex-Servicemen Colony",
+      "addressLocality": "Pune",
+      "addressRegion": "Maharashtra",
+      "postalCode": "411038",
+      "addressCountry": "IN"
     }
-  ]
+  },
+  "employee": {
+    "@type": "Person",
+    "name": "Dr. Vidhukesh Vimal",
+    "jobTitle": "Head of School"
+  },
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "IB Primary Years Programme Authorization",
+      "dateCreated": "2009-04",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "International Baccalaureate Organization"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "IB Middle Years Programme Authorization (Years 1-5)",
+      "dateCreated": "2018-04",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "International Baccalaureate Organization"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "IB Diploma Programme Authorization",
+      "dateCreated": "2006-05",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "International Baccalaureate Organization"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "IB Career-related Programme Authorization",
+      "dateCreated": "2025-10",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "International Baccalaureate Organization"
+      }
+    },
+    {
+      "@type": "GovernmentPermit",
+      "name": "Government of Maharashtra NOC for IB Curriculum",
+      "identifier": "NOC-4023/C.R.No.263/SM-3",
+      "validFrom": "2024-01-12",
+      "validThrough": "2027-01-11"
+    }
+  ],
+  "award": [
+    "Excellence in International Curriculum Practices — 24th World Education Summit, Hyderabad (2022-23)",
+    "Top 10 Most Promising Residential Schools, India — Silicon India (2022-23)",
+    "Education World India School Rankings: No. 4 India, No. 2 Maharashtra — International Residential Schools (2023-24)",
+    "NATGEO exclusive showcase 'The Future School' (2023-24)",
+    "Education World 'School of the Year 2024-25'",
+    "Dynamic Schools 2024 — E News Network, Maharashtra Educators' Summit & Awards",
+    "Education Today Merit Awards: No. 2 Maharashtra, No. 2 Pune — Boarding Schools (2025-26)",
+    "Education World India School Rankings: No. 4 India, No. 1 Maharashtra — International Residential Schools (2025-26)",
+    "Best India's International Day and Residential School — New Age Summit 2026"
+  ],
+  "sameAs": [
+    "https://www.youtube.com/@Mitgurukulpune",
+    "https://www.facebook.com/share/1DMrmpAAGJ/",
+    "https://www.instagram.com/mitgurukulofficial",
+    "https://www.linkedin.com/company/mitgurukulofficial/",
+    "https://www.linkedin.com/in/mit-vishwashanti-gurukul-8a3460218",
+    "https://x.com/MITGurukulOff"
+  ],
+  "areaServed": "India and international (day and residential students)",
+  "amenityFeature": {
+    "@type": "LocationFeatureSpecification",
+    "name": "125-acre green campus; 20+ sports disciplines"
+  },
+  "dateModified": "2026-07-13"
 }

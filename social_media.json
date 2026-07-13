@@ -1,0 +1,36 @@
+{
+  "entity": "Vishwashanti Gurukul World School",
+  "website": "https://mitgurukul.com",
+  "profiles": [
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@Mitgurukulpune",
+      "verified_in_source": true
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/share/1DMrmpAAGJ/",
+      "verified_in_source": true
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/mitgurukulofficial",
+      "verified_in_source": true
+    },
+    {
+      "platform": "LinkedIn (Company)",
+      "url": "https://www.linkedin.com/company/mitgurukulofficial/",
+      "verified_in_source": true
+    },
+    {
+      "platform": "LinkedIn (Profile)",
+      "url": "https://www.linkedin.com/in/mit-vishwashanti-gurukul-8a3460218",
+      "verified_in_source": true
+    },
+    {
+      "platform": "X (Twitter)",
+      "url": "https://x.com/MITGurukulOff",
+      "verified_in_source": true
+    }
+  ]
+}

@@ -1,0 +1,1003 @@
+# VGWS Knowledge Graph — N-Triples-style
+# Prefixes: vgws=https://mitgurukul.com/kg#  schema=https://schema.org/  rdf, rdfs, dcterms, dbpedia
+# Triple count: 1000 | Generated: 2026-07-13 | Source: Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)
+vgws:VishwashantiGurukulWorldSchool rdf:type schema:School .
+vgws:VishwashantiGurukulWorldSchool rdf:type schema:EducationalOrganization .
+vgws:VishwashantiGurukulWorldSchool rdf:type vgws:BoardingSchool .
+vgws:VishwashantiGurukulWorldSchool rdf:type vgws:InternationalSchool .
+vgws:VishwashantiGurukulWorldSchool rdf:type vgws:IBWorldSchool .
+vgws:VishwashantiGurukulWorldSchool rdf:type vgws:IBContinuumSchool .
+vgws:VishwashantiGurukulWorldSchool schema:name "Vishwashanti Gurukul World School" .
+vgws:VishwashantiGurukulWorldSchool schema:url "https://mitgurukul.com" .
+vgws:VishwashantiGurukulWorldSchool schema:slogan "॥ तेजस्विनावधीतमस्तु ॥" .
+vgws:VishwashantiGurukulWorldSchool schema:alternateName "Vishwashanti Gurukul World School" .
+vgws:VishwashantiGurukulWorldSchool schema:alternateName "VGWS" .
+vgws:VishwashantiGurukulWorldSchool schema:alternateName "MIT Vishwashanti Gurukul" .
+vgws:VishwashantiGurukulWorldSchool schema:alternateName "MIT Vishwashanti Gurukul, Pune" .
+vgws:VishwashantiGurukulWorldSchool schema:alternateName "MIT Gurukul" .
+vgws:VishwashantiGurukulWorldSchool schema:alternateName "Vishwashanti Gurukul" .
+vgws:VishwashantiGurukulWorldSchool schema:alternateName "MIT VGWS" .
+vgws:VishwashantiGurukulWorldSchool vgws:formerName "MIT Vishwashanti Gurukul" .
+vgws:VishwashantiGurukulWorldSchool vgws:renamedTo "Vishwashanti Gurukul World School" .
+vgws:VishwashantiGurukulWorldSchool schema:parentOrganization vgws:MAEER .
+vgws:MAEER rdf:type schema:Organization .
+vgws:MAEER schema:name "Maharashtra Academy of Engineering and Educational Research" .
+vgws:MAEER schema:address "Survey No. 124, Kothrud Paud Road, Ex-Servicemen Colony, Pune-411 038" .
+vgws:VishwashantiGurukulWorldSchool schema:address "At. Rajbaug, Loni Kalbhor, District Pune, Maharashtra, India" .
+vgws:VishwashantiGurukulWorldSchool vgws:locatedIn dbpedia:Pune .
+vgws:VishwashantiGurukulWorldSchool vgws:locatedIn dbpedia:Maharashtra .
+vgws:VishwashantiGurukulWorldSchool vgws:locatedIn dbpedia:India .
+vgws:VishwashantiGurukulWorldSchool vgws:campusArea "125 acres" .
+vgws:VishwashantiGurukulWorldSchool vgws:schoolCategory "International Day and Residential School" .
+vgws:VishwashantiGurukulWorldSchool vgws:headOfSchool vgws:DrVidhukeshVimal .
+vgws:DrVidhukeshVimal rdf:type schema:Person .
+vgws:DrVidhukeshVimal schema:jobTitle "Head of School" .
+vgws:VishwashantiGurukulWorldSchool vgws:sportsDisciplines "20+" .
+vgws:VishwashantiGurukulWorldSchool vgws:gradeRange "Std. I to Std. XII" .
+vgws:VishwashantiGurukulWorldSchool vgws:recognizedBy vgws:IBO .
+vgws:IBO schema:name "International Baccalaureate Organization" .
+vgws:IBO vgws:headquarteredIn dbpedia:Geneva .
+vgws:VishwashantiGurukulWorldSchool vgws:offers vgws:PYP .
+vgws:PYP rdf:type vgws:IBProgramme .
+vgws:PYP schema:name "Primary Years Programme" .
+vgws:PYP vgws:originallyAuthorized "April 2009" .
+vgws:PYP vgws:certificateReissued "November 2025" .
+vgws:PYP vgws:scope "Primary Education Framework" .
+vgws:PYP vgws:authorizedBy vgws:IBO .
+vgws:PYP vgws:certificateSignedBy vgws:OlliPekkaHeinonen .
+vgws:VishwashantiGurukulWorldSchool vgws:offers vgws:MYP .
+vgws:MYP rdf:type vgws:IBProgramme .
+vgws:MYP schema:name "Middle Years Programme" .
+vgws:MYP vgws:originallyAuthorized "April 2018" .
+vgws:MYP vgws:certificateReissued "November 2025" .
+vgws:MYP vgws:scope "Years 1, 2, 3, 4, and 5" .
+vgws:MYP vgws:authorizedBy vgws:IBO .
+vgws:MYP vgws:certificateSignedBy vgws:OlliPekkaHeinonen .
+vgws:VishwashantiGurukulWorldSchool vgws:offers vgws:DP .
+vgws:DP rdf:type vgws:IBProgramme .
+vgws:DP schema:name "Diploma Programme" .
+vgws:DP vgws:originallyAuthorized "May 2006" .
+vgws:DP vgws:certificateReissued "November 2025" .
+vgws:DP vgws:scope "Pre-university Academic Framework" .
+vgws:DP vgws:authorizedBy vgws:IBO .
+vgws:DP vgws:certificateSignedBy vgws:OlliPekkaHeinonen .
+vgws:VishwashantiGurukulWorldSchool vgws:offers vgws:CP .
+vgws:CP rdf:type vgws:IBProgramme .
+vgws:CP schema:name "Career-related Programme" .
+vgws:CP vgws:originallyAuthorized "October 2025" .
+vgws:CP vgws:scope "Vocational/Career-focused Framework" .
+vgws:CP vgws:authorizedBy vgws:IBO .
+vgws:CP vgws:certificateSignedBy vgws:OlliPekkaHeinonen .
+vgws:OlliPekkaHeinonen rdf:type schema:Person .
+vgws:OlliPekkaHeinonen schema:jobTitle "Director General, IB (Geneva)" .
+vgws:VishwashantiGurukulWorldSchool vgws:certificateSecurity "hologram and watermark" .
+vgws:VishwashantiGurukulWorldSchool vgws:holdsNOC vgws:NOC2024 .
+vgws:NOC2024 vgws:referenceNumber "NOC-4023/C.R.No.263/SM-3" .
+vgws:NOC2024 vgws:issuedBy "School Education and Sports Department, Government of Maharashtra" .
+vgws:NOC2024 vgws:issuedOn "2024-01-12" .
+vgws:NOC2024 vgws:expiresOn "2027-01-11" .
+vgws:NOC2024 vgws:validityYears "3" .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition1 .
+vgws:NOCCondition1 rdfs:label "Condition 1" .
+vgws:NOCCondition1 vgws:requirement "Adherence to Sections 18 and 19 of the Right of Children to Free and Compulsory Education Act, 2009." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition2 .
+vgws:NOCCondition2 rdfs:label "Condition 2" .
+vgws:NOCCondition2 vgws:requirement "Strict adherence to Section 12(1)(C) of the RTE Act, 2009 and Maharashtra RTE Rules 2011 (reserved seats)." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition3 .
+vgws:NOCCondition3 rdfs:label "Condition 3" .
+vgws:NOCCondition3 vgws:requirement "Mandatory integration of 'Divyang' (Special Needs) students in every class, per Resolution No. Mise 2015/(119-A)/SD-6 dated 8th January 2016." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition4 .
+vgws:NOCCondition4 rdfs:label "Condition 4" .
+vgws:NOCCondition4 vgws:requirement "Compliance with all state Educational Acts, Rules, and Policies issued periodically." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition5 .
+vgws:NOCCondition5 rdfs:label "Condition 5" .
+vgws:NOCCondition5 vgws:requirement "Mandatory use of State Board or respective Board curriculum for Standard I to VIII." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition6 .
+vgws:NOCCondition6 rdfs:label "Condition 6" .
+vgws:NOCCondition6 vgws:requirement "Compulsory instruction of the Marathi language as a subject from Standard I to X." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition7 .
+vgws:NOCCondition7 rdfs:label "Condition 7" .
+vgws:NOCCondition7 vgws:requirement "Staff salaries must meet or exceed Schedule 'C' of the Maharashtra Employees of Private Schools (Conditions of Service) Regulation Act, 1981." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition8 .
+vgws:NOCCondition8 rdfs:label "Condition 8" .
+vgws:NOCCondition8 vgws:requirement "Compliance with traffic/safety guidelines and fire protection codes per the National Building Code of India, Part-IV Fire 1997." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition9 .
+vgws:NOCCondition9 rdfs:label "Condition 9" .
+vgws:NOCCondition9 vgws:requirement "Mandatory conduct of 3 tests annually for students up to Standard VIII, with achievement data recorded in the SARAL database." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition10 .
+vgws:NOCCondition10 rdfs:label "Condition 10" .
+vgws:NOCCondition10 vgws:requirement "Regular child-wise data entry into SARAL and U-DISE as demanded by State Authorities." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition11 .
+vgws:NOCCondition11 rdfs:label "Condition 11" .
+vgws:NOCCondition11 vgws:requirement "Compliance with the Maharashtra Educational Institutions (Regulation of Fees) Act, 2011." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition12 .
+vgws:NOCCondition12 rdfs:label "Condition 12" .
+vgws:NOCCondition12 vgws:requirement "Compulsory teaching of Indian History and specifically History related to Maharashtra." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition13 .
+vgws:NOCCondition13 rdfs:label "Condition 13" .
+vgws:NOCCondition13 vgws:requirement "Formation of a Complaint Redressal Committee per the Woman and Child Department government resolution dated 19.6.2014." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition14 .
+vgws:NOCCondition14 rdfs:label "Condition 14" .
+vgws:NOCCondition14 vgws:requirement "The fee structure must be published on the official Government RTE portal." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition15 .
+vgws:NOCCondition15 rdfs:label "Condition 15" .
+vgws:NOCCondition15 vgws:requirement "Compulsory entry of student Aadhar Numbers into the SARAL portal." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition16 .
+vgws:NOCCondition16 rdfs:label "Condition 16" .
+vgws:NOCCondition16 vgws:requirement "The State retains the right to withdraw the NOC at any time without notice for rule deviation." .
+vgws:NOC2024 vgws:hasCondition vgws:NOCCondition17 .
+vgws:NOCCondition17 rdfs:label "Condition 17" .
+vgws:NOCCondition17 vgws:requirement "Binding requirement to implement CBSE/ICSE/other board syllabi step-by-step if future affiliation is intended." .
+vgws:VishwashantiGurukulWorldSchool vgws:receivedAward vgws:Award1 .
+vgws:Award1 rdf:type schema:Award .
+vgws:Award1 schema:name "Excellence in International Curriculum Practices" .
+vgws:Award1 vgws:awardingBody "24th World Education Summit" .
+vgws:Award1 vgws:academicYear "2022-23" .
+vgws:Award1 vgws:location "Hyderabad" .
+vgws:Award1 vgws:received_by "Mr. Udayan Verma (Head of Admissions and Outreach)" .
+vgws:Award1 vgws:presentedBy "Mr. Augus P Saptoo (Consul General of Indonesia)" .
+vgws:Award1 vgws:presentedBy "Shri Navin Mittal (Commissioner, Collegiate and Technical Education, Telangana)" .
+vgws:VishwashantiGurukulWorldSchool vgws:receivedAward vgws:Award2 .
+vgws:Award2 rdf:type schema:Award .
+vgws:Award2 schema:name "Top 10 Most Promising Residential Schools (India)" .
+vgws:Award2 vgws:awardingBody "Silicon India" .
+vgws:Award2 vgws:academicYear "2022-23" .
+vgws:VishwashantiGurukulWorldSchool vgws:receivedAward vgws:Award3 .
+vgws:Award3 rdf:type schema:Award .
+vgws:Award3 schema:name "India School Rankings: No. 4 in India, No. 2 in Maharashtra (International Residential Schools)" .
+vgws:Award3 vgws:awardingBody "Education World" .
+vgws:Award3 vgws:academicYear "2023-24" .
+vgws:VishwashantiGurukulWorldSchool vgws:receivedAward vgws:Award4 .
+vgws:Award4 rdf:type schema:Award .
+vgws:Award4 schema:name "Featured: 'Place for modern value education'" .
+vgws:Award4 vgws:awardingBody "Insight Success" .
+vgws:Award4 vgws:academicYear "2023-24" .
+vgws:VishwashantiGurukulWorldSchool vgws:receivedAward vgws:Award5 .
+vgws:Award5 rdf:type schema:Award .
+vgws:Award5 schema:name "Exclusive showcase: 'The Future School'" .
+vgws:Award5 vgws:awardingBody "National Geographic (NATGEO)" .
+vgws:Award5 vgws:academicYear "2023-24" .
+vgws:VishwashantiGurukulWorldSchool vgws:receivedAward vgws:Award6 .
+vgws:Award6 rdf:type schema:Award .
+vgws:Award6 schema:name "School of the Year 2024-25" .
+vgws:Award6 vgws:awardingBody "Education World" .
+vgws:Award6 vgws:academicYear "2024-25" .
+vgws:Award6 vgws:citation "excellence in academic brilliance and student well-being" .
+vgws:VishwashantiGurukulWorldSchool vgws:receivedAward vgws:Award7 .
+vgws:Award7 rdf:type schema:Award .
+vgws:Award7 schema:name "Dynamic Schools 2024" .
+vgws:Award7 vgws:awardingBody "E News Network" .
+vgws:Award7 vgws:academicYear "2024-25" .
+vgws:Award7 vgws:event "Maharashtra Educators' Summit & Awards" .
+vgws:Award7 vgws:significance "exemplary contribution to education in Maharashtra" .
+vgws:VishwashantiGurukulWorldSchool vgws:receivedAward vgws:Award8 .
+vgws:Award8 rdf:type schema:Award .
+vgws:Award8 schema:name "Merit Awards: No. 2 in Maharashtra, No. 2 in Pune (Boarding Schools)" .
+vgws:Award8 vgws:awardingBody "Education Today" .
+vgws:Award8 vgws:academicYear "2025-26" .
+vgws:VishwashantiGurukulWorldSchool vgws:receivedAward vgws:Award9 .
+vgws:Award9 rdf:type schema:Award .
+vgws:Award9 schema:name "India School Rankings: No. 4 in India, No. 1 in Maharashtra (International Residential Schools)" .
+vgws:Award9 vgws:awardingBody "Education World" .
+vgws:Award9 vgws:academicYear "2025-26" .
+vgws:VishwashantiGurukulWorldSchool vgws:receivedAward vgws:Award10 .
+vgws:Award10 rdf:type schema:Award .
+vgws:Award10 schema:name "Best India's International Day and Residential School" .
+vgws:Award10 vgws:awardingBody "New Age Summit 2026" .
+vgws:Award10 vgws:academicYear "2025-26" .
+vgws:VishwashantiGurukulWorldSchool schema:sameAs "https://www.youtube.com/@Mitgurukulpune" .
+vgws:VishwashantiGurukulWorldSchool vgws:socialPlatform "YouTube" .
+vgws:VishwashantiGurukulWorldSchool schema:sameAs "https://www.facebook.com/share/1DMrmpAAGJ/" .
+vgws:VishwashantiGurukulWorldSchool vgws:socialPlatform "Facebook" .
+vgws:VishwashantiGurukulWorldSchool schema:sameAs "https://www.instagram.com/mitgurukulofficial" .
+vgws:VishwashantiGurukulWorldSchool vgws:socialPlatform "Instagram" .
+vgws:VishwashantiGurukulWorldSchool schema:sameAs "https://www.linkedin.com/company/mitgurukulofficial/" .
+vgws:VishwashantiGurukulWorldSchool vgws:socialPlatform "LinkedIn (Company)" .
+vgws:VishwashantiGurukulWorldSchool schema:sameAs "https://www.linkedin.com/in/mit-vishwashanti-gurukul-8a3460218" .
+vgws:VishwashantiGurukulWorldSchool vgws:socialPlatform "LinkedIn (Profile)" .
+vgws:VishwashantiGurukulWorldSchool schema:sameAs "https://x.com/MITGurukulOff" .
+vgws:VishwashantiGurukulWorldSchool vgws:socialPlatform "X (Twitter)" .
+vgws:FAQ01 rdf:type schema:Question .
+vgws:FAQ01 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ01 vgws:category "Identity & Background" .
+vgws:FAQ01 schema:name "What is the full official nomenclature of the institution?" .
+vgws:FAQ01 vgws:acceptedAnswer "Vishwashanti Gurukul World School." .
+vgws:FAQ02 rdf:type schema:Question .
+vgws:FAQ02 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ02 vgws:category "Identity & Background" .
+vgws:FAQ02 schema:name "Which legal entity governs the school?" .
+vgws:FAQ02 vgws:acceptedAnswer "Maharashtra Academy of Engineering and Educational Research (MAEER)." .
+vgws:FAQ03 rdf:type schema:Question .
+vgws:FAQ03 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ03 vgws:category "Identity & Background" .
+vgws:FAQ03 schema:name "Where is the physical campus located?" .
+vgws:FAQ03 vgws:acceptedAnswer "At. Rajbaug, Loni Kalbhor, District Pune." .
+vgws:FAQ04 rdf:type schema:Question .
+vgws:FAQ04 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ04 vgws:category "Identity & Background" .
+vgws:FAQ04 schema:name "What is the total area of the institutional grounds?" .
+vgws:FAQ04 vgws:acceptedAnswer "125 acres." .
+vgws:FAQ05 rdf:type schema:Question .
+vgws:FAQ05 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ05 vgws:category "Identity & Background" .
+vgws:FAQ05 schema:name "Why was the 'World School' suffix added to the branding?" .
+vgws:FAQ05 vgws:acceptedAnswer "To clarify the school's status as an IB Continuum institution and prevent confusion with MAEER's CBSE or other MIT-branded entities." .
+vgws:FAQ06 rdf:type schema:Question .
+vgws:FAQ06 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ06 vgws:category "Identity & Background" .
+vgws:FAQ06 schema:name "Does the institution offer residential facilities?" .
+vgws:FAQ06 vgws:acceptedAnswer "Yes, it is an International Day and Residential School." .
+vgws:FAQ07 rdf:type schema:Question .
+vgws:FAQ07 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ07 vgws:category "Identity & Background" .
+vgws:FAQ07 schema:name "Who is the current Head of School?" .
+vgws:FAQ07 vgws:acceptedAnswer "Dr. Vidhukesh Vimal, Head of School." .
+vgws:FAQ08 rdf:type schema:Question .
+vgws:FAQ08 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ08 vgws:category "Identity & Background" .
+vgws:FAQ08 schema:name "What is the registered address of the MAEER Trust?" .
+vgws:FAQ08 vgws:acceptedAnswer "Survey No. 124, Kothrud Paud Road, Ex-Servicemen Colony, Pune-411 038." .
+vgws:FAQ09 rdf:type schema:Question .
+vgws:FAQ09 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ09 vgws:category "Identity & Background" .
+vgws:FAQ09 schema:name "What is the primary pedagogical framework?" .
+vgws:FAQ09 vgws:acceptedAnswer "The International Baccalaureate (IB)." .
+vgws:FAQ10 rdf:type schema:Question .
+vgws:FAQ10 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ10 vgws:category "Identity & Background" .
+vgws:FAQ10 schema:name "When was the earliest IB program authorized?" .
+vgws:FAQ10 vgws:acceptedAnswer "The Diploma Programme (DP) was originally authorized in May 2006." .
+vgws:FAQ11 rdf:type schema:Question .
+vgws:FAQ11 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ11 vgws:category "Curriculum & IB" .
+vgws:FAQ11 schema:name "What programs comprise the school's 'IB Continuum' status?" .
+vgws:FAQ11 vgws:acceptedAnswer "PYP, MYP, DP, and CP." .
+vgws:FAQ12 rdf:type schema:Question .
+vgws:FAQ12 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ12 vgws:category "Curriculum & IB" .
+vgws:FAQ12 schema:name "When was the PYP first authorized?" .
+vgws:FAQ12 vgws:acceptedAnswer "April 2009." .
+vgws:FAQ13 rdf:type schema:Question .
+vgws:FAQ13 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ13 vgws:category "Curriculum & IB" .
+vgws:FAQ13 schema:name "When was the MYP first authorized?" .
+vgws:FAQ13 vgws:acceptedAnswer "April 2018." .
+vgws:FAQ14 rdf:type schema:Question .
+vgws:FAQ14 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ14 vgws:category "Curriculum & IB" .
+vgws:FAQ14 schema:name "What is the original authorization date for the DP?" .
+vgws:FAQ14 vgws:acceptedAnswer "May 2006." .
+vgws:FAQ15 rdf:type schema:Question .
+vgws:FAQ15 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ15 vgws:category "Curriculum & IB" .
+vgws:FAQ15 schema:name "When was the CP authorized?" .
+vgws:FAQ15 vgws:acceptedAnswer "October 2025." .
+vgws:FAQ16 rdf:type schema:Question .
+vgws:FAQ16 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ16 vgws:category "Curriculum & IB" .
+vgws:FAQ16 schema:name "Which year groups does the MYP cover?" .
+vgws:FAQ16 vgws:acceptedAnswer "Years 1, 2, 3, 4, and 5." .
+vgws:FAQ17 rdf:type schema:Question .
+vgws:FAQ17 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ17 vgws:category "Curriculum & IB" .
+vgws:FAQ17 schema:name "When were current IB certificates reissued?" .
+vgws:FAQ17 vgws:acceptedAnswer "November 2025." .
+vgws:FAQ18 rdf:type schema:Question .
+vgws:FAQ18 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ18 vgws:category "Curriculum & IB" .
+vgws:FAQ18 schema:name "Who is the signatory for current IB authorizations?" .
+vgws:FAQ18 vgws:acceptedAnswer "Olli-Pekka Heinonen, Director General." .
+vgws:FAQ19 rdf:type schema:Question .
+vgws:FAQ19 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ19 vgws:category "Curriculum & IB" .
+vgws:FAQ19 schema:name "Where is the IB headquarters located for certification purposes?" .
+vgws:FAQ19 vgws:acceptedAnswer "Geneva." .
+vgws:FAQ20 rdf:type schema:Question .
+vgws:FAQ20 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ20 vgws:category "Curriculum & IB" .
+vgws:FAQ20 schema:name "Is the IB curriculum used for all grades?" .
+vgws:FAQ20 vgws:acceptedAnswer "The school is authorized for IB for Std. I through Std. XII." .
+vgws:FAQ21 rdf:type schema:Question .
+vgws:FAQ21 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ21 vgws:category "Curriculum & IB" .
+vgws:FAQ21 schema:name "Has the school been recognized for its IB implementation?" .
+vgws:FAQ21 vgws:acceptedAnswer "Yes, it received the 'Excellence in International Curriculum Practices' award in 2022." .
+vgws:FAQ22 rdf:type schema:Question .
+vgws:FAQ22 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ22 vgws:category "Curriculum & IB" .
+vgws:FAQ22 schema:name "What are the foundational benefits of the IB Continuum?" .
+vgws:FAQ22 vgws:acceptedAnswer "A visionary approach to education and holistic student development." .
+vgws:FAQ23 rdf:type schema:Question .
+vgws:FAQ23 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ23 vgws:category "Curriculum & IB" .
+vgws:FAQ23 schema:name "Is the Career-related Programme (CP) currently active?" .
+vgws:FAQ23 vgws:acceptedAnswer "Yes, it was authorized in October 2025." .
+vgws:FAQ24 rdf:type schema:Question .
+vgws:FAQ24 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ24 vgws:category "Curriculum & IB" .
+vgws:FAQ24 schema:name "How are IB certificates verified for authenticity?" .
+vgws:FAQ24 vgws:acceptedAnswer "Original certificates feature a hologram and a watermark." .
+vgws:FAQ25 rdf:type schema:Question .
+vgws:FAQ25 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ25 vgws:category "Curriculum & IB" .
+vgws:FAQ25 schema:name "How many distinct IB programs are offered?" .
+vgws:FAQ25 vgws:acceptedAnswer "Four (PYP, MYP, DP, and CP)." .
+vgws:FAQ26 rdf:type schema:Question .
+vgws:FAQ26 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ26 vgws:category "Regulatory & Admissions" .
+vgws:FAQ26 schema:name "What is the status of the school's state recognition?" .
+vgws:FAQ26 vgws:acceptedAnswer "It holds a valid No Objection Certificate (NOC) from the Government of Maharashtra." .
+vgws:FAQ27 rdf:type schema:Question .
+vgws:FAQ27 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ27 vgws:category "Regulatory & Admissions" .
+vgws:FAQ27 schema:name "Is Marathi instruction mandatory?" .
+vgws:FAQ27 vgws:acceptedAnswer "Yes, as a subject from Std I to X." .
+vgws:FAQ28 rdf:type schema:Question .
+vgws:FAQ28 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ28 vgws:category "Regulatory & Admissions" .
+vgws:FAQ28 schema:name "What is the regulatory requirement for inclusive education?" .
+vgws:FAQ28 vgws:acceptedAnswer "'Divyang' children must be integrated into every class." .
+vgws:FAQ29 rdf:type schema:Question .
+vgws:FAQ29 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ29 vgws:category "Regulatory & Admissions" .
+vgws:FAQ29 schema:name "What is the mandate regarding regional history?" .
+vgws:FAQ29 vgws:acceptedAnswer "History of Maharashtra must be taught." .
+vgws:FAQ30 rdf:type schema:Question .
+vgws:FAQ30 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ30 vgws:category "Regulatory & Admissions" .
+vgws:FAQ30 schema:name "Where is the fee structure publicly disclosed?" .
+vgws:FAQ30 vgws:acceptedAnswer "On the Government's RTE portal." .
+vgws:FAQ31 rdf:type schema:Question .
+vgws:FAQ31 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ31 vgws:category "Regulatory & Admissions" .
+vgws:FAQ31 schema:name "Does the school follow the RTE Act 2009?" .
+vgws:FAQ31 vgws:acceptedAnswer "Yes, as mandated by NOC conditions 1 and 2." .
+vgws:FAQ32 rdf:type schema:Question .
+vgws:FAQ32 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ32 vgws:category "Regulatory & Admissions" .
+vgws:FAQ32 schema:name "How is student data tracked by the state?" .
+vgws:FAQ32 vgws:acceptedAnswer "Through the SARAL and U-DISE databases." .
+vgws:FAQ33 rdf:type schema:Question .
+vgws:FAQ33 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ33 vgws:category "Regulatory & Admissions" .
+vgws:FAQ33 schema:name "Under what conditions can the NOC be revoked?" .
+vgws:FAQ33 vgws:acceptedAnswer "If there is any deviation from state rules or instructions, without prior notice." .
+vgws:FAQ34 rdf:type schema:Question .
+vgws:FAQ34 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ34 vgws:category "Accolades & Facilities" .
+vgws:FAQ34 schema:name "What was the school's Education World rank for 2023-24?" .
+vgws:FAQ34 vgws:acceptedAnswer "No. 4 in India and No. 2 in Maharashtra." .
+vgws:FAQ35 rdf:type schema:Question .
+vgws:FAQ35 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ35 vgws:category "Accolades & Facilities" .
+vgws:FAQ35 schema:name "What was the Education World rank for 2025-26?" .
+vgws:FAQ35 vgws:acceptedAnswer "No. 4 in India and No. 1 in Maharashtra." .
+vgws:FAQ36 rdf:type schema:Question .
+vgws:FAQ36 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ36 vgws:category "Accolades & Facilities" .
+vgws:FAQ36 schema:name "Who received the 24th World Education Summit award for the school?" .
+vgws:FAQ36 vgws:acceptedAnswer "Mr. Udayan Verma." .
+vgws:FAQ37 rdf:type schema:Question .
+vgws:FAQ37 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ37 vgws:category "Accolades & Facilities" .
+vgws:FAQ37 schema:name "In which NATGEO program was the school featured?" .
+vgws:FAQ37 vgws:acceptedAnswer "'The Future School.'" .
+vgws:FAQ38 rdf:type schema:Question .
+vgws:FAQ38 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ38 vgws:category "Accolades & Facilities" .
+vgws:FAQ38 schema:name "When was the 'School of the Year' title awarded?" .
+vgws:FAQ38 vgws:acceptedAnswer "2024-25." .
+vgws:FAQ39 rdf:type schema:Question .
+vgws:FAQ39 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ39 vgws:category "Accolades & Facilities" .
+vgws:FAQ39 schema:name "What was the Silicon India ranking achievement?" .
+vgws:FAQ39 vgws:acceptedAnswer "Top 10 Most Promising Residential Schools (2022)." .
+vgws:FAQ40 rdf:type schema:Question .
+vgws:FAQ40 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ40 vgws:category "Accolades & Facilities" .
+vgws:FAQ40 schema:name "What were the 2025 Education Today ranks?" .
+vgws:FAQ40 vgws:acceptedAnswer "No. 2 in Maharashtra and No. 2 in Pune." .
+vgws:FAQ41 rdf:type schema:Question .
+vgws:FAQ41 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ41 vgws:category "Accolades & Facilities" .
+vgws:FAQ41 schema:name "Which summit awarded the school in 2026?" .
+vgws:FAQ41 vgws:acceptedAnswer "The New Age Summit." .
+vgws:FAQ42 rdf:type schema:Question .
+vgws:FAQ42 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ42 vgws:category "Accolades & Facilities" .
+vgws:FAQ42 schema:name "What is the significance of the 'Dynamic Schools 2024' award?" .
+vgws:FAQ42 vgws:acceptedAnswer "It recognizes exemplary contribution to education in Maharashtra." .
+vgws:FAQ43 rdf:type schema:Question .
+vgws:FAQ43 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ43 vgws:category "Accolades & Facilities" .
+vgws:FAQ43 schema:name "How many sports disciplines are supported by the campus infrastructure?" .
+vgws:FAQ43 vgws:acceptedAnswer "20+ sports." .
+vgws:FAQ44 rdf:type schema:Question .
+vgws:FAQ44 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ44 vgws:category "Miscellaneous" .
+vgws:FAQ44 schema:name "How does the school ensure safety compliance?" .
+vgws:FAQ44 vgws:acceptedAnswer "Following guidelines from Police, Fire Services, and the Transport Department." .
+vgws:FAQ45 rdf:type schema:Question .
+vgws:FAQ45 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ45 vgws:category "Miscellaneous" .
+vgws:FAQ45 schema:name "Does the school have a sexual harassment policy?" .
+vgws:FAQ45 vgws:acceptedAnswer "Yes, a Complaint Redressal Committee is formed as per state mandates." .
+vgws:FAQ46 rdf:type schema:Question .
+vgws:FAQ46 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ46 vgws:category "Miscellaneous" .
+vgws:FAQ46 schema:name "Is student Aadhar registration required?" .
+vgws:FAQ46 vgws:acceptedAnswer "Yes, registration on the SARAL portal is mandatory." .
+vgws:FAQ47 rdf:type schema:Question .
+vgws:FAQ47 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ47 vgws:category "Miscellaneous" .
+vgws:FAQ47 schema:name "What is the Sanskrit motto on the official logo?" .
+vgws:FAQ47 vgws:acceptedAnswer "tejasvinavadhitamastu (rendered in Devanagari on the official logo)." .
+vgws:FAQ48 rdf:type schema:Question .
+vgws:FAQ48 schema:about vgws:VishwashantiGurukulWorldSchool .
+vgws:FAQ48 vgws:category "Miscellaneous" .
+vgws:FAQ48 schema:name "Who presented the 2022 Hyderabad award?" .
+vgws:FAQ48 vgws:acceptedAnswer "Mr. Augus P Saptoo and Shri Navin Mittal." .
+vgws:Fact_F001 rdf:type rdf:Statement .
+vgws:Fact_F001 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F001 vgws:statement "The official institutional designation is Vishwashanti Gurukul World School." .
+vgws:Fact_F001 vgws:category "identity" .
+vgws:Fact_F001 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.1, Page 1" .
+vgws:Fact_F001 vgws:evidence "official institutional designation" .
+vgws:Fact_F001 vgws:confidence "1.00" .
+vgws:Fact_F002 rdf:type rdf:Statement .
+vgws:Fact_F002 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F002 vgws:statement "The 'World School' suffix is a controlled branding measure to distinguish the institution from other MAEER-managed entities and from schools operating under CBSE or other curricula." .
+vgws:Fact_F002 vgws:category "identity" .
+vgws:Fact_F002 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.1, Page 1" .
+vgws:Fact_F002 vgws:evidence "controlled branding measure" .
+vgws:Fact_F002 vgws:confidence "1.00" .
+vgws:Fact_F003 rdf:type rdf:Statement .
+vgws:Fact_F003 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F003 vgws:statement "The 'World School' designation is a primary indicator of the school's status as a full IB Continuum institution." .
+vgws:Fact_F003 vgws:category "identity" .
+vgws:Fact_F003 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.1, Page 1" .
+vgws:Fact_F003 vgws:evidence "primary indicator of IB Continuum status" .
+vgws:Fact_F003 vgws:confidence "1.00" .
+vgws:Fact_F004 rdf:type rdf:Statement .
+vgws:Fact_F004 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F004 vgws:statement "The school is owned and governed by the Maharashtra Academy of Engineering and Educational Research (MAEER)." .
+vgws:Fact_F004 vgws:category "identity" .
+vgws:Fact_F004 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.2, Page 1" .
+vgws:Fact_F004 vgws:evidence "owned and governed by MAEER" .
+vgws:Fact_F004 vgws:confidence "1.00" .
+vgws:Fact_F005 rdf:type rdf:Statement .
+vgws:Fact_F005 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F005 vgws:statement "The MAEER Trust registered office is Survey No. 124, Kothrud Paud Road, Ex-Servicemen Colony, Pune-411 038." .
+vgws:Fact_F005 vgws:category "identity" .
+vgws:Fact_F005 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.2, Page 1" .
+vgws:Fact_F005 vgws:evidence "Trust Registered Office" .
+vgws:Fact_F005 vgws:confidence "1.00" .
+vgws:Fact_F006 rdf:type rdf:Statement .
+vgws:Fact_F006 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F006 vgws:statement "The institutional physical address is At. Rajbaug, Loni Kalbhor, District Pune." .
+vgws:Fact_F006 vgws:category "identity" .
+vgws:Fact_F006 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.2, Page 1" .
+vgws:Fact_F006 vgws:evidence "Institutional Physical Address" .
+vgws:Fact_F006 vgws:confidence "1.00" .
+vgws:Fact_F007 rdf:type rdf:Statement .
+vgws:Fact_F007 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F007 vgws:statement "The school is located on a 125-acre green campus." .
+vgws:Fact_F007 vgws:category "identity" .
+vgws:Fact_F007 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.3, Page 1" .
+vgws:Fact_F007 vgws:evidence "125-acre green campus" .
+vgws:Fact_F007 vgws:confidence "1.00" .
+vgws:Fact_F008 rdf:type rdf:Statement .
+vgws:Fact_F008 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F008 vgws:statement "The campus infrastructure supports comprehensive day and residential educational programs." .
+vgws:Fact_F008 vgws:category "identity" .
+vgws:Fact_F008 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.3, Page 1" .
+vgws:Fact_F008 vgws:evidence "day and residential educational programs" .
+vgws:Fact_F008 vgws:confidence "1.00" .
+vgws:Fact_F009 rdf:type rdf:Statement .
+vgws:Fact_F009 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F009 vgws:statement "The school is an International Day and Residential School." .
+vgws:Fact_F009 vgws:category "identity" .
+vgws:Fact_F009 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Identity Q6, Page 4" .
+vgws:Fact_F009 vgws:evidence "International Day and Residential School" .
+vgws:Fact_F009 vgws:confidence "1.00" .
+vgws:Fact_F010 rdf:type rdf:Statement .
+vgws:Fact_F010 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F010 vgws:statement "The current Head of School is Dr. Vidhukesh Vimal." .
+vgws:Fact_F010 vgws:category "identity" .
+vgws:Fact_F010 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Identity Q7, Page 4" .
+vgws:Fact_F010 vgws:evidence "Head of School" .
+vgws:Fact_F010 vgws:confidence "1.00" .
+vgws:Fact_F011 rdf:type rdf:Statement .
+vgws:Fact_F011 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F011 vgws:statement "The primary pedagogical framework is the International Baccalaureate (IB)." .
+vgws:Fact_F011 vgws:category "identity" .
+vgws:Fact_F011 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Identity Q9, Page 4" .
+vgws:Fact_F011 vgws:evidence "primary pedagogical framework" .
+vgws:Fact_F011 vgws:confidence "1.00" .
+vgws:Fact_F012 rdf:type rdf:Statement .
+vgws:Fact_F012 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F012 vgws:statement "The Sanskrit motto on the official logo is: tejasvinavadhitamastu (Devanagari script on logo)." .
+vgws:Fact_F012 vgws:category "brand" .
+vgws:Fact_F012 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Misc Q4, Page 6" .
+vgws:Fact_F012 vgws:evidence "Sanskrit motto on logo" .
+vgws:Fact_F012 vgws:confidence "1.00" .
+vgws:Fact_F013 rdf:type rdf:Statement .
+vgws:Fact_F013 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F013 vgws:statement "The campus infrastructure supports 20+ sports disciplines." .
+vgws:Fact_F013 vgws:category "identity" .
+vgws:Fact_F013 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Accolades Q10, Page 6" .
+vgws:Fact_F013 vgws:evidence "20+ sports" .
+vgws:Fact_F013 vgws:confidence "1.00" .
+vgws:Fact_F020 rdf:type rdf:Statement .
+vgws:Fact_F020 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F020 vgws:statement "Vishwashanti Gurukul World School is a formally authorized IB Continuum School." .
+vgws:Fact_F020 vgws:category "ib" .
+vgws:Fact_F020 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.1, Page 1" .
+vgws:Fact_F020 vgws:evidence "authorized IB Continuum School" .
+vgws:Fact_F020 vgws:confidence "1.00" .
+vgws:Fact_F021 rdf:type rdf:Statement .
+vgws:Fact_F021 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F021 vgws:statement "IB Continuum status confirms authority to deliver the full suite of IB programmes across all age groups." .
+vgws:Fact_F021 vgws:category "ib" .
+vgws:Fact_F021 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.1, Page 1" .
+vgws:Fact_F021 vgws:evidence "full suite of IB programmes" .
+vgws:Fact_F021 vgws:confidence "1.00" .
+vgws:Fact_F022 rdf:type rdf:Statement .
+vgws:Fact_F022 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F022 vgws:statement "The Primary Years Programme (PYP) was originally authorized in April 2009; the certificate was reissued in November 2025." .
+vgws:Fact_F022 vgws:category "ib" .
+vgws:Fact_F022 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 1" .
+vgws:Fact_F022 vgws:evidence "PYP April 2009" .
+vgws:Fact_F022 vgws:confidence "1.00" .
+vgws:Fact_F023 rdf:type rdf:Statement .
+vgws:Fact_F023 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F023 vgws:statement "The Middle Years Programme (MYP) was originally authorized in April 2018; the certificate was reissued in November 2025; it is authorized for Years 1, 2, 3, 4, and 5." .
+vgws:Fact_F023 vgws:category "ib" .
+vgws:Fact_F023 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 1" .
+vgws:Fact_F023 vgws:evidence "MYP April 2018" .
+vgws:Fact_F023 vgws:confidence "1.00" .
+vgws:Fact_F024 rdf:type rdf:Statement .
+vgws:Fact_F024 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F024 vgws:statement "The Diploma Programme (DP) was originally authorized in May 2006; the certificate was reissued in November 2025." .
+vgws:Fact_F024 vgws:category "ib" .
+vgws:Fact_F024 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 1" .
+vgws:Fact_F024 vgws:evidence "DP May 2006" .
+vgws:Fact_F024 vgws:confidence "1.00" .
+vgws:Fact_F025 rdf:type rdf:Statement .
+vgws:Fact_F025 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F025 vgws:statement "The Career-related Programme (CP) was authorized in October 2025." .
+vgws:Fact_F025 vgws:category "ib" .
+vgws:Fact_F025 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 1" .
+vgws:Fact_F025 vgws:evidence "CP October 2025" .
+vgws:Fact_F025 vgws:confidence "1.00" .
+vgws:Fact_F026 rdf:type rdf:Statement .
+vgws:Fact_F026 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F026 vgws:statement "All reissued IB certificates are signed by Olli-Pekka Heinonen, Director General (Geneva)." .
+vgws:Fact_F026 vgws:category "ib" .
+vgws:Fact_F026 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 2" .
+vgws:Fact_F026 vgws:evidence "signed by Olli-Pekka Heinonen" .
+vgws:Fact_F026 vgws:confidence "1.00" .
+vgws:Fact_F027 rdf:type rdf:Statement .
+vgws:Fact_F027 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F027 vgws:statement "The Diploma Programme (May 2006) is the earliest IB programme authorized at the school." .
+vgws:Fact_F027 vgws:category "ib" .
+vgws:Fact_F027 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Identity Q10, Page 4" .
+vgws:Fact_F027 vgws:evidence "earliest IB program authorized" .
+vgws:Fact_F027 vgws:confidence "1.00" .
+vgws:Fact_F028 rdf:type rdf:Statement .
+vgws:Fact_F028 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F028 vgws:statement "The school offers four distinct IB programmes: PYP, MYP, DP, and CP." .
+vgws:Fact_F028 vgws:category "ib" .
+vgws:Fact_F028 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Curriculum Q15, Page 5" .
+vgws:Fact_F028 vgws:evidence "Four (PYP, MYP, DP, and CP)" .
+vgws:Fact_F028 vgws:confidence "1.00" .
+vgws:Fact_F029 rdf:type rdf:Statement .
+vgws:Fact_F029 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F029 vgws:statement "The school is authorized for IB for Standard I through Standard XII." .
+vgws:Fact_F029 vgws:category "ib" .
+vgws:Fact_F029 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Curriculum Q10, Page 5" .
+vgws:Fact_F029 vgws:evidence "IB for Std. I through Std. XII" .
+vgws:Fact_F029 vgws:confidence "1.00" .
+vgws:Fact_F030 rdf:type rdf:Statement .
+vgws:Fact_F030 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F030 vgws:statement "Original IB certificates feature a hologram and a watermark for authenticity verification." .
+vgws:Fact_F030 vgws:category "ib" .
+vgws:Fact_F030 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Curriculum Q14, Page 5" .
+vgws:Fact_F030 vgws:evidence "hologram and a watermark" .
+vgws:Fact_F030 vgws:confidence "1.00" .
+vgws:Fact_F031 rdf:type rdf:Statement .
+vgws:Fact_F031 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F031 vgws:statement "The PYP covers the Primary Education Framework." .
+vgws:Fact_F031 vgws:category "ib" .
+vgws:Fact_F031 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 1" .
+vgws:Fact_F031 vgws:evidence "Primary Education Framework" .
+vgws:Fact_F031 vgws:confidence "1.00" .
+vgws:Fact_F032 rdf:type rdf:Statement .
+vgws:Fact_F032 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F032 vgws:statement "The DP covers the Pre-university Academic Framework." .
+vgws:Fact_F032 vgws:category "ib" .
+vgws:Fact_F032 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 1" .
+vgws:Fact_F032 vgws:evidence "Pre-university Academic Framework" .
+vgws:Fact_F032 vgws:confidence "1.00" .
+vgws:Fact_F033 rdf:type rdf:Statement .
+vgws:Fact_F033 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F033 vgws:statement "The CP covers the Vocational/Career-focused Framework." .
+vgws:Fact_F033 vgws:category "ib" .
+vgws:Fact_F033 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 1" .
+vgws:Fact_F033 vgws:evidence "Vocational/Career-focused Framework" .
+vgws:Fact_F033 vgws:confidence "1.00" .
+vgws:Fact_F034 rdf:type rdf:Statement .
+vgws:Fact_F034 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F034 vgws:statement "The foundational benefits of the IB Continuum are a visionary approach to education and holistic student development." .
+vgws:Fact_F034 vgws:category "ib" .
+vgws:Fact_F034 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Curriculum Q12, Page 5" .
+vgws:Fact_F034 vgws:evidence "visionary approach; holistic development" .
+vgws:Fact_F034 vgws:confidence "1.00" .
+vgws:Fact_F040 rdf:type rdf:Statement .
+vgws:Fact_F040 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F040 vgws:statement "The institution operates under a No Objection Certificate (NOC) for the IB curriculum issued by the School Education and Sports Department, Government of Maharashtra." .
+vgws:Fact_F040 vgws:category "regulatory" .
+vgws:Fact_F040 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.1, Page 2" .
+vgws:Fact_F040 vgws:evidence "No Objection Certificate" .
+vgws:Fact_F040 vgws:confidence "1.00" .
+vgws:Fact_F041 rdf:type rdf:Statement .
+vgws:Fact_F041 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F041 vgws:statement "The NOC reference number is NOC-4023/C.R.No.263/SM-3." .
+vgws:Fact_F041 vgws:category "regulatory" .
+vgws:Fact_F041 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.1, Page 2" .
+vgws:Fact_F041 vgws:evidence "NOC Reference Number" .
+vgws:Fact_F041 vgws:confidence "1.00" .
+vgws:Fact_F042 rdf:type rdf:Statement .
+vgws:Fact_F042 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F042 vgws:statement "The NOC was issued on January 12, 2024 and expires on January 11, 2027 (valid for three years)." .
+vgws:Fact_F042 vgws:category "regulatory" .
+vgws:Fact_F042 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.1, Page 2" .
+vgws:Fact_F042 vgws:evidence "Issuance Date; Expiration Date" .
+vgws:Fact_F042 vgws:confidence "1.00" .
+vgws:Fact_F043 rdf:type rdf:Statement .
+vgws:Fact_F043 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F043 vgws:statement "NOC Condition 1: Adherence to Sections 18 and 19 of the Right of Children to Free and Compulsory Education Act, 2009." .
+vgws:Fact_F043 vgws:category "regulatory" .
+vgws:Fact_F043 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2" .
+vgws:Fact_F043 vgws:evidence "RTE General Compliance" .
+vgws:Fact_F043 vgws:confidence "1.00" .
+vgws:Fact_F044 rdf:type rdf:Statement .
+vgws:Fact_F044 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F044 vgws:statement "NOC Condition 2: Strict adherence to Section 12(1)(C) of the RTE Act, 2009 and Maharashtra RTE Rules 2011 (reserved seats)." .
+vgws:Fact_F044 vgws:category "regulatory" .
+vgws:Fact_F044 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2" .
+vgws:Fact_F044 vgws:evidence "RTE Reserved Seats" .
+vgws:Fact_F044 vgws:confidence "1.00" .
+vgws:Fact_F045 rdf:type rdf:Statement .
+vgws:Fact_F045 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F045 vgws:statement "NOC Condition 3: Mandatory integration of 'Divyang' (Special Needs) students in every class, per Resolution No. Mise 2015/(119-A)/SD-6 dated 8th January 2016." .
+vgws:Fact_F045 vgws:category "regulatory" .
+vgws:Fact_F045 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2" .
+vgws:Fact_F045 vgws:evidence "Inclusive Education" .
+vgws:Fact_F045 vgws:confidence "1.00" .
+vgws:Fact_F046 rdf:type rdf:Statement .
+vgws:Fact_F046 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F046 vgws:statement "NOC Condition 4: Compliance with all state Educational Acts, Rules, and Policies issued periodically." .
+vgws:Fact_F046 vgws:category "regulatory" .
+vgws:Fact_F046 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2" .
+vgws:Fact_F046 vgws:evidence "Statutory Integration" .
+vgws:Fact_F046 vgws:confidence "1.00" .
+vgws:Fact_F047 rdf:type rdf:Statement .
+vgws:Fact_F047 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F047 vgws:statement "NOC Condition 5: Mandatory use of State Board or respective Board curriculum for Standard I to VIII." .
+vgws:Fact_F047 vgws:category "regulatory" .
+vgws:Fact_F047 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2" .
+vgws:Fact_F047 vgws:evidence "Basic Curriculum" .
+vgws:Fact_F047 vgws:confidence "1.00" .
+vgws:Fact_F048 rdf:type rdf:Statement .
+vgws:Fact_F048 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F048 vgws:statement "NOC Condition 6: Compulsory instruction of the Marathi language as a subject from Standard I to X." .
+vgws:Fact_F048 vgws:category "regulatory" .
+vgws:Fact_F048 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2" .
+vgws:Fact_F048 vgws:evidence "Language Mandate" .
+vgws:Fact_F048 vgws:confidence "1.00" .
+vgws:Fact_F049 rdf:type rdf:Statement .
+vgws:Fact_F049 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F049 vgws:statement "NOC Condition 7: Staff salaries must meet or exceed Schedule 'C' of the Maharashtra Employees of Private Schools (Conditions of Service) Regulation Act, 1981." .
+vgws:Fact_F049 vgws:category "regulatory" .
+vgws:Fact_F049 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2" .
+vgws:Fact_F049 vgws:evidence "Staff Compensation" .
+vgws:Fact_F049 vgws:confidence "1.00" .
+vgws:Fact_F050 rdf:type rdf:Statement .
+vgws:Fact_F050 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F050 vgws:statement "NOC Condition 8: Compliance with traffic/safety guidelines and fire protection codes per the National Building Code of India, Part-IV Fire 1997." .
+vgws:Fact_F050 vgws:category "regulatory" .
+vgws:Fact_F050 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2" .
+vgws:Fact_F050 vgws:evidence "Safety & Infrastructure" .
+vgws:Fact_F050 vgws:confidence "1.00" .
+vgws:Fact_F051 rdf:type rdf:Statement .
+vgws:Fact_F051 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F051 vgws:statement "NOC Condition 9: Mandatory conduct of 3 tests annually for students up to Standard VIII, with achievement data recorded in the SARAL database." .
+vgws:Fact_F051 vgws:category "regulatory" .
+vgws:Fact_F051 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2" .
+vgws:Fact_F051 vgws:evidence "Assessment Standards" .
+vgws:Fact_F051 vgws:confidence "1.00" .
+vgws:Fact_F052 rdf:type rdf:Statement .
+vgws:Fact_F052 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F052 vgws:statement "NOC Condition 10: Regular child-wise data entry into SARAL and U-DISE as demanded by State Authorities." .
+vgws:Fact_F052 vgws:category "regulatory" .
+vgws:Fact_F052 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2" .
+vgws:Fact_F052 vgws:evidence "Information Reporting" .
+vgws:Fact_F052 vgws:confidence "1.00" .
+vgws:Fact_F053 rdf:type rdf:Statement .
+vgws:Fact_F053 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F053 vgws:statement "NOC Condition 11: Compliance with the Maharashtra Educational Institutions (Regulation of Fees) Act, 2011." .
+vgws:Fact_F053 vgws:category "regulatory" .
+vgws:Fact_F053 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2" .
+vgws:Fact_F053 vgws:evidence "Fee Regulation" .
+vgws:Fact_F053 vgws:confidence "1.00" .
+vgws:Fact_F054 rdf:type rdf:Statement .
+vgws:Fact_F054 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F054 vgws:statement "NOC Condition 12: Compulsory teaching of Indian History and specifically History related to Maharashtra." .
+vgws:Fact_F054 vgws:category "regulatory" .
+vgws:Fact_F054 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2" .
+vgws:Fact_F054 vgws:evidence "Historical Instruction" .
+vgws:Fact_F054 vgws:confidence "1.00" .
+vgws:Fact_F055 rdf:type rdf:Statement .
+vgws:Fact_F055 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F055 vgws:statement "NOC Condition 13: Formation of a Complaint Redressal Committee per the Woman and Child Department government resolution dated 19.6.2014." .
+vgws:Fact_F055 vgws:category "regulatory" .
+vgws:Fact_F055 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 3" .
+vgws:Fact_F055 vgws:evidence "Harassment Redressal" .
+vgws:Fact_F055 vgws:confidence "1.00" .
+vgws:Fact_F056 rdf:type rdf:Statement .
+vgws:Fact_F056 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F056 vgws:statement "NOC Condition 14: The fee structure must be published on the official Government RTE portal." .
+vgws:Fact_F056 vgws:category "regulatory" .
+vgws:Fact_F056 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 3" .
+vgws:Fact_F056 vgws:evidence "Fiscal Transparency" .
+vgws:Fact_F056 vgws:confidence "1.00" .
+vgws:Fact_F057 rdf:type rdf:Statement .
+vgws:Fact_F057 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F057 vgws:statement "NOC Condition 15: Compulsory entry of student Aadhar Numbers into the SARAL portal." .
+vgws:Fact_F057 vgws:category "regulatory" .
+vgws:Fact_F057 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 3" .
+vgws:Fact_F057 vgws:evidence "Student Identification" .
+vgws:Fact_F057 vgws:confidence "1.00" .
+vgws:Fact_F058 rdf:type rdf:Statement .
+vgws:Fact_F058 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F058 vgws:statement "NOC Condition 16: The State retains the right to withdraw the NOC at any time without notice for rule deviation." .
+vgws:Fact_F058 vgws:category "regulatory" .
+vgws:Fact_F058 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 3" .
+vgws:Fact_F058 vgws:evidence "State Authority" .
+vgws:Fact_F058 vgws:confidence "1.00" .
+vgws:Fact_F059 rdf:type rdf:Statement .
+vgws:Fact_F059 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F059 vgws:statement "NOC Condition 17: Binding requirement to implement CBSE/ICSE/other board syllabi step-by-step if future affiliation is intended." .
+vgws:Fact_F059 vgws:category "regulatory" .
+vgws:Fact_F059 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 3" .
+vgws:Fact_F059 vgws:evidence "Affiliation Transitions" .
+vgws:Fact_F059 vgws:confidence "1.00" .
+vgws:Fact_F060 rdf:type rdf:Statement .
+vgws:Fact_F060 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F060 vgws:statement "Safety compliance follows guidelines from Police, Fire Services, and the Transport Department." .
+vgws:Fact_F060 vgws:category "regulatory" .
+vgws:Fact_F060 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Misc Q1, Page 6" .
+vgws:Fact_F060 vgws:evidence "Police, Fire Services, Transport" .
+vgws:Fact_F060 vgws:confidence "1.00" .
+vgws:Fact_F070 rdf:type rdf:Statement .
+vgws:Fact_F070 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F070 vgws:statement "AY 2022-23: At the 24th World Education Summit (Hyderabad), the school received the 'Excellence in International Curriculum Practices' award." .
+vgws:Fact_F070 vgws:category "awards" .
+vgws:Fact_F070 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.1, Page 3" .
+vgws:Fact_F070 vgws:evidence "Excellence in International Curriculum Practices" .
+vgws:Fact_F070 vgws:confidence "1.00" .
+vgws:Fact_F071 rdf:type rdf:Statement .
+vgws:Fact_F071 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F071 vgws:statement "The 2022 Hyderabad award was received by Mr. Udayan Verma (Head of Admissions and Outreach)." .
+vgws:Fact_F071 vgws:category "awards" .
+vgws:Fact_F071 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.1, Page 3" .
+vgws:Fact_F071 vgws:evidence "received by Mr. Udayan Verma" .
+vgws:Fact_F071 vgws:confidence "1.00" .
+vgws:Fact_F072 rdf:type rdf:Statement .
+vgws:Fact_F072 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F072 vgws:statement "The 2022 Hyderabad award was presented by Mr. Augus P Saptoo (Consul General of Indonesia) and Shri Navin Mittal (Commissioner, Collegiate and Technical Education, Telangana)." .
+vgws:Fact_F072 vgws:category "awards" .
+vgws:Fact_F072 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.1, Page 3" .
+vgws:Fact_F072 vgws:evidence "dignitaries" .
+vgws:Fact_F072 vgws:confidence "1.00" .
+vgws:Fact_F073 rdf:type rdf:Statement .
+vgws:Fact_F073 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F073 vgws:statement "AY 2022-23: Silicon India recognized the school among the 'Top 10 Most Promising Residential Schools' in India." .
+vgws:Fact_F073 vgws:category "awards" .
+vgws:Fact_F073 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.1, Page 3" .
+vgws:Fact_F073 vgws:evidence "Top 10 Most Promising Residential Schools" .
+vgws:Fact_F073 vgws:confidence "1.00" .
+vgws:Fact_F074 rdf:type rdf:Statement .
+vgws:Fact_F074 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F074 vgws:statement "AY 2023-24: Education World India School Rankings ranked the school No. 4 in India and No. 2 in Maharashtra (International Residential Schools category)." .
+vgws:Fact_F074 vgws:category "awards" .
+vgws:Fact_F074 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.2, Page 3" .
+vgws:Fact_F074 vgws:evidence "No. 4 in India; No. 2 in Maharashtra" .
+vgws:Fact_F074 vgws:confidence "1.00" .
+vgws:Fact_F075 rdf:type rdf:Statement .
+vgws:Fact_F075 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F075 vgws:statement "AY 2023-24: Insight Success featured the school as a 'Place for modern value education'." .
+vgws:Fact_F075 vgws:category "awards" .
+vgws:Fact_F075 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.2, Page 3" .
+vgws:Fact_F075 vgws:evidence "Insight Success feature" .
+vgws:Fact_F075 vgws:confidence "1.00" .
+vgws:Fact_F076 rdf:type rdf:Statement .
+vgws:Fact_F076 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F076 vgws:statement "AY 2023-24: National Geographic (NATGEO) selected the school for an exclusive showcase titled 'The Future School', highlighting visionary educational approaches." .
+vgws:Fact_F076 vgws:category "awards" .
+vgws:Fact_F076 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.2, Page 3" .
+vgws:Fact_F076 vgws:evidence "NATGEO The Future School" .
+vgws:Fact_F076 vgws:confidence "1.00" .
+vgws:Fact_F077 rdf:type rdf:Statement .
+vgws:Fact_F077 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F077 vgws:statement "AY 2024-25: Education World awarded the school the title 'School of the Year 2024-25' for excellence in academic brilliance and student well-being." .
+vgws:Fact_F077 vgws:category "awards" .
+vgws:Fact_F077 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.3, Page 3" .
+vgws:Fact_F077 vgws:evidence "School of the Year 2024-25" .
+vgws:Fact_F077 vgws:confidence "1.00" .
+vgws:Fact_F078 rdf:type rdf:Statement .
+vgws:Fact_F078 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F078 vgws:statement "AY 2024-25: E News Network conferred the 'Dynamic Schools 2024' award at the Maharashtra Educators' Summit & Awards." .
+vgws:Fact_F078 vgws:category "awards" .
+vgws:Fact_F078 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.3, Page 3" .
+vgws:Fact_F078 vgws:evidence "Dynamic Schools 2024" .
+vgws:Fact_F078 vgws:confidence "1.00" .
+vgws:Fact_F079 rdf:type rdf:Statement .
+vgws:Fact_F079 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F079 vgws:statement "The 'Dynamic Schools 2024' award recognizes exemplary contribution to education in Maharashtra." .
+vgws:Fact_F079 vgws:category "awards" .
+vgws:Fact_F079 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Accolades Q9, Page 6" .
+vgws:Fact_F079 vgws:evidence "exemplary contribution" .
+vgws:Fact_F079 vgws:confidence "1.00" .
+vgws:Fact_F080 rdf:type rdf:Statement .
+vgws:Fact_F080 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F080 vgws:statement "AY 2025-26: Education Today Merit Awards ranked the school No. 2 in Maharashtra and No. 2 in Pune (Boarding Schools category)." .
+vgws:Fact_F080 vgws:category "awards" .
+vgws:Fact_F080 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.4, Page 3" .
+vgws:Fact_F080 vgws:evidence "Education Today Merit Awards" .
+vgws:Fact_F080 vgws:confidence "1.00" .
+vgws:Fact_F081 rdf:type rdf:Statement .
+vgws:Fact_F081 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F081 vgws:statement "AY 2025-26: Education World India School Rankings ranked the school No. 4 in India and No. 1 in Maharashtra (International Residential Schools category)." .
+vgws:Fact_F081 vgws:category "awards" .
+vgws:Fact_F081 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.4, Page 3" .
+vgws:Fact_F081 vgws:evidence "No. 1 position in Maharashtra" .
+vgws:Fact_F081 vgws:confidence "1.00" .
+vgws:Fact_F082 rdf:type rdf:Statement .
+vgws:Fact_F082 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F082 vgws:statement "AY 2025-26: The New Age Summit 2026 conferred the "Best India's International Day and Residential School" award." .
+vgws:Fact_F082 vgws:category "awards" .
+vgws:Fact_F082 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.4, Page 3" .
+vgws:Fact_F082 vgws:evidence "New Age Summit 2026" .
+vgws:Fact_F082 vgws:confidence "1.00" .
+vgws:Fact_F090 rdf:type rdf:Statement .
+vgws:Fact_F090 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F090 vgws:statement "Official YouTube channel: www.youtube.com/@Mitgurukulpune" .
+vgws:Fact_F090 vgws:category "social" .
+vgws:Fact_F090 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 5, Page 3" .
+vgws:Fact_F090 vgws:evidence "Official YouTube" .
+vgws:Fact_F090 vgws:confidence "1.00" .
+vgws:Fact_F091 rdf:type rdf:Statement .
+vgws:Fact_F091 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F091 vgws:statement "Official Facebook page: https://www.facebook.com/share/1DMrmpAAGJ/" .
+vgws:Fact_F091 vgws:category "social" .
+vgws:Fact_F091 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 5, Page 3" .
+vgws:Fact_F091 vgws:evidence "Official Facebook" .
+vgws:Fact_F091 vgws:confidence "1.00" .
+vgws:Fact_F092 rdf:type rdf:Statement .
+vgws:Fact_F092 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F092 vgws:statement "Official Instagram: https://www.instagram.com/mitgurukulofficial" .
+vgws:Fact_F092 vgws:category "social" .
+vgws:Fact_F092 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 5, Page 4" .
+vgws:Fact_F092 vgws:evidence "Official Instagram" .
+vgws:Fact_F092 vgws:confidence "1.00" .
+vgws:Fact_F093 rdf:type rdf:Statement .
+vgws:Fact_F093 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F093 vgws:statement "LinkedIn professional profile: https://www.linkedin.com/in/mit-vishwashanti-gurukul-8a3460218" .
+vgws:Fact_F093 vgws:category "social" .
+vgws:Fact_F093 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 5, Page 4" .
+vgws:Fact_F093 vgws:evidence "LinkedIn Professional Profile" .
+vgws:Fact_F093 vgws:confidence "1.00" .
+vgws:Fact_F094 rdf:type rdf:Statement .
+vgws:Fact_F094 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F094 vgws:statement "LinkedIn institutional page: https://www.linkedin.com/company/mitgurukulofficial/" .
+vgws:Fact_F094 vgws:category "social" .
+vgws:Fact_F094 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 5, Page 4" .
+vgws:Fact_F094 vgws:evidence "LinkedIn Institutional Page" .
+vgws:Fact_F094 vgws:confidence "1.00" .
+vgws:Fact_F095 rdf:type rdf:Statement .
+vgws:Fact_F095 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F095 vgws:statement "Official X (Twitter): https://x.com/MITGurukulOff" .
+vgws:Fact_F095 vgws:category "social" .
+vgws:Fact_F095 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 5, Page 4" .
+vgws:Fact_F095 vgws:evidence "Official X (Twitter)" .
+vgws:Fact_F095 vgws:confidence "1.00" .
+vgws:Fact_F100 rdf:type rdf:Statement .
+vgws:Fact_F100 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F100 vgws:statement "All data points in the master document are derived exclusively from the provided source context; no external geographical data or unverified rankings were included." .
+vgws:Fact_F100 vgws:category "governance" .
+vgws:Fact_F100 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 8, Page 7" .
+vgws:Fact_F100 vgws:evidence "Anti-Hallucination Guardrails" .
+vgws:Fact_F100 vgws:confidence "1.00" .
+vgws:Fact_F101 rdf:type rdf:Statement .
+vgws:Fact_F101 vgws:assertsAbout vgws:VishwashantiGurukulWorldSchool .
+vgws:Fact_F101 vgws:statement "All rankings in the master document are categorized by school category as per official records." .
+vgws:Fact_F101 vgws:category "governance" .
+vgws:Fact_F101 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 8, Page 7" .
+vgws:Fact_F101 vgws:evidence "categorized by school category" .
+vgws:Fact_F101 vgws:confidence "1.00" .
+vgws:FAQ01 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ02 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ03 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ04 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ05 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ06 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ07 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ08 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ09 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ10 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ11 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ12 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ13 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ14 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ15 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ16 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ17 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ18 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ19 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ20 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ21 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ22 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ23 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ24 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ25 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ26 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ27 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ28 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ29 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ30 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ31 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ32 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ33 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ34 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ35 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ36 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ37 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ38 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ39 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ40 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ41 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ42 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ43 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ44 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ45 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ46 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ47 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:FAQ48 dcterms:source "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6" .
+vgws:Award1 vgws:awardedTo vgws:VishwashantiGurukulWorldSchool .
+vgws:Award2 vgws:awardedTo vgws:VishwashantiGurukulWorldSchool .
+vgws:Award3 vgws:awardedTo vgws:VishwashantiGurukulWorldSchool .
+vgws:Award4 vgws:awardedTo vgws:VishwashantiGurukulWorldSchool .
+vgws:Award5 vgws:awardedTo vgws:VishwashantiGurukulWorldSchool .
+vgws:Award6 vgws:awardedTo vgws:VishwashantiGurukulWorldSchool .
+vgws:Award7 vgws:awardedTo vgws:VishwashantiGurukulWorldSchool .
+vgws:Award8 vgws:awardedTo vgws:VishwashantiGurukulWorldSchool .
+vgws:Award9 vgws:awardedTo vgws:VishwashantiGurukulWorldSchool .
+vgws:Award10 vgws:awardedTo vgws:VishwashantiGurukulWorldSchool .
+vgws:PYP vgws:offeredBy vgws:VishwashantiGurukulWorldSchool .
+vgws:MYP vgws:offeredBy vgws:VishwashantiGurukulWorldSchool .
+vgws:DP vgws:offeredBy vgws:VishwashantiGurukulWorldSchool .
+vgws:CP vgws:offeredBy vgws:VishwashantiGurukulWorldSchool .
+vgws:Profile_YouTube vgws:officialPresenceOf vgws:VishwashantiGurukulWorldSchool .
+vgws:Profile_Facebook vgws:officialPresenceOf vgws:VishwashantiGurukulWorldSchool .
+vgws:Profile_Instagram vgws:officialPresenceOf vgws:VishwashantiGurukulWorldSchool .
+vgws:Profile_LinkedInCompany vgws:officialPresenceOf vgws:VishwashantiGurukulWorldSchool .
+vgws:Profile_LinkedInProfile vgws:officialPresenceOf vgws:VishwashantiGurukulWorldSchool .
+vgws:Profile_XTwitter vgws:officialPresenceOf vgws:VishwashantiGurukulWorldSchool .
+vgws:MAEER rdfs:label "MAEER" .
+vgws:IBO rdfs:label "IBO" .
+vgws:DrVidhukeshVimal rdfs:label "Dr. Vidhukesh Vimal" .
+vgws:OlliPekkaHeinonen rdfs:label "Olli-Pekka Heinonen" .
+vgws:NOC2024 rdfs:label "Government of Maharashtra NOC (2024-2027)" .
+vgws:VishwashantiGurukulWorldSchool rdfs:label "VGWS" .

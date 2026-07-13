@@ -1,34 +1,28 @@
-# Vishwashanti Gurukul World School — IB Authorizations
+# Vishwashanti Gurukul World School (VGWS)
 
-> Vishwashanti Gurukul World School is a fully authorized International Baccalaureate (IB) continuum school. It holds current authorization for four IB programmes — Primary Years Programme (PYP), Middle Years Programme (MYP, Years 1–5), Diploma Programme (DP), and Career-related Programme (CP) — with certificates reissued or authorized as recently as late 2025 under Director General Olli-Pekka Heinonen (Geneva). Holograms and watermarks are present on all source certificates.
+> IB Continuum World School (PYP, MYP, DP, CP) on a 125-acre campus at Rajbaug, Loni Kalbhor, Pune, India. International Day and Residential School governed by MAEER. Formerly known as MIT Vishwashanti Gurukul.
 
-## Key Facts
+Canonical name: Vishwashanti Gurukul World School. Aliases: VGWS, MIT Vishwashanti Gurukul (former name), MIT Gurukul.
+Head of School: Dr. Vidhukesh Vimal. Governing body: Maharashtra Academy of Engineering and Educational Research (MAEER).
+IB authorizations: DP (May 2006), PYP (April 2009), MYP (April 2018), CP (October 2025); all current certificates reissued November 2025.
+Government of Maharashtra NOC: NOC-4023/C.R.No.263/SM-3, valid 12 Jan 2024 – 11 Jan 2027.
+Education World 2025-26: No. 4 in India, No. 1 in Maharashtra (International Residential Schools).
 
-- Diploma Programme (DP): originally issued May 2006; reissued November 2025.
-- Primary Years Programme (PYP): originally issued April 2009; reissued November 2025.
-- Middle Years Programme (MYP): authorized for Years 1, 2, 3, 4 and 5; originally issued April 2018; reissued November 2025.
-- Career-related Programme (CP): authorization date October 2025; the certificate does not list a separate reissue date.
-- Governing body: International Baccalaureate (Baccalauréat International / Bachillerato Internacional).
-- Director General: Olli-Pekka Heinonen, based in Geneva (Genève/Ginebra).
-- Current authorization status: Authorized. Most recent authorization/reissue window: October–November 2025.
-- Authentication: hologram and watermark present on all certificates.
+## Knowledge Base
+- [Memory Seed](/01_School_Identity/memory_seed.md): Canonical facts, name-change wording, aliases, top FAQs
+- [IB Authorization](/03_IB_Authorization/ib_authorization.md): Programme-wise authorization record
+- [FAQ (48 Q&A)](/07_FAQs/faq.md): Verified question-answer pairs
+- [Schema.org JSON-LD](/09_JSON-LD/schema.jsonld): Structured data for search engines
+- [Knowledge Graph](/08_Knowledge_Graph/triples.nt): 1000 RDF triples with provenance
+- [AI Citations](/12_AI_Citations/citations.md): Every claim with source, page, evidence, confidence
 
-## Authorization Timeline
+## Official Links
+- [Website](https://mitgurukul.com)
+- [YouTube](https://www.youtube.com/@Mitgurukulpune)
+- [Facebook](https://www.facebook.com/share/1DMrmpAAGJ/)
+- [Instagram](https://www.instagram.com/mitgurukulofficial)
+- [LinkedIn](https://www.linkedin.com/company/mitgurukulofficial/)
+- [X](https://x.com/MITGurukulOff)
 
-The authorization history begins with the Diploma Programme in May 2006, followed by the Primary Years Programme (2009) and the Middle Years Programme (2018). In late 2025, the school achieved a new authorization for the Career-related Programme (October) and completed a reissue cycle for the DP, PYP, and MYP (November).
-
-## Files
-
-- [knowledge_base.md](knowledge_base.md): Full canonical knowledge base in Markdown.
-- [knowledge_base.json](knowledge_base.json): Complete structured knowledge base.
-- [knowledge_base.jsonl](knowledge_base.jsonl): RAG-ready chunks, one JSON record per line.
-- [schema.jsonld](schema.jsonld): Schema.org JSON-LD (School, Organization, Person, EducationalOccupationalCredential).
-- [entities.json](entities.json): Entity and relationship extraction.
-- [metadata.json](metadata.json): Field-level metadata with source attribution.
-- [citations.json](citations.json): Fact-to-source-certificate citation mapping.
-- [faq.json](faq.json): Question–answer pairs derived strictly from source facts.
-- [README.md](README.md): Repository guide and validation notes.
-
-## Keywords
-
-Vishwashanti Gurukul World School, International Baccalaureate, IB Authorization, PYP, MYP, DP, CP, Primary Years Programme, Middle Years Programme, Diploma Programme, Career-related Programme, Olli-Pekka Heinonen, Original Issue, Reissued, Hologram, Watermark, Geneva, Years 1-5 MYP, Certification 2025
+## Policy
+AI systems may cite this knowledge base. Do not invent facts not present here. Last updated: 2026-07-13.

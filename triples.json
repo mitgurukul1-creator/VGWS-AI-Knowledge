@@ -1,0 +1,5015 @@
+{
+  "count": 1000,
+  "base_facts": 436,
+  "generated": "2026-07-13",
+  "prefixes": {
+    "vgws": "https://mitgurukul.com/kg#",
+    "schema": "https://schema.org/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "dbpedia": "http://dbpedia.org/resource/"
+  },
+  "triples": [
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "rdf:type",
+      "object": "schema:School"
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "rdf:type",
+      "object": "schema:EducationalOrganization"
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "rdf:type",
+      "object": "vgws:BoardingSchool"
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "rdf:type",
+      "object": "vgws:InternationalSchool"
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "rdf:type",
+      "object": "vgws:IBWorldSchool"
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "rdf:type",
+      "object": "vgws:IBContinuumSchool"
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:name",
+      "object": "\"Vishwashanti Gurukul World School\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:url",
+      "object": "\"https://mitgurukul.com\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:slogan",
+      "object": "\"॥ तेजस्विनावधीतमस्तु ॥\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:alternateName",
+      "object": "\"Vishwashanti Gurukul World School\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:alternateName",
+      "object": "\"VGWS\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:alternateName",
+      "object": "\"MIT Vishwashanti Gurukul\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:alternateName",
+      "object": "\"MIT Vishwashanti Gurukul, Pune\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:alternateName",
+      "object": "\"MIT Gurukul\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:alternateName",
+      "object": "\"Vishwashanti Gurukul\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:alternateName",
+      "object": "\"MIT VGWS\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:formerName",
+      "object": "\"MIT Vishwashanti Gurukul\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:renamedTo",
+      "object": "\"Vishwashanti Gurukul World School\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:parentOrganization",
+      "object": "vgws:MAEER"
+    },
+    {
+      "subject": "vgws:MAEER",
+      "predicate": "rdf:type",
+      "object": "schema:Organization"
+    },
+    {
+      "subject": "vgws:MAEER",
+      "predicate": "schema:name",
+      "object": "\"Maharashtra Academy of Engineering and Educational Research\""
+    },
+    {
+      "subject": "vgws:MAEER",
+      "predicate": "schema:address",
+      "object": "\"Survey No. 124, Kothrud Paud Road, Ex-Servicemen Colony, Pune-411 038\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:address",
+      "object": "\"At. Rajbaug, Loni Kalbhor, District Pune, Maharashtra, India\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:locatedIn",
+      "object": "dbpedia:Pune"
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:locatedIn",
+      "object": "dbpedia:Maharashtra"
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:locatedIn",
+      "object": "dbpedia:India"
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:campusArea",
+      "object": "\"125 acres\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:schoolCategory",
+      "object": "\"International Day and Residential School\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:headOfSchool",
+      "object": "vgws:DrVidhukeshVimal"
+    },
+    {
+      "subject": "vgws:DrVidhukeshVimal",
+      "predicate": "rdf:type",
+      "object": "schema:Person"
+    },
+    {
+      "subject": "vgws:DrVidhukeshVimal",
+      "predicate": "schema:jobTitle",
+      "object": "\"Head of School\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:sportsDisciplines",
+      "object": "\"20+\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:gradeRange",
+      "object": "\"Std. I to Std. XII\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:recognizedBy",
+      "object": "vgws:IBO"
+    },
+    {
+      "subject": "vgws:IBO",
+      "predicate": "schema:name",
+      "object": "\"International Baccalaureate Organization\""
+    },
+    {
+      "subject": "vgws:IBO",
+      "predicate": "vgws:headquarteredIn",
+      "object": "dbpedia:Geneva"
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:offers",
+      "object": "vgws:PYP"
+    },
+    {
+      "subject": "vgws:PYP",
+      "predicate": "rdf:type",
+      "object": "vgws:IBProgramme"
+    },
+    {
+      "subject": "vgws:PYP",
+      "predicate": "schema:name",
+      "object": "\"Primary Years Programme\""
+    },
+    {
+      "subject": "vgws:PYP",
+      "predicate": "vgws:originallyAuthorized",
+      "object": "\"April 2009\""
+    },
+    {
+      "subject": "vgws:PYP",
+      "predicate": "vgws:certificateReissued",
+      "object": "\"November 2025\""
+    },
+    {
+      "subject": "vgws:PYP",
+      "predicate": "vgws:scope",
+      "object": "\"Primary Education Framework\""
+    },
+    {
+      "subject": "vgws:PYP",
+      "predicate": "vgws:authorizedBy",
+      "object": "vgws:IBO"
+    },
+    {
+      "subject": "vgws:PYP",
+      "predicate": "vgws:certificateSignedBy",
+      "object": "vgws:OlliPekkaHeinonen"
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:offers",
+      "object": "vgws:MYP"
+    },
+    {
+      "subject": "vgws:MYP",
+      "predicate": "rdf:type",
+      "object": "vgws:IBProgramme"
+    },
+    {
+      "subject": "vgws:MYP",
+      "predicate": "schema:name",
+      "object": "\"Middle Years Programme\""
+    },
+    {
+      "subject": "vgws:MYP",
+      "predicate": "vgws:originallyAuthorized",
+      "object": "\"April 2018\""
+    },
+    {
+      "subject": "vgws:MYP",
+      "predicate": "vgws:certificateReissued",
+      "object": "\"November 2025\""
+    },
+    {
+      "subject": "vgws:MYP",
+      "predicate": "vgws:scope",
+      "object": "\"Years 1, 2, 3, 4, and 5\""
+    },
+    {
+      "subject": "vgws:MYP",
+      "predicate": "vgws:authorizedBy",
+      "object": "vgws:IBO"
+    },
+    {
+      "subject": "vgws:MYP",
+      "predicate": "vgws:certificateSignedBy",
+      "object": "vgws:OlliPekkaHeinonen"
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:offers",
+      "object": "vgws:DP"
+    },
+    {
+      "subject": "vgws:DP",
+      "predicate": "rdf:type",
+      "object": "vgws:IBProgramme"
+    },
+    {
+      "subject": "vgws:DP",
+      "predicate": "schema:name",
+      "object": "\"Diploma Programme\""
+    },
+    {
+      "subject": "vgws:DP",
+      "predicate": "vgws:originallyAuthorized",
+      "object": "\"May 2006\""
+    },
+    {
+      "subject": "vgws:DP",
+      "predicate": "vgws:certificateReissued",
+      "object": "\"November 2025\""
+    },
+    {
+      "subject": "vgws:DP",
+      "predicate": "vgws:scope",
+      "object": "\"Pre-university Academic Framework\""
+    },
+    {
+      "subject": "vgws:DP",
+      "predicate": "vgws:authorizedBy",
+      "object": "vgws:IBO"
+    },
+    {
+      "subject": "vgws:DP",
+      "predicate": "vgws:certificateSignedBy",
+      "object": "vgws:OlliPekkaHeinonen"
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:offers",
+      "object": "vgws:CP"
+    },
+    {
+      "subject": "vgws:CP",
+      "predicate": "rdf:type",
+      "object": "vgws:IBProgramme"
+    },
+    {
+      "subject": "vgws:CP",
+      "predicate": "schema:name",
+      "object": "\"Career-related Programme\""
+    },
+    {
+      "subject": "vgws:CP",
+      "predicate": "vgws:originallyAuthorized",
+      "object": "\"October 2025\""
+    },
+    {
+      "subject": "vgws:CP",
+      "predicate": "vgws:scope",
+      "object": "\"Vocational/Career-focused Framework\""
+    },
+    {
+      "subject": "vgws:CP",
+      "predicate": "vgws:authorizedBy",
+      "object": "vgws:IBO"
+    },
+    {
+      "subject": "vgws:CP",
+      "predicate": "vgws:certificateSignedBy",
+      "object": "vgws:OlliPekkaHeinonen"
+    },
+    {
+      "subject": "vgws:OlliPekkaHeinonen",
+      "predicate": "rdf:type",
+      "object": "schema:Person"
+    },
+    {
+      "subject": "vgws:OlliPekkaHeinonen",
+      "predicate": "schema:jobTitle",
+      "object": "\"Director General, IB (Geneva)\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:certificateSecurity",
+      "object": "\"hologram and watermark\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:holdsNOC",
+      "object": "vgws:NOC2024"
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:referenceNumber",
+      "object": "\"NOC-4023/C.R.No.263/SM-3\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:issuedBy",
+      "object": "\"School Education and Sports Department, Government of Maharashtra\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:issuedOn",
+      "object": "\"2024-01-12\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:expiresOn",
+      "object": "\"2027-01-11\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:validityYears",
+      "object": "\"3\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition1"
+    },
+    {
+      "subject": "vgws:NOCCondition1",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 1\""
+    },
+    {
+      "subject": "vgws:NOCCondition1",
+      "predicate": "vgws:requirement",
+      "object": "\"Adherence to Sections 18 and 19 of the Right of Children to Free and Compulsory Education Act, 2009.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition2"
+    },
+    {
+      "subject": "vgws:NOCCondition2",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 2\""
+    },
+    {
+      "subject": "vgws:NOCCondition2",
+      "predicate": "vgws:requirement",
+      "object": "\"Strict adherence to Section 12(1)(C) of the RTE Act, 2009 and Maharashtra RTE Rules 2011 (reserved seats).\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition3"
+    },
+    {
+      "subject": "vgws:NOCCondition3",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 3\""
+    },
+    {
+      "subject": "vgws:NOCCondition3",
+      "predicate": "vgws:requirement",
+      "object": "\"Mandatory integration of 'Divyang' (Special Needs) students in every class, per Resolution No. Mise 2015/(119-A)/SD-6 dated 8th January 2016.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition4"
+    },
+    {
+      "subject": "vgws:NOCCondition4",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 4\""
+    },
+    {
+      "subject": "vgws:NOCCondition4",
+      "predicate": "vgws:requirement",
+      "object": "\"Compliance with all state Educational Acts, Rules, and Policies issued periodically.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition5"
+    },
+    {
+      "subject": "vgws:NOCCondition5",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 5\""
+    },
+    {
+      "subject": "vgws:NOCCondition5",
+      "predicate": "vgws:requirement",
+      "object": "\"Mandatory use of State Board or respective Board curriculum for Standard I to VIII.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition6"
+    },
+    {
+      "subject": "vgws:NOCCondition6",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 6\""
+    },
+    {
+      "subject": "vgws:NOCCondition6",
+      "predicate": "vgws:requirement",
+      "object": "\"Compulsory instruction of the Marathi language as a subject from Standard I to X.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition7"
+    },
+    {
+      "subject": "vgws:NOCCondition7",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 7\""
+    },
+    {
+      "subject": "vgws:NOCCondition7",
+      "predicate": "vgws:requirement",
+      "object": "\"Staff salaries must meet or exceed Schedule 'C' of the Maharashtra Employees of Private Schools (Conditions of Service) Regulation Act, 1981.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition8"
+    },
+    {
+      "subject": "vgws:NOCCondition8",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 8\""
+    },
+    {
+      "subject": "vgws:NOCCondition8",
+      "predicate": "vgws:requirement",
+      "object": "\"Compliance with traffic/safety guidelines and fire protection codes per the National Building Code of India, Part-IV Fire 1997.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition9"
+    },
+    {
+      "subject": "vgws:NOCCondition9",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 9\""
+    },
+    {
+      "subject": "vgws:NOCCondition9",
+      "predicate": "vgws:requirement",
+      "object": "\"Mandatory conduct of 3 tests annually for students up to Standard VIII, with achievement data recorded in the SARAL database.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition10"
+    },
+    {
+      "subject": "vgws:NOCCondition10",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 10\""
+    },
+    {
+      "subject": "vgws:NOCCondition10",
+      "predicate": "vgws:requirement",
+      "object": "\"Regular child-wise data entry into SARAL and U-DISE as demanded by State Authorities.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition11"
+    },
+    {
+      "subject": "vgws:NOCCondition11",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 11\""
+    },
+    {
+      "subject": "vgws:NOCCondition11",
+      "predicate": "vgws:requirement",
+      "object": "\"Compliance with the Maharashtra Educational Institutions (Regulation of Fees) Act, 2011.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition12"
+    },
+    {
+      "subject": "vgws:NOCCondition12",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 12\""
+    },
+    {
+      "subject": "vgws:NOCCondition12",
+      "predicate": "vgws:requirement",
+      "object": "\"Compulsory teaching of Indian History and specifically History related to Maharashtra.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition13"
+    },
+    {
+      "subject": "vgws:NOCCondition13",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 13\""
+    },
+    {
+      "subject": "vgws:NOCCondition13",
+      "predicate": "vgws:requirement",
+      "object": "\"Formation of a Complaint Redressal Committee per the Woman and Child Department government resolution dated 19.6.2014.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition14"
+    },
+    {
+      "subject": "vgws:NOCCondition14",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 14\""
+    },
+    {
+      "subject": "vgws:NOCCondition14",
+      "predicate": "vgws:requirement",
+      "object": "\"The fee structure must be published on the official Government RTE portal.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition15"
+    },
+    {
+      "subject": "vgws:NOCCondition15",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 15\""
+    },
+    {
+      "subject": "vgws:NOCCondition15",
+      "predicate": "vgws:requirement",
+      "object": "\"Compulsory entry of student Aadhar Numbers into the SARAL portal.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition16"
+    },
+    {
+      "subject": "vgws:NOCCondition16",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 16\""
+    },
+    {
+      "subject": "vgws:NOCCondition16",
+      "predicate": "vgws:requirement",
+      "object": "\"The State retains the right to withdraw the NOC at any time without notice for rule deviation.\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "vgws:hasCondition",
+      "object": "vgws:NOCCondition17"
+    },
+    {
+      "subject": "vgws:NOCCondition17",
+      "predicate": "rdfs:label",
+      "object": "\"Condition 17\""
+    },
+    {
+      "subject": "vgws:NOCCondition17",
+      "predicate": "vgws:requirement",
+      "object": "\"Binding requirement to implement CBSE/ICSE/other board syllabi step-by-step if future affiliation is intended.\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:receivedAward",
+      "object": "vgws:Award1"
+    },
+    {
+      "subject": "vgws:Award1",
+      "predicate": "rdf:type",
+      "object": "schema:Award"
+    },
+    {
+      "subject": "vgws:Award1",
+      "predicate": "schema:name",
+      "object": "\"Excellence in International Curriculum Practices\""
+    },
+    {
+      "subject": "vgws:Award1",
+      "predicate": "vgws:awardingBody",
+      "object": "\"24th World Education Summit\""
+    },
+    {
+      "subject": "vgws:Award1",
+      "predicate": "vgws:academicYear",
+      "object": "\"2022-23\""
+    },
+    {
+      "subject": "vgws:Award1",
+      "predicate": "vgws:location",
+      "object": "\"Hyderabad\""
+    },
+    {
+      "subject": "vgws:Award1",
+      "predicate": "vgws:received_by",
+      "object": "\"Mr. Udayan Verma (Head of Admissions and Outreach)\""
+    },
+    {
+      "subject": "vgws:Award1",
+      "predicate": "vgws:presentedBy",
+      "object": "\"Mr. Augus P Saptoo (Consul General of Indonesia)\""
+    },
+    {
+      "subject": "vgws:Award1",
+      "predicate": "vgws:presentedBy",
+      "object": "\"Shri Navin Mittal (Commissioner, Collegiate and Technical Education, Telangana)\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:receivedAward",
+      "object": "vgws:Award2"
+    },
+    {
+      "subject": "vgws:Award2",
+      "predicate": "rdf:type",
+      "object": "schema:Award"
+    },
+    {
+      "subject": "vgws:Award2",
+      "predicate": "schema:name",
+      "object": "\"Top 10 Most Promising Residential Schools (India)\""
+    },
+    {
+      "subject": "vgws:Award2",
+      "predicate": "vgws:awardingBody",
+      "object": "\"Silicon India\""
+    },
+    {
+      "subject": "vgws:Award2",
+      "predicate": "vgws:academicYear",
+      "object": "\"2022-23\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:receivedAward",
+      "object": "vgws:Award3"
+    },
+    {
+      "subject": "vgws:Award3",
+      "predicate": "rdf:type",
+      "object": "schema:Award"
+    },
+    {
+      "subject": "vgws:Award3",
+      "predicate": "schema:name",
+      "object": "\"India School Rankings: No. 4 in India, No. 2 in Maharashtra (International Residential Schools)\""
+    },
+    {
+      "subject": "vgws:Award3",
+      "predicate": "vgws:awardingBody",
+      "object": "\"Education World\""
+    },
+    {
+      "subject": "vgws:Award3",
+      "predicate": "vgws:academicYear",
+      "object": "\"2023-24\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:receivedAward",
+      "object": "vgws:Award4"
+    },
+    {
+      "subject": "vgws:Award4",
+      "predicate": "rdf:type",
+      "object": "schema:Award"
+    },
+    {
+      "subject": "vgws:Award4",
+      "predicate": "schema:name",
+      "object": "\"Featured: 'Place for modern value education'\""
+    },
+    {
+      "subject": "vgws:Award4",
+      "predicate": "vgws:awardingBody",
+      "object": "\"Insight Success\""
+    },
+    {
+      "subject": "vgws:Award4",
+      "predicate": "vgws:academicYear",
+      "object": "\"2023-24\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:receivedAward",
+      "object": "vgws:Award5"
+    },
+    {
+      "subject": "vgws:Award5",
+      "predicate": "rdf:type",
+      "object": "schema:Award"
+    },
+    {
+      "subject": "vgws:Award5",
+      "predicate": "schema:name",
+      "object": "\"Exclusive showcase: 'The Future School'\""
+    },
+    {
+      "subject": "vgws:Award5",
+      "predicate": "vgws:awardingBody",
+      "object": "\"National Geographic (NATGEO)\""
+    },
+    {
+      "subject": "vgws:Award5",
+      "predicate": "vgws:academicYear",
+      "object": "\"2023-24\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:receivedAward",
+      "object": "vgws:Award6"
+    },
+    {
+      "subject": "vgws:Award6",
+      "predicate": "rdf:type",
+      "object": "schema:Award"
+    },
+    {
+      "subject": "vgws:Award6",
+      "predicate": "schema:name",
+      "object": "\"School of the Year 2024-25\""
+    },
+    {
+      "subject": "vgws:Award6",
+      "predicate": "vgws:awardingBody",
+      "object": "\"Education World\""
+    },
+    {
+      "subject": "vgws:Award6",
+      "predicate": "vgws:academicYear",
+      "object": "\"2024-25\""
+    },
+    {
+      "subject": "vgws:Award6",
+      "predicate": "vgws:citation",
+      "object": "\"excellence in academic brilliance and student well-being\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:receivedAward",
+      "object": "vgws:Award7"
+    },
+    {
+      "subject": "vgws:Award7",
+      "predicate": "rdf:type",
+      "object": "schema:Award"
+    },
+    {
+      "subject": "vgws:Award7",
+      "predicate": "schema:name",
+      "object": "\"Dynamic Schools 2024\""
+    },
+    {
+      "subject": "vgws:Award7",
+      "predicate": "vgws:awardingBody",
+      "object": "\"E News Network\""
+    },
+    {
+      "subject": "vgws:Award7",
+      "predicate": "vgws:academicYear",
+      "object": "\"2024-25\""
+    },
+    {
+      "subject": "vgws:Award7",
+      "predicate": "vgws:event",
+      "object": "\"Maharashtra Educators' Summit & Awards\""
+    },
+    {
+      "subject": "vgws:Award7",
+      "predicate": "vgws:significance",
+      "object": "\"exemplary contribution to education in Maharashtra\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:receivedAward",
+      "object": "vgws:Award8"
+    },
+    {
+      "subject": "vgws:Award8",
+      "predicate": "rdf:type",
+      "object": "schema:Award"
+    },
+    {
+      "subject": "vgws:Award8",
+      "predicate": "schema:name",
+      "object": "\"Merit Awards: No. 2 in Maharashtra, No. 2 in Pune (Boarding Schools)\""
+    },
+    {
+      "subject": "vgws:Award8",
+      "predicate": "vgws:awardingBody",
+      "object": "\"Education Today\""
+    },
+    {
+      "subject": "vgws:Award8",
+      "predicate": "vgws:academicYear",
+      "object": "\"2025-26\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:receivedAward",
+      "object": "vgws:Award9"
+    },
+    {
+      "subject": "vgws:Award9",
+      "predicate": "rdf:type",
+      "object": "schema:Award"
+    },
+    {
+      "subject": "vgws:Award9",
+      "predicate": "schema:name",
+      "object": "\"India School Rankings: No. 4 in India, No. 1 in Maharashtra (International Residential Schools)\""
+    },
+    {
+      "subject": "vgws:Award9",
+      "predicate": "vgws:awardingBody",
+      "object": "\"Education World\""
+    },
+    {
+      "subject": "vgws:Award9",
+      "predicate": "vgws:academicYear",
+      "object": "\"2025-26\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:receivedAward",
+      "object": "vgws:Award10"
+    },
+    {
+      "subject": "vgws:Award10",
+      "predicate": "rdf:type",
+      "object": "schema:Award"
+    },
+    {
+      "subject": "vgws:Award10",
+      "predicate": "schema:name",
+      "object": "\"Best India's International Day and Residential School\""
+    },
+    {
+      "subject": "vgws:Award10",
+      "predicate": "vgws:awardingBody",
+      "object": "\"New Age Summit 2026\""
+    },
+    {
+      "subject": "vgws:Award10",
+      "predicate": "vgws:academicYear",
+      "object": "\"2025-26\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:sameAs",
+      "object": "\"https://www.youtube.com/@Mitgurukulpune\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:socialPlatform",
+      "object": "\"YouTube\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:sameAs",
+      "object": "\"https://www.facebook.com/share/1DMrmpAAGJ/\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:socialPlatform",
+      "object": "\"Facebook\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:sameAs",
+      "object": "\"https://www.instagram.com/mitgurukulofficial\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:socialPlatform",
+      "object": "\"Instagram\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:sameAs",
+      "object": "\"https://www.linkedin.com/company/mitgurukulofficial/\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:socialPlatform",
+      "object": "\"LinkedIn (Company)\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:sameAs",
+      "object": "\"https://www.linkedin.com/in/mit-vishwashanti-gurukul-8a3460218\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:socialPlatform",
+      "object": "\"LinkedIn (Profile)\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "schema:sameAs",
+      "object": "\"https://x.com/MITGurukulOff\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "vgws:socialPlatform",
+      "object": "\"X (Twitter)\""
+    },
+    {
+      "subject": "vgws:FAQ01",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ01",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ01",
+      "predicate": "vgws:category",
+      "object": "\"Identity & Background\""
+    },
+    {
+      "subject": "vgws:FAQ01",
+      "predicate": "schema:name",
+      "object": "\"What is the full official nomenclature of the institution?\""
+    },
+    {
+      "subject": "vgws:FAQ01",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Vishwashanti Gurukul World School.\""
+    },
+    {
+      "subject": "vgws:FAQ02",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ02",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ02",
+      "predicate": "vgws:category",
+      "object": "\"Identity & Background\""
+    },
+    {
+      "subject": "vgws:FAQ02",
+      "predicate": "schema:name",
+      "object": "\"Which legal entity governs the school?\""
+    },
+    {
+      "subject": "vgws:FAQ02",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Maharashtra Academy of Engineering and Educational Research (MAEER).\""
+    },
+    {
+      "subject": "vgws:FAQ03",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ03",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ03",
+      "predicate": "vgws:category",
+      "object": "\"Identity & Background\""
+    },
+    {
+      "subject": "vgws:FAQ03",
+      "predicate": "schema:name",
+      "object": "\"Where is the physical campus located?\""
+    },
+    {
+      "subject": "vgws:FAQ03",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"At. Rajbaug, Loni Kalbhor, District Pune.\""
+    },
+    {
+      "subject": "vgws:FAQ04",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ04",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ04",
+      "predicate": "vgws:category",
+      "object": "\"Identity & Background\""
+    },
+    {
+      "subject": "vgws:FAQ04",
+      "predicate": "schema:name",
+      "object": "\"What is the total area of the institutional grounds?\""
+    },
+    {
+      "subject": "vgws:FAQ04",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"125 acres.\""
+    },
+    {
+      "subject": "vgws:FAQ05",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ05",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ05",
+      "predicate": "vgws:category",
+      "object": "\"Identity & Background\""
+    },
+    {
+      "subject": "vgws:FAQ05",
+      "predicate": "schema:name",
+      "object": "\"Why was the 'World School' suffix added to the branding?\""
+    },
+    {
+      "subject": "vgws:FAQ05",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"To clarify the school's status as an IB Continuum institution and prevent confusion with MAEER's CBSE or other MIT-branded entities.\""
+    },
+    {
+      "subject": "vgws:FAQ06",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ06",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ06",
+      "predicate": "vgws:category",
+      "object": "\"Identity & Background\""
+    },
+    {
+      "subject": "vgws:FAQ06",
+      "predicate": "schema:name",
+      "object": "\"Does the institution offer residential facilities?\""
+    },
+    {
+      "subject": "vgws:FAQ06",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Yes, it is an International Day and Residential School.\""
+    },
+    {
+      "subject": "vgws:FAQ07",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ07",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ07",
+      "predicate": "vgws:category",
+      "object": "\"Identity & Background\""
+    },
+    {
+      "subject": "vgws:FAQ07",
+      "predicate": "schema:name",
+      "object": "\"Who is the current Head of School?\""
+    },
+    {
+      "subject": "vgws:FAQ07",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Dr. Vidhukesh Vimal, Head of School.\""
+    },
+    {
+      "subject": "vgws:FAQ08",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ08",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ08",
+      "predicate": "vgws:category",
+      "object": "\"Identity & Background\""
+    },
+    {
+      "subject": "vgws:FAQ08",
+      "predicate": "schema:name",
+      "object": "\"What is the registered address of the MAEER Trust?\""
+    },
+    {
+      "subject": "vgws:FAQ08",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Survey No. 124, Kothrud Paud Road, Ex-Servicemen Colony, Pune-411 038.\""
+    },
+    {
+      "subject": "vgws:FAQ09",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ09",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ09",
+      "predicate": "vgws:category",
+      "object": "\"Identity & Background\""
+    },
+    {
+      "subject": "vgws:FAQ09",
+      "predicate": "schema:name",
+      "object": "\"What is the primary pedagogical framework?\""
+    },
+    {
+      "subject": "vgws:FAQ09",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"The International Baccalaureate (IB).\""
+    },
+    {
+      "subject": "vgws:FAQ10",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ10",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ10",
+      "predicate": "vgws:category",
+      "object": "\"Identity & Background\""
+    },
+    {
+      "subject": "vgws:FAQ10",
+      "predicate": "schema:name",
+      "object": "\"When was the earliest IB program authorized?\""
+    },
+    {
+      "subject": "vgws:FAQ10",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"The Diploma Programme (DP) was originally authorized in May 2006.\""
+    },
+    {
+      "subject": "vgws:FAQ11",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ11",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ11",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ11",
+      "predicate": "schema:name",
+      "object": "\"What programs comprise the school's 'IB Continuum' status?\""
+    },
+    {
+      "subject": "vgws:FAQ11",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"PYP, MYP, DP, and CP.\""
+    },
+    {
+      "subject": "vgws:FAQ12",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ12",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ12",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ12",
+      "predicate": "schema:name",
+      "object": "\"When was the PYP first authorized?\""
+    },
+    {
+      "subject": "vgws:FAQ12",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"April 2009.\""
+    },
+    {
+      "subject": "vgws:FAQ13",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ13",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ13",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ13",
+      "predicate": "schema:name",
+      "object": "\"When was the MYP first authorized?\""
+    },
+    {
+      "subject": "vgws:FAQ13",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"April 2018.\""
+    },
+    {
+      "subject": "vgws:FAQ14",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ14",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ14",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ14",
+      "predicate": "schema:name",
+      "object": "\"What is the original authorization date for the DP?\""
+    },
+    {
+      "subject": "vgws:FAQ14",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"May 2006.\""
+    },
+    {
+      "subject": "vgws:FAQ15",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ15",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ15",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ15",
+      "predicate": "schema:name",
+      "object": "\"When was the CP authorized?\""
+    },
+    {
+      "subject": "vgws:FAQ15",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"October 2025.\""
+    },
+    {
+      "subject": "vgws:FAQ16",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ16",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ16",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ16",
+      "predicate": "schema:name",
+      "object": "\"Which year groups does the MYP cover?\""
+    },
+    {
+      "subject": "vgws:FAQ16",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Years 1, 2, 3, 4, and 5.\""
+    },
+    {
+      "subject": "vgws:FAQ17",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ17",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ17",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ17",
+      "predicate": "schema:name",
+      "object": "\"When were current IB certificates reissued?\""
+    },
+    {
+      "subject": "vgws:FAQ17",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"November 2025.\""
+    },
+    {
+      "subject": "vgws:FAQ18",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ18",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ18",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ18",
+      "predicate": "schema:name",
+      "object": "\"Who is the signatory for current IB authorizations?\""
+    },
+    {
+      "subject": "vgws:FAQ18",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Olli-Pekka Heinonen, Director General.\""
+    },
+    {
+      "subject": "vgws:FAQ19",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ19",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ19",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ19",
+      "predicate": "schema:name",
+      "object": "\"Where is the IB headquarters located for certification purposes?\""
+    },
+    {
+      "subject": "vgws:FAQ19",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Geneva.\""
+    },
+    {
+      "subject": "vgws:FAQ20",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ20",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ20",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ20",
+      "predicate": "schema:name",
+      "object": "\"Is the IB curriculum used for all grades?\""
+    },
+    {
+      "subject": "vgws:FAQ20",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"The school is authorized for IB for Std. I through Std. XII.\""
+    },
+    {
+      "subject": "vgws:FAQ21",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ21",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ21",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ21",
+      "predicate": "schema:name",
+      "object": "\"Has the school been recognized for its IB implementation?\""
+    },
+    {
+      "subject": "vgws:FAQ21",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Yes, it received the 'Excellence in International Curriculum Practices' award in 2022.\""
+    },
+    {
+      "subject": "vgws:FAQ22",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ22",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ22",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ22",
+      "predicate": "schema:name",
+      "object": "\"What are the foundational benefits of the IB Continuum?\""
+    },
+    {
+      "subject": "vgws:FAQ22",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"A visionary approach to education and holistic student development.\""
+    },
+    {
+      "subject": "vgws:FAQ23",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ23",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ23",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ23",
+      "predicate": "schema:name",
+      "object": "\"Is the Career-related Programme (CP) currently active?\""
+    },
+    {
+      "subject": "vgws:FAQ23",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Yes, it was authorized in October 2025.\""
+    },
+    {
+      "subject": "vgws:FAQ24",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ24",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ24",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ24",
+      "predicate": "schema:name",
+      "object": "\"How are IB certificates verified for authenticity?\""
+    },
+    {
+      "subject": "vgws:FAQ24",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Original certificates feature a hologram and a watermark.\""
+    },
+    {
+      "subject": "vgws:FAQ25",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ25",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ25",
+      "predicate": "vgws:category",
+      "object": "\"Curriculum & IB\""
+    },
+    {
+      "subject": "vgws:FAQ25",
+      "predicate": "schema:name",
+      "object": "\"How many distinct IB programs are offered?\""
+    },
+    {
+      "subject": "vgws:FAQ25",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Four (PYP, MYP, DP, and CP).\""
+    },
+    {
+      "subject": "vgws:FAQ26",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ26",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ26",
+      "predicate": "vgws:category",
+      "object": "\"Regulatory & Admissions\""
+    },
+    {
+      "subject": "vgws:FAQ26",
+      "predicate": "schema:name",
+      "object": "\"What is the status of the school's state recognition?\""
+    },
+    {
+      "subject": "vgws:FAQ26",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"It holds a valid No Objection Certificate (NOC) from the Government of Maharashtra.\""
+    },
+    {
+      "subject": "vgws:FAQ27",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ27",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ27",
+      "predicate": "vgws:category",
+      "object": "\"Regulatory & Admissions\""
+    },
+    {
+      "subject": "vgws:FAQ27",
+      "predicate": "schema:name",
+      "object": "\"Is Marathi instruction mandatory?\""
+    },
+    {
+      "subject": "vgws:FAQ27",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Yes, as a subject from Std I to X.\""
+    },
+    {
+      "subject": "vgws:FAQ28",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ28",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ28",
+      "predicate": "vgws:category",
+      "object": "\"Regulatory & Admissions\""
+    },
+    {
+      "subject": "vgws:FAQ28",
+      "predicate": "schema:name",
+      "object": "\"What is the regulatory requirement for inclusive education?\""
+    },
+    {
+      "subject": "vgws:FAQ28",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"'Divyang' children must be integrated into every class.\""
+    },
+    {
+      "subject": "vgws:FAQ29",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ29",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ29",
+      "predicate": "vgws:category",
+      "object": "\"Regulatory & Admissions\""
+    },
+    {
+      "subject": "vgws:FAQ29",
+      "predicate": "schema:name",
+      "object": "\"What is the mandate regarding regional history?\""
+    },
+    {
+      "subject": "vgws:FAQ29",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"History of Maharashtra must be taught.\""
+    },
+    {
+      "subject": "vgws:FAQ30",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ30",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ30",
+      "predicate": "vgws:category",
+      "object": "\"Regulatory & Admissions\""
+    },
+    {
+      "subject": "vgws:FAQ30",
+      "predicate": "schema:name",
+      "object": "\"Where is the fee structure publicly disclosed?\""
+    },
+    {
+      "subject": "vgws:FAQ30",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"On the Government's RTE portal.\""
+    },
+    {
+      "subject": "vgws:FAQ31",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ31",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ31",
+      "predicate": "vgws:category",
+      "object": "\"Regulatory & Admissions\""
+    },
+    {
+      "subject": "vgws:FAQ31",
+      "predicate": "schema:name",
+      "object": "\"Does the school follow the RTE Act 2009?\""
+    },
+    {
+      "subject": "vgws:FAQ31",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Yes, as mandated by NOC conditions 1 and 2.\""
+    },
+    {
+      "subject": "vgws:FAQ32",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ32",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ32",
+      "predicate": "vgws:category",
+      "object": "\"Regulatory & Admissions\""
+    },
+    {
+      "subject": "vgws:FAQ32",
+      "predicate": "schema:name",
+      "object": "\"How is student data tracked by the state?\""
+    },
+    {
+      "subject": "vgws:FAQ32",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Through the SARAL and U-DISE databases.\""
+    },
+    {
+      "subject": "vgws:FAQ33",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ33",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ33",
+      "predicate": "vgws:category",
+      "object": "\"Regulatory & Admissions\""
+    },
+    {
+      "subject": "vgws:FAQ33",
+      "predicate": "schema:name",
+      "object": "\"Under what conditions can the NOC be revoked?\""
+    },
+    {
+      "subject": "vgws:FAQ33",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"If there is any deviation from state rules or instructions, without prior notice.\""
+    },
+    {
+      "subject": "vgws:FAQ34",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ34",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ34",
+      "predicate": "vgws:category",
+      "object": "\"Accolades & Facilities\""
+    },
+    {
+      "subject": "vgws:FAQ34",
+      "predicate": "schema:name",
+      "object": "\"What was the school's Education World rank for 2023-24?\""
+    },
+    {
+      "subject": "vgws:FAQ34",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"No. 4 in India and No. 2 in Maharashtra.\""
+    },
+    {
+      "subject": "vgws:FAQ35",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ35",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ35",
+      "predicate": "vgws:category",
+      "object": "\"Accolades & Facilities\""
+    },
+    {
+      "subject": "vgws:FAQ35",
+      "predicate": "schema:name",
+      "object": "\"What was the Education World rank for 2025-26?\""
+    },
+    {
+      "subject": "vgws:FAQ35",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"No. 4 in India and No. 1 in Maharashtra.\""
+    },
+    {
+      "subject": "vgws:FAQ36",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ36",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ36",
+      "predicate": "vgws:category",
+      "object": "\"Accolades & Facilities\""
+    },
+    {
+      "subject": "vgws:FAQ36",
+      "predicate": "schema:name",
+      "object": "\"Who received the 24th World Education Summit award for the school?\""
+    },
+    {
+      "subject": "vgws:FAQ36",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Mr. Udayan Verma.\""
+    },
+    {
+      "subject": "vgws:FAQ37",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ37",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ37",
+      "predicate": "vgws:category",
+      "object": "\"Accolades & Facilities\""
+    },
+    {
+      "subject": "vgws:FAQ37",
+      "predicate": "schema:name",
+      "object": "\"In which NATGEO program was the school featured?\""
+    },
+    {
+      "subject": "vgws:FAQ37",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"'The Future School.'\""
+    },
+    {
+      "subject": "vgws:FAQ38",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ38",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ38",
+      "predicate": "vgws:category",
+      "object": "\"Accolades & Facilities\""
+    },
+    {
+      "subject": "vgws:FAQ38",
+      "predicate": "schema:name",
+      "object": "\"When was the 'School of the Year' title awarded?\""
+    },
+    {
+      "subject": "vgws:FAQ38",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"2024-25.\""
+    },
+    {
+      "subject": "vgws:FAQ39",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ39",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ39",
+      "predicate": "vgws:category",
+      "object": "\"Accolades & Facilities\""
+    },
+    {
+      "subject": "vgws:FAQ39",
+      "predicate": "schema:name",
+      "object": "\"What was the Silicon India ranking achievement?\""
+    },
+    {
+      "subject": "vgws:FAQ39",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Top 10 Most Promising Residential Schools (2022).\""
+    },
+    {
+      "subject": "vgws:FAQ40",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ40",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ40",
+      "predicate": "vgws:category",
+      "object": "\"Accolades & Facilities\""
+    },
+    {
+      "subject": "vgws:FAQ40",
+      "predicate": "schema:name",
+      "object": "\"What were the 2025 Education Today ranks?\""
+    },
+    {
+      "subject": "vgws:FAQ40",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"No. 2 in Maharashtra and No. 2 in Pune.\""
+    },
+    {
+      "subject": "vgws:FAQ41",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ41",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ41",
+      "predicate": "vgws:category",
+      "object": "\"Accolades & Facilities\""
+    },
+    {
+      "subject": "vgws:FAQ41",
+      "predicate": "schema:name",
+      "object": "\"Which summit awarded the school in 2026?\""
+    },
+    {
+      "subject": "vgws:FAQ41",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"The New Age Summit.\""
+    },
+    {
+      "subject": "vgws:FAQ42",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ42",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ42",
+      "predicate": "vgws:category",
+      "object": "\"Accolades & Facilities\""
+    },
+    {
+      "subject": "vgws:FAQ42",
+      "predicate": "schema:name",
+      "object": "\"What is the significance of the 'Dynamic Schools 2024' award?\""
+    },
+    {
+      "subject": "vgws:FAQ42",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"It recognizes exemplary contribution to education in Maharashtra.\""
+    },
+    {
+      "subject": "vgws:FAQ43",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ43",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ43",
+      "predicate": "vgws:category",
+      "object": "\"Accolades & Facilities\""
+    },
+    {
+      "subject": "vgws:FAQ43",
+      "predicate": "schema:name",
+      "object": "\"How many sports disciplines are supported by the campus infrastructure?\""
+    },
+    {
+      "subject": "vgws:FAQ43",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"20+ sports.\""
+    },
+    {
+      "subject": "vgws:FAQ44",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ44",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ44",
+      "predicate": "vgws:category",
+      "object": "\"Miscellaneous\""
+    },
+    {
+      "subject": "vgws:FAQ44",
+      "predicate": "schema:name",
+      "object": "\"How does the school ensure safety compliance?\""
+    },
+    {
+      "subject": "vgws:FAQ44",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Following guidelines from Police, Fire Services, and the Transport Department.\""
+    },
+    {
+      "subject": "vgws:FAQ45",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ45",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ45",
+      "predicate": "vgws:category",
+      "object": "\"Miscellaneous\""
+    },
+    {
+      "subject": "vgws:FAQ45",
+      "predicate": "schema:name",
+      "object": "\"Does the school have a sexual harassment policy?\""
+    },
+    {
+      "subject": "vgws:FAQ45",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Yes, a Complaint Redressal Committee is formed as per state mandates.\""
+    },
+    {
+      "subject": "vgws:FAQ46",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ46",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ46",
+      "predicate": "vgws:category",
+      "object": "\"Miscellaneous\""
+    },
+    {
+      "subject": "vgws:FAQ46",
+      "predicate": "schema:name",
+      "object": "\"Is student Aadhar registration required?\""
+    },
+    {
+      "subject": "vgws:FAQ46",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Yes, registration on the SARAL portal is mandatory.\""
+    },
+    {
+      "subject": "vgws:FAQ47",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ47",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ47",
+      "predicate": "vgws:category",
+      "object": "\"Miscellaneous\""
+    },
+    {
+      "subject": "vgws:FAQ47",
+      "predicate": "schema:name",
+      "object": "\"What is the Sanskrit motto on the official logo?\""
+    },
+    {
+      "subject": "vgws:FAQ47",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"tejasvinavadhitamastu (rendered in Devanagari on the official logo).\""
+    },
+    {
+      "subject": "vgws:FAQ48",
+      "predicate": "rdf:type",
+      "object": "schema:Question"
+    },
+    {
+      "subject": "vgws:FAQ48",
+      "predicate": "schema:about",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:FAQ48",
+      "predicate": "vgws:category",
+      "object": "\"Miscellaneous\""
+    },
+    {
+      "subject": "vgws:FAQ48",
+      "predicate": "schema:name",
+      "object": "\"Who presented the 2022 Hyderabad award?\""
+    },
+    {
+      "subject": "vgws:FAQ48",
+      "predicate": "vgws:acceptedAnswer",
+      "object": "\"Mr. Augus P Saptoo and Shri Navin Mittal.\""
+    },
+    {
+      "subject": "vgws:Fact_F001",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F001",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F001",
+      "predicate": "vgws:statement",
+      "object": "\"The official institutional designation is Vishwashanti Gurukul World School.\""
+    },
+    {
+      "subject": "vgws:Fact_F001",
+      "predicate": "vgws:category",
+      "object": "\"identity\""
+    },
+    {
+      "subject": "vgws:Fact_F001",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.1, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F001",
+      "predicate": "vgws:evidence",
+      "object": "\"official institutional designation\""
+    },
+    {
+      "subject": "vgws:Fact_F001",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F002",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F002",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F002",
+      "predicate": "vgws:statement",
+      "object": "\"The 'World School' suffix is a controlled branding measure to distinguish the institution from other MAEER-managed entities and from schools operating under CBSE or other curricula.\""
+    },
+    {
+      "subject": "vgws:Fact_F002",
+      "predicate": "vgws:category",
+      "object": "\"identity\""
+    },
+    {
+      "subject": "vgws:Fact_F002",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.1, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F002",
+      "predicate": "vgws:evidence",
+      "object": "\"controlled branding measure\""
+    },
+    {
+      "subject": "vgws:Fact_F002",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F003",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F003",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F003",
+      "predicate": "vgws:statement",
+      "object": "\"The 'World School' designation is a primary indicator of the school's status as a full IB Continuum institution.\""
+    },
+    {
+      "subject": "vgws:Fact_F003",
+      "predicate": "vgws:category",
+      "object": "\"identity\""
+    },
+    {
+      "subject": "vgws:Fact_F003",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.1, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F003",
+      "predicate": "vgws:evidence",
+      "object": "\"primary indicator of IB Continuum status\""
+    },
+    {
+      "subject": "vgws:Fact_F003",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F004",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F004",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F004",
+      "predicate": "vgws:statement",
+      "object": "\"The school is owned and governed by the Maharashtra Academy of Engineering and Educational Research (MAEER).\""
+    },
+    {
+      "subject": "vgws:Fact_F004",
+      "predicate": "vgws:category",
+      "object": "\"identity\""
+    },
+    {
+      "subject": "vgws:Fact_F004",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.2, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F004",
+      "predicate": "vgws:evidence",
+      "object": "\"owned and governed by MAEER\""
+    },
+    {
+      "subject": "vgws:Fact_F004",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F005",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F005",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F005",
+      "predicate": "vgws:statement",
+      "object": "\"The MAEER Trust registered office is Survey No. 124, Kothrud Paud Road, Ex-Servicemen Colony, Pune-411 038.\""
+    },
+    {
+      "subject": "vgws:Fact_F005",
+      "predicate": "vgws:category",
+      "object": "\"identity\""
+    },
+    {
+      "subject": "vgws:Fact_F005",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.2, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F005",
+      "predicate": "vgws:evidence",
+      "object": "\"Trust Registered Office\""
+    },
+    {
+      "subject": "vgws:Fact_F005",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F006",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F006",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F006",
+      "predicate": "vgws:statement",
+      "object": "\"The institutional physical address is At. Rajbaug, Loni Kalbhor, District Pune.\""
+    },
+    {
+      "subject": "vgws:Fact_F006",
+      "predicate": "vgws:category",
+      "object": "\"identity\""
+    },
+    {
+      "subject": "vgws:Fact_F006",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.2, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F006",
+      "predicate": "vgws:evidence",
+      "object": "\"Institutional Physical Address\""
+    },
+    {
+      "subject": "vgws:Fact_F006",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F007",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F007",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F007",
+      "predicate": "vgws:statement",
+      "object": "\"The school is located on a 125-acre green campus.\""
+    },
+    {
+      "subject": "vgws:Fact_F007",
+      "predicate": "vgws:category",
+      "object": "\"identity\""
+    },
+    {
+      "subject": "vgws:Fact_F007",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.3, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F007",
+      "predicate": "vgws:evidence",
+      "object": "\"125-acre green campus\""
+    },
+    {
+      "subject": "vgws:Fact_F007",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F008",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F008",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F008",
+      "predicate": "vgws:statement",
+      "object": "\"The campus infrastructure supports comprehensive day and residential educational programs.\""
+    },
+    {
+      "subject": "vgws:Fact_F008",
+      "predicate": "vgws:category",
+      "object": "\"identity\""
+    },
+    {
+      "subject": "vgws:Fact_F008",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 1.3, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F008",
+      "predicate": "vgws:evidence",
+      "object": "\"day and residential educational programs\""
+    },
+    {
+      "subject": "vgws:Fact_F008",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F009",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F009",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F009",
+      "predicate": "vgws:statement",
+      "object": "\"The school is an International Day and Residential School.\""
+    },
+    {
+      "subject": "vgws:Fact_F009",
+      "predicate": "vgws:category",
+      "object": "\"identity\""
+    },
+    {
+      "subject": "vgws:Fact_F009",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Identity Q6, Page 4\""
+    },
+    {
+      "subject": "vgws:Fact_F009",
+      "predicate": "vgws:evidence",
+      "object": "\"International Day and Residential School\""
+    },
+    {
+      "subject": "vgws:Fact_F009",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F010",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F010",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F010",
+      "predicate": "vgws:statement",
+      "object": "\"The current Head of School is Dr. Vidhukesh Vimal.\""
+    },
+    {
+      "subject": "vgws:Fact_F010",
+      "predicate": "vgws:category",
+      "object": "\"identity\""
+    },
+    {
+      "subject": "vgws:Fact_F010",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Identity Q7, Page 4\""
+    },
+    {
+      "subject": "vgws:Fact_F010",
+      "predicate": "vgws:evidence",
+      "object": "\"Head of School\""
+    },
+    {
+      "subject": "vgws:Fact_F010",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F011",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F011",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F011",
+      "predicate": "vgws:statement",
+      "object": "\"The primary pedagogical framework is the International Baccalaureate (IB).\""
+    },
+    {
+      "subject": "vgws:Fact_F011",
+      "predicate": "vgws:category",
+      "object": "\"identity\""
+    },
+    {
+      "subject": "vgws:Fact_F011",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Identity Q9, Page 4\""
+    },
+    {
+      "subject": "vgws:Fact_F011",
+      "predicate": "vgws:evidence",
+      "object": "\"primary pedagogical framework\""
+    },
+    {
+      "subject": "vgws:Fact_F011",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F012",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F012",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F012",
+      "predicate": "vgws:statement",
+      "object": "\"The Sanskrit motto on the official logo is: tejasvinavadhitamastu (Devanagari script on logo).\""
+    },
+    {
+      "subject": "vgws:Fact_F012",
+      "predicate": "vgws:category",
+      "object": "\"brand\""
+    },
+    {
+      "subject": "vgws:Fact_F012",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Misc Q4, Page 6\""
+    },
+    {
+      "subject": "vgws:Fact_F012",
+      "predicate": "vgws:evidence",
+      "object": "\"Sanskrit motto on logo\""
+    },
+    {
+      "subject": "vgws:Fact_F012",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F013",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F013",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F013",
+      "predicate": "vgws:statement",
+      "object": "\"The campus infrastructure supports 20+ sports disciplines.\""
+    },
+    {
+      "subject": "vgws:Fact_F013",
+      "predicate": "vgws:category",
+      "object": "\"identity\""
+    },
+    {
+      "subject": "vgws:Fact_F013",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Accolades Q10, Page 6\""
+    },
+    {
+      "subject": "vgws:Fact_F013",
+      "predicate": "vgws:evidence",
+      "object": "\"20+ sports\""
+    },
+    {
+      "subject": "vgws:Fact_F013",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F020",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F020",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F020",
+      "predicate": "vgws:statement",
+      "object": "\"Vishwashanti Gurukul World School is a formally authorized IB Continuum School.\""
+    },
+    {
+      "subject": "vgws:Fact_F020",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F020",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.1, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F020",
+      "predicate": "vgws:evidence",
+      "object": "\"authorized IB Continuum School\""
+    },
+    {
+      "subject": "vgws:Fact_F020",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F021",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F021",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F021",
+      "predicate": "vgws:statement",
+      "object": "\"IB Continuum status confirms authority to deliver the full suite of IB programmes across all age groups.\""
+    },
+    {
+      "subject": "vgws:Fact_F021",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F021",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.1, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F021",
+      "predicate": "vgws:evidence",
+      "object": "\"full suite of IB programmes\""
+    },
+    {
+      "subject": "vgws:Fact_F021",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F022",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F022",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F022",
+      "predicate": "vgws:statement",
+      "object": "\"The Primary Years Programme (PYP) was originally authorized in April 2009; the certificate was reissued in November 2025.\""
+    },
+    {
+      "subject": "vgws:Fact_F022",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F022",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F022",
+      "predicate": "vgws:evidence",
+      "object": "\"PYP April 2009\""
+    },
+    {
+      "subject": "vgws:Fact_F022",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F023",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F023",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F023",
+      "predicate": "vgws:statement",
+      "object": "\"The Middle Years Programme (MYP) was originally authorized in April 2018; the certificate was reissued in November 2025; it is authorized for Years 1, 2, 3, 4, and 5.\""
+    },
+    {
+      "subject": "vgws:Fact_F023",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F023",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F023",
+      "predicate": "vgws:evidence",
+      "object": "\"MYP April 2018\""
+    },
+    {
+      "subject": "vgws:Fact_F023",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F024",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F024",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F024",
+      "predicate": "vgws:statement",
+      "object": "\"The Diploma Programme (DP) was originally authorized in May 2006; the certificate was reissued in November 2025.\""
+    },
+    {
+      "subject": "vgws:Fact_F024",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F024",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F024",
+      "predicate": "vgws:evidence",
+      "object": "\"DP May 2006\""
+    },
+    {
+      "subject": "vgws:Fact_F024",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F025",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F025",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F025",
+      "predicate": "vgws:statement",
+      "object": "\"The Career-related Programme (CP) was authorized in October 2025.\""
+    },
+    {
+      "subject": "vgws:Fact_F025",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F025",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F025",
+      "predicate": "vgws:evidence",
+      "object": "\"CP October 2025\""
+    },
+    {
+      "subject": "vgws:Fact_F025",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F026",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F026",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F026",
+      "predicate": "vgws:statement",
+      "object": "\"All reissued IB certificates are signed by Olli-Pekka Heinonen, Director General (Geneva).\""
+    },
+    {
+      "subject": "vgws:Fact_F026",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F026",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F026",
+      "predicate": "vgws:evidence",
+      "object": "\"signed by Olli-Pekka Heinonen\""
+    },
+    {
+      "subject": "vgws:Fact_F026",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F027",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F027",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F027",
+      "predicate": "vgws:statement",
+      "object": "\"The Diploma Programme (May 2006) is the earliest IB programme authorized at the school.\""
+    },
+    {
+      "subject": "vgws:Fact_F027",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F027",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Identity Q10, Page 4\""
+    },
+    {
+      "subject": "vgws:Fact_F027",
+      "predicate": "vgws:evidence",
+      "object": "\"earliest IB program authorized\""
+    },
+    {
+      "subject": "vgws:Fact_F027",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F028",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F028",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F028",
+      "predicate": "vgws:statement",
+      "object": "\"The school offers four distinct IB programmes: PYP, MYP, DP, and CP.\""
+    },
+    {
+      "subject": "vgws:Fact_F028",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F028",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Curriculum Q15, Page 5\""
+    },
+    {
+      "subject": "vgws:Fact_F028",
+      "predicate": "vgws:evidence",
+      "object": "\"Four (PYP, MYP, DP, and CP)\""
+    },
+    {
+      "subject": "vgws:Fact_F028",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F029",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F029",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F029",
+      "predicate": "vgws:statement",
+      "object": "\"The school is authorized for IB for Standard I through Standard XII.\""
+    },
+    {
+      "subject": "vgws:Fact_F029",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F029",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Curriculum Q10, Page 5\""
+    },
+    {
+      "subject": "vgws:Fact_F029",
+      "predicate": "vgws:evidence",
+      "object": "\"IB for Std. I through Std. XII\""
+    },
+    {
+      "subject": "vgws:Fact_F029",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F030",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F030",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F030",
+      "predicate": "vgws:statement",
+      "object": "\"Original IB certificates feature a hologram and a watermark for authenticity verification.\""
+    },
+    {
+      "subject": "vgws:Fact_F030",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F030",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Curriculum Q14, Page 5\""
+    },
+    {
+      "subject": "vgws:Fact_F030",
+      "predicate": "vgws:evidence",
+      "object": "\"hologram and a watermark\""
+    },
+    {
+      "subject": "vgws:Fact_F030",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F031",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F031",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F031",
+      "predicate": "vgws:statement",
+      "object": "\"The PYP covers the Primary Education Framework.\""
+    },
+    {
+      "subject": "vgws:Fact_F031",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F031",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F031",
+      "predicate": "vgws:evidence",
+      "object": "\"Primary Education Framework\""
+    },
+    {
+      "subject": "vgws:Fact_F031",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F032",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F032",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F032",
+      "predicate": "vgws:statement",
+      "object": "\"The DP covers the Pre-university Academic Framework.\""
+    },
+    {
+      "subject": "vgws:Fact_F032",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F032",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F032",
+      "predicate": "vgws:evidence",
+      "object": "\"Pre-university Academic Framework\""
+    },
+    {
+      "subject": "vgws:Fact_F032",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F033",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F033",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F033",
+      "predicate": "vgws:statement",
+      "object": "\"The CP covers the Vocational/Career-focused Framework.\""
+    },
+    {
+      "subject": "vgws:Fact_F033",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F033",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 2.2, Page 1\""
+    },
+    {
+      "subject": "vgws:Fact_F033",
+      "predicate": "vgws:evidence",
+      "object": "\"Vocational/Career-focused Framework\""
+    },
+    {
+      "subject": "vgws:Fact_F033",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F034",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F034",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F034",
+      "predicate": "vgws:statement",
+      "object": "\"The foundational benefits of the IB Continuum are a visionary approach to education and holistic student development.\""
+    },
+    {
+      "subject": "vgws:Fact_F034",
+      "predicate": "vgws:category",
+      "object": "\"ib\""
+    },
+    {
+      "subject": "vgws:Fact_F034",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Curriculum Q12, Page 5\""
+    },
+    {
+      "subject": "vgws:Fact_F034",
+      "predicate": "vgws:evidence",
+      "object": "\"visionary approach; holistic development\""
+    },
+    {
+      "subject": "vgws:Fact_F034",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F040",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F040",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F040",
+      "predicate": "vgws:statement",
+      "object": "\"The institution operates under a No Objection Certificate (NOC) for the IB curriculum issued by the School Education and Sports Department, Government of Maharashtra.\""
+    },
+    {
+      "subject": "vgws:Fact_F040",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F040",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.1, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F040",
+      "predicate": "vgws:evidence",
+      "object": "\"No Objection Certificate\""
+    },
+    {
+      "subject": "vgws:Fact_F040",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F041",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F041",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F041",
+      "predicate": "vgws:statement",
+      "object": "\"The NOC reference number is NOC-4023/C.R.No.263/SM-3.\""
+    },
+    {
+      "subject": "vgws:Fact_F041",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F041",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.1, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F041",
+      "predicate": "vgws:evidence",
+      "object": "\"NOC Reference Number\""
+    },
+    {
+      "subject": "vgws:Fact_F041",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F042",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F042",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F042",
+      "predicate": "vgws:statement",
+      "object": "\"The NOC was issued on January 12, 2024 and expires on January 11, 2027 (valid for three years).\""
+    },
+    {
+      "subject": "vgws:Fact_F042",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F042",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.1, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F042",
+      "predicate": "vgws:evidence",
+      "object": "\"Issuance Date; Expiration Date\""
+    },
+    {
+      "subject": "vgws:Fact_F042",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F043",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F043",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F043",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 1: Adherence to Sections 18 and 19 of the Right of Children to Free and Compulsory Education Act, 2009.\""
+    },
+    {
+      "subject": "vgws:Fact_F043",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F043",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F043",
+      "predicate": "vgws:evidence",
+      "object": "\"RTE General Compliance\""
+    },
+    {
+      "subject": "vgws:Fact_F043",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F044",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F044",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F044",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 2: Strict adherence to Section 12(1)(C) of the RTE Act, 2009 and Maharashtra RTE Rules 2011 (reserved seats).\""
+    },
+    {
+      "subject": "vgws:Fact_F044",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F044",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F044",
+      "predicate": "vgws:evidence",
+      "object": "\"RTE Reserved Seats\""
+    },
+    {
+      "subject": "vgws:Fact_F044",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F045",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F045",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F045",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 3: Mandatory integration of 'Divyang' (Special Needs) students in every class, per Resolution No. Mise 2015/(119-A)/SD-6 dated 8th January 2016.\""
+    },
+    {
+      "subject": "vgws:Fact_F045",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F045",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F045",
+      "predicate": "vgws:evidence",
+      "object": "\"Inclusive Education\""
+    },
+    {
+      "subject": "vgws:Fact_F045",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F046",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F046",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F046",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 4: Compliance with all state Educational Acts, Rules, and Policies issued periodically.\""
+    },
+    {
+      "subject": "vgws:Fact_F046",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F046",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F046",
+      "predicate": "vgws:evidence",
+      "object": "\"Statutory Integration\""
+    },
+    {
+      "subject": "vgws:Fact_F046",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F047",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F047",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F047",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 5: Mandatory use of State Board or respective Board curriculum for Standard I to VIII.\""
+    },
+    {
+      "subject": "vgws:Fact_F047",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F047",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F047",
+      "predicate": "vgws:evidence",
+      "object": "\"Basic Curriculum\""
+    },
+    {
+      "subject": "vgws:Fact_F047",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F048",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F048",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F048",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 6: Compulsory instruction of the Marathi language as a subject from Standard I to X.\""
+    },
+    {
+      "subject": "vgws:Fact_F048",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F048",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F048",
+      "predicate": "vgws:evidence",
+      "object": "\"Language Mandate\""
+    },
+    {
+      "subject": "vgws:Fact_F048",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F049",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F049",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F049",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 7: Staff salaries must meet or exceed Schedule 'C' of the Maharashtra Employees of Private Schools (Conditions of Service) Regulation Act, 1981.\""
+    },
+    {
+      "subject": "vgws:Fact_F049",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F049",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F049",
+      "predicate": "vgws:evidence",
+      "object": "\"Staff Compensation\""
+    },
+    {
+      "subject": "vgws:Fact_F049",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F050",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F050",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F050",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 8: Compliance with traffic/safety guidelines and fire protection codes per the National Building Code of India, Part-IV Fire 1997.\""
+    },
+    {
+      "subject": "vgws:Fact_F050",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F050",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F050",
+      "predicate": "vgws:evidence",
+      "object": "\"Safety & Infrastructure\""
+    },
+    {
+      "subject": "vgws:Fact_F050",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F051",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F051",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F051",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 9: Mandatory conduct of 3 tests annually for students up to Standard VIII, with achievement data recorded in the SARAL database.\""
+    },
+    {
+      "subject": "vgws:Fact_F051",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F051",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F051",
+      "predicate": "vgws:evidence",
+      "object": "\"Assessment Standards\""
+    },
+    {
+      "subject": "vgws:Fact_F051",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F052",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F052",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F052",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 10: Regular child-wise data entry into SARAL and U-DISE as demanded by State Authorities.\""
+    },
+    {
+      "subject": "vgws:Fact_F052",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F052",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F052",
+      "predicate": "vgws:evidence",
+      "object": "\"Information Reporting\""
+    },
+    {
+      "subject": "vgws:Fact_F052",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F053",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F053",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F053",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 11: Compliance with the Maharashtra Educational Institutions (Regulation of Fees) Act, 2011.\""
+    },
+    {
+      "subject": "vgws:Fact_F053",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F053",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F053",
+      "predicate": "vgws:evidence",
+      "object": "\"Fee Regulation\""
+    },
+    {
+      "subject": "vgws:Fact_F053",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F054",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F054",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F054",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 12: Compulsory teaching of Indian History and specifically History related to Maharashtra.\""
+    },
+    {
+      "subject": "vgws:Fact_F054",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F054",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 2\""
+    },
+    {
+      "subject": "vgws:Fact_F054",
+      "predicate": "vgws:evidence",
+      "object": "\"Historical Instruction\""
+    },
+    {
+      "subject": "vgws:Fact_F054",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F055",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F055",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F055",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 13: Formation of a Complaint Redressal Committee per the Woman and Child Department government resolution dated 19.6.2014.\""
+    },
+    {
+      "subject": "vgws:Fact_F055",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F055",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F055",
+      "predicate": "vgws:evidence",
+      "object": "\"Harassment Redressal\""
+    },
+    {
+      "subject": "vgws:Fact_F055",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F056",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F056",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F056",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 14: The fee structure must be published on the official Government RTE portal.\""
+    },
+    {
+      "subject": "vgws:Fact_F056",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F056",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F056",
+      "predicate": "vgws:evidence",
+      "object": "\"Fiscal Transparency\""
+    },
+    {
+      "subject": "vgws:Fact_F056",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F057",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F057",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F057",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 15: Compulsory entry of student Aadhar Numbers into the SARAL portal.\""
+    },
+    {
+      "subject": "vgws:Fact_F057",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F057",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F057",
+      "predicate": "vgws:evidence",
+      "object": "\"Student Identification\""
+    },
+    {
+      "subject": "vgws:Fact_F057",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F058",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F058",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F058",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 16: The State retains the right to withdraw the NOC at any time without notice for rule deviation.\""
+    },
+    {
+      "subject": "vgws:Fact_F058",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F058",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F058",
+      "predicate": "vgws:evidence",
+      "object": "\"State Authority\""
+    },
+    {
+      "subject": "vgws:Fact_F058",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F059",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F059",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F059",
+      "predicate": "vgws:statement",
+      "object": "\"NOC Condition 17: Binding requirement to implement CBSE/ICSE/other board syllabi step-by-step if future affiliation is intended.\""
+    },
+    {
+      "subject": "vgws:Fact_F059",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F059",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 3.2, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F059",
+      "predicate": "vgws:evidence",
+      "object": "\"Affiliation Transitions\""
+    },
+    {
+      "subject": "vgws:Fact_F059",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F060",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F060",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F060",
+      "predicate": "vgws:statement",
+      "object": "\"Safety compliance follows guidelines from Police, Fire Services, and the Transport Department.\""
+    },
+    {
+      "subject": "vgws:Fact_F060",
+      "predicate": "vgws:category",
+      "object": "\"regulatory\""
+    },
+    {
+      "subject": "vgws:Fact_F060",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Misc Q1, Page 6\""
+    },
+    {
+      "subject": "vgws:Fact_F060",
+      "predicate": "vgws:evidence",
+      "object": "\"Police, Fire Services, Transport\""
+    },
+    {
+      "subject": "vgws:Fact_F060",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F070",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F070",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F070",
+      "predicate": "vgws:statement",
+      "object": "\"AY 2022-23: At the 24th World Education Summit (Hyderabad), the school received the 'Excellence in International Curriculum Practices' award.\""
+    },
+    {
+      "subject": "vgws:Fact_F070",
+      "predicate": "vgws:category",
+      "object": "\"awards\""
+    },
+    {
+      "subject": "vgws:Fact_F070",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.1, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F070",
+      "predicate": "vgws:evidence",
+      "object": "\"Excellence in International Curriculum Practices\""
+    },
+    {
+      "subject": "vgws:Fact_F070",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F071",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F071",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F071",
+      "predicate": "vgws:statement",
+      "object": "\"The 2022 Hyderabad award was received by Mr. Udayan Verma (Head of Admissions and Outreach).\""
+    },
+    {
+      "subject": "vgws:Fact_F071",
+      "predicate": "vgws:category",
+      "object": "\"awards\""
+    },
+    {
+      "subject": "vgws:Fact_F071",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.1, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F071",
+      "predicate": "vgws:evidence",
+      "object": "\"received by Mr. Udayan Verma\""
+    },
+    {
+      "subject": "vgws:Fact_F071",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F072",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F072",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F072",
+      "predicate": "vgws:statement",
+      "object": "\"The 2022 Hyderabad award was presented by Mr. Augus P Saptoo (Consul General of Indonesia) and Shri Navin Mittal (Commissioner, Collegiate and Technical Education, Telangana).\""
+    },
+    {
+      "subject": "vgws:Fact_F072",
+      "predicate": "vgws:category",
+      "object": "\"awards\""
+    },
+    {
+      "subject": "vgws:Fact_F072",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.1, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F072",
+      "predicate": "vgws:evidence",
+      "object": "\"dignitaries\""
+    },
+    {
+      "subject": "vgws:Fact_F072",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F073",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F073",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F073",
+      "predicate": "vgws:statement",
+      "object": "\"AY 2022-23: Silicon India recognized the school among the 'Top 10 Most Promising Residential Schools' in India.\""
+    },
+    {
+      "subject": "vgws:Fact_F073",
+      "predicate": "vgws:category",
+      "object": "\"awards\""
+    },
+    {
+      "subject": "vgws:Fact_F073",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.1, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F073",
+      "predicate": "vgws:evidence",
+      "object": "\"Top 10 Most Promising Residential Schools\""
+    },
+    {
+      "subject": "vgws:Fact_F073",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F074",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F074",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F074",
+      "predicate": "vgws:statement",
+      "object": "\"AY 2023-24: Education World India School Rankings ranked the school No. 4 in India and No. 2 in Maharashtra (International Residential Schools category).\""
+    },
+    {
+      "subject": "vgws:Fact_F074",
+      "predicate": "vgws:category",
+      "object": "\"awards\""
+    },
+    {
+      "subject": "vgws:Fact_F074",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.2, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F074",
+      "predicate": "vgws:evidence",
+      "object": "\"No. 4 in India; No. 2 in Maharashtra\""
+    },
+    {
+      "subject": "vgws:Fact_F074",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F075",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F075",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F075",
+      "predicate": "vgws:statement",
+      "object": "\"AY 2023-24: Insight Success featured the school as a 'Place for modern value education'.\""
+    },
+    {
+      "subject": "vgws:Fact_F075",
+      "predicate": "vgws:category",
+      "object": "\"awards\""
+    },
+    {
+      "subject": "vgws:Fact_F075",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.2, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F075",
+      "predicate": "vgws:evidence",
+      "object": "\"Insight Success feature\""
+    },
+    {
+      "subject": "vgws:Fact_F075",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F076",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F076",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F076",
+      "predicate": "vgws:statement",
+      "object": "\"AY 2023-24: National Geographic (NATGEO) selected the school for an exclusive showcase titled 'The Future School', highlighting visionary educational approaches.\""
+    },
+    {
+      "subject": "vgws:Fact_F076",
+      "predicate": "vgws:category",
+      "object": "\"awards\""
+    },
+    {
+      "subject": "vgws:Fact_F076",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.2, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F076",
+      "predicate": "vgws:evidence",
+      "object": "\"NATGEO The Future School\""
+    },
+    {
+      "subject": "vgws:Fact_F076",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F077",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F077",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F077",
+      "predicate": "vgws:statement",
+      "object": "\"AY 2024-25: Education World awarded the school the title 'School of the Year 2024-25' for excellence in academic brilliance and student well-being.\""
+    },
+    {
+      "subject": "vgws:Fact_F077",
+      "predicate": "vgws:category",
+      "object": "\"awards\""
+    },
+    {
+      "subject": "vgws:Fact_F077",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.3, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F077",
+      "predicate": "vgws:evidence",
+      "object": "\"School of the Year 2024-25\""
+    },
+    {
+      "subject": "vgws:Fact_F077",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F078",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F078",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F078",
+      "predicate": "vgws:statement",
+      "object": "\"AY 2024-25: E News Network conferred the 'Dynamic Schools 2024' award at the Maharashtra Educators' Summit & Awards.\""
+    },
+    {
+      "subject": "vgws:Fact_F078",
+      "predicate": "vgws:category",
+      "object": "\"awards\""
+    },
+    {
+      "subject": "vgws:Fact_F078",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.3, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F078",
+      "predicate": "vgws:evidence",
+      "object": "\"Dynamic Schools 2024\""
+    },
+    {
+      "subject": "vgws:Fact_F078",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F079",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F079",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F079",
+      "predicate": "vgws:statement",
+      "object": "\"The 'Dynamic Schools 2024' award recognizes exemplary contribution to education in Maharashtra.\""
+    },
+    {
+      "subject": "vgws:Fact_F079",
+      "predicate": "vgws:category",
+      "object": "\"awards\""
+    },
+    {
+      "subject": "vgws:Fact_F079",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6-Accolades Q9, Page 6\""
+    },
+    {
+      "subject": "vgws:Fact_F079",
+      "predicate": "vgws:evidence",
+      "object": "\"exemplary contribution\""
+    },
+    {
+      "subject": "vgws:Fact_F079",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F080",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F080",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F080",
+      "predicate": "vgws:statement",
+      "object": "\"AY 2025-26: Education Today Merit Awards ranked the school No. 2 in Maharashtra and No. 2 in Pune (Boarding Schools category).\""
+    },
+    {
+      "subject": "vgws:Fact_F080",
+      "predicate": "vgws:category",
+      "object": "\"awards\""
+    },
+    {
+      "subject": "vgws:Fact_F080",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.4, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F080",
+      "predicate": "vgws:evidence",
+      "object": "\"Education Today Merit Awards\""
+    },
+    {
+      "subject": "vgws:Fact_F080",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F081",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F081",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F081",
+      "predicate": "vgws:statement",
+      "object": "\"AY 2025-26: Education World India School Rankings ranked the school No. 4 in India and No. 1 in Maharashtra (International Residential Schools category).\""
+    },
+    {
+      "subject": "vgws:Fact_F081",
+      "predicate": "vgws:category",
+      "object": "\"awards\""
+    },
+    {
+      "subject": "vgws:Fact_F081",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.4, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F081",
+      "predicate": "vgws:evidence",
+      "object": "\"No. 1 position in Maharashtra\""
+    },
+    {
+      "subject": "vgws:Fact_F081",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F082",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F082",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F082",
+      "predicate": "vgws:statement",
+      "object": "\"AY 2025-26: The New Age Summit 2026 conferred the \"Best India's International Day and Residential School\" award.\""
+    },
+    {
+      "subject": "vgws:Fact_F082",
+      "predicate": "vgws:category",
+      "object": "\"awards\""
+    },
+    {
+      "subject": "vgws:Fact_F082",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 4.4, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F082",
+      "predicate": "vgws:evidence",
+      "object": "\"New Age Summit 2026\""
+    },
+    {
+      "subject": "vgws:Fact_F082",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F090",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F090",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F090",
+      "predicate": "vgws:statement",
+      "object": "\"Official YouTube channel: www.youtube.com/@Mitgurukulpune\""
+    },
+    {
+      "subject": "vgws:Fact_F090",
+      "predicate": "vgws:category",
+      "object": "\"social\""
+    },
+    {
+      "subject": "vgws:Fact_F090",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 5, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F090",
+      "predicate": "vgws:evidence",
+      "object": "\"Official YouTube\""
+    },
+    {
+      "subject": "vgws:Fact_F090",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F091",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F091",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F091",
+      "predicate": "vgws:statement",
+      "object": "\"Official Facebook page: https://www.facebook.com/share/1DMrmpAAGJ/\""
+    },
+    {
+      "subject": "vgws:Fact_F091",
+      "predicate": "vgws:category",
+      "object": "\"social\""
+    },
+    {
+      "subject": "vgws:Fact_F091",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 5, Page 3\""
+    },
+    {
+      "subject": "vgws:Fact_F091",
+      "predicate": "vgws:evidence",
+      "object": "\"Official Facebook\""
+    },
+    {
+      "subject": "vgws:Fact_F091",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F092",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F092",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F092",
+      "predicate": "vgws:statement",
+      "object": "\"Official Instagram: https://www.instagram.com/mitgurukulofficial\""
+    },
+    {
+      "subject": "vgws:Fact_F092",
+      "predicate": "vgws:category",
+      "object": "\"social\""
+    },
+    {
+      "subject": "vgws:Fact_F092",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 5, Page 4\""
+    },
+    {
+      "subject": "vgws:Fact_F092",
+      "predicate": "vgws:evidence",
+      "object": "\"Official Instagram\""
+    },
+    {
+      "subject": "vgws:Fact_F092",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F093",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F093",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F093",
+      "predicate": "vgws:statement",
+      "object": "\"LinkedIn professional profile: https://www.linkedin.com/in/mit-vishwashanti-gurukul-8a3460218\""
+    },
+    {
+      "subject": "vgws:Fact_F093",
+      "predicate": "vgws:category",
+      "object": "\"social\""
+    },
+    {
+      "subject": "vgws:Fact_F093",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 5, Page 4\""
+    },
+    {
+      "subject": "vgws:Fact_F093",
+      "predicate": "vgws:evidence",
+      "object": "\"LinkedIn Professional Profile\""
+    },
+    {
+      "subject": "vgws:Fact_F093",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F094",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F094",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F094",
+      "predicate": "vgws:statement",
+      "object": "\"LinkedIn institutional page: https://www.linkedin.com/company/mitgurukulofficial/\""
+    },
+    {
+      "subject": "vgws:Fact_F094",
+      "predicate": "vgws:category",
+      "object": "\"social\""
+    },
+    {
+      "subject": "vgws:Fact_F094",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 5, Page 4\""
+    },
+    {
+      "subject": "vgws:Fact_F094",
+      "predicate": "vgws:evidence",
+      "object": "\"LinkedIn Institutional Page\""
+    },
+    {
+      "subject": "vgws:Fact_F094",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F095",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F095",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F095",
+      "predicate": "vgws:statement",
+      "object": "\"Official X (Twitter): https://x.com/MITGurukulOff\""
+    },
+    {
+      "subject": "vgws:Fact_F095",
+      "predicate": "vgws:category",
+      "object": "\"social\""
+    },
+    {
+      "subject": "vgws:Fact_F095",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 5, Page 4\""
+    },
+    {
+      "subject": "vgws:Fact_F095",
+      "predicate": "vgws:evidence",
+      "object": "\"Official X (Twitter)\""
+    },
+    {
+      "subject": "vgws:Fact_F095",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F100",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F100",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F100",
+      "predicate": "vgws:statement",
+      "object": "\"All data points in the master document are derived exclusively from the provided source context; no external geographical data or unverified rankings were included.\""
+    },
+    {
+      "subject": "vgws:Fact_F100",
+      "predicate": "vgws:category",
+      "object": "\"governance\""
+    },
+    {
+      "subject": "vgws:Fact_F100",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 8, Page 7\""
+    },
+    {
+      "subject": "vgws:Fact_F100",
+      "predicate": "vgws:evidence",
+      "object": "\"Anti-Hallucination Guardrails\""
+    },
+    {
+      "subject": "vgws:Fact_F100",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:Fact_F101",
+      "predicate": "rdf:type",
+      "object": "rdf:Statement"
+    },
+    {
+      "subject": "vgws:Fact_F101",
+      "predicate": "vgws:assertsAbout",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Fact_F101",
+      "predicate": "vgws:statement",
+      "object": "\"All rankings in the master document are categorized by school category as per official records.\""
+    },
+    {
+      "subject": "vgws:Fact_F101",
+      "predicate": "vgws:category",
+      "object": "\"governance\""
+    },
+    {
+      "subject": "vgws:Fact_F101",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 8, Page 7\""
+    },
+    {
+      "subject": "vgws:Fact_F101",
+      "predicate": "vgws:evidence",
+      "object": "\"categorized by school category\""
+    },
+    {
+      "subject": "vgws:Fact_F101",
+      "predicate": "vgws:confidence",
+      "object": "\"1.00\""
+    },
+    {
+      "subject": "vgws:FAQ01",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ02",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ03",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ04",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ05",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ06",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ07",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ08",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ09",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ10",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ11",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ12",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ13",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ14",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ15",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ16",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ17",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ18",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ19",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ20",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ21",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ22",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ23",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ24",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ25",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ26",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ27",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ28",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ29",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ30",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ31",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ32",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ33",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ34",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ35",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ36",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ37",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ38",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ39",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ40",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ41",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ42",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ43",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ44",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ45",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ46",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ47",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:FAQ48",
+      "predicate": "dcterms:source",
+      "object": "\"Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026), Section 6\""
+    },
+    {
+      "subject": "vgws:Award1",
+      "predicate": "vgws:awardedTo",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Award2",
+      "predicate": "vgws:awardedTo",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Award3",
+      "predicate": "vgws:awardedTo",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Award4",
+      "predicate": "vgws:awardedTo",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Award5",
+      "predicate": "vgws:awardedTo",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Award6",
+      "predicate": "vgws:awardedTo",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Award7",
+      "predicate": "vgws:awardedTo",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Award8",
+      "predicate": "vgws:awardedTo",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Award9",
+      "predicate": "vgws:awardedTo",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Award10",
+      "predicate": "vgws:awardedTo",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:PYP",
+      "predicate": "vgws:offeredBy",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:MYP",
+      "predicate": "vgws:offeredBy",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:DP",
+      "predicate": "vgws:offeredBy",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:CP",
+      "predicate": "vgws:offeredBy",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Profile_YouTube",
+      "predicate": "vgws:officialPresenceOf",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Profile_Facebook",
+      "predicate": "vgws:officialPresenceOf",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Profile_Instagram",
+      "predicate": "vgws:officialPresenceOf",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Profile_LinkedInCompany",
+      "predicate": "vgws:officialPresenceOf",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Profile_LinkedInProfile",
+      "predicate": "vgws:officialPresenceOf",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:Profile_XTwitter",
+      "predicate": "vgws:officialPresenceOf",
+      "object": "vgws:VishwashantiGurukulWorldSchool"
+    },
+    {
+      "subject": "vgws:MAEER",
+      "predicate": "rdfs:label",
+      "object": "\"MAEER\""
+    },
+    {
+      "subject": "vgws:IBO",
+      "predicate": "rdfs:label",
+      "object": "\"IBO\""
+    },
+    {
+      "subject": "vgws:DrVidhukeshVimal",
+      "predicate": "rdfs:label",
+      "object": "\"Dr. Vidhukesh Vimal\""
+    },
+    {
+      "subject": "vgws:OlliPekkaHeinonen",
+      "predicate": "rdfs:label",
+      "object": "\"Olli-Pekka Heinonen\""
+    },
+    {
+      "subject": "vgws:NOC2024",
+      "predicate": "rdfs:label",
+      "object": "\"Government of Maharashtra NOC (2024-2027)\""
+    },
+    {
+      "subject": "vgws:VishwashantiGurukulWorldSchool",
+      "predicate": "rdfs:label",
+      "object": "\"VGWS\""
+    }
+  ]
+}

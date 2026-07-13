@@ -1,40 +1,706 @@
 {
+  "generated": "2026-07-13",
+  "total_claims": 70,
   "citations": [
     {
-      "fact": "DP Original Issue Date: May 2006",
-      "source": "DP IB Certificate .pdf"
+      "id": "F001",
+      "fact": "The official institutional designation is Vishwashanti Gurukul World School.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 1.1",
+      "page": 1,
+      "evidence": "official institutional designation",
+      "confidence": 1.0,
+      "category": "identity"
     },
     {
-      "fact": "DP Reissue Date: November 2025",
-      "source": "DP IB Certificate .pdf"
+      "id": "F002",
+      "fact": "The 'World School' suffix is a controlled branding measure to distinguish the institution from other MAEER-managed entities and from schools operating under CBSE or other curricula.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 1.1",
+      "page": 1,
+      "evidence": "controlled branding measure",
+      "confidence": 1.0,
+      "category": "identity"
     },
     {
-      "fact": "PYP Original Issue Date: April 2009",
-      "source": "PYP IB Certificate .pdf"
+      "id": "F003",
+      "fact": "The 'World School' designation is a primary indicator of the school's status as a full IB Continuum institution.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 1.1",
+      "page": 1,
+      "evidence": "primary indicator of IB Continuum status",
+      "confidence": 1.0,
+      "category": "identity"
     },
     {
-      "fact": "PYP Reissue Date: November 2025",
-      "source": "PYP IB Certificate .pdf"
+      "id": "F004",
+      "fact": "The school is owned and governed by the Maharashtra Academy of Engineering and Educational Research (MAEER).",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 1.2",
+      "page": 1,
+      "evidence": "owned and governed by MAEER",
+      "confidence": 1.0,
+      "category": "identity"
     },
     {
-      "fact": "MYP Original Issue Date: April 2018",
-      "source": "MYP Certificate .pdf"
+      "id": "F005",
+      "fact": "The MAEER Trust registered office is Survey No. 124, Kothrud Paud Road, Ex-Servicemen Colony, Pune-411 038.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 1.2",
+      "page": 1,
+      "evidence": "Trust Registered Office",
+      "confidence": 1.0,
+      "category": "identity"
     },
     {
-      "fact": "MYP Reissue Date: November 2025",
-      "source": "MYP Certificate .pdf"
+      "id": "F006",
+      "fact": "The institutional physical address is At. Rajbaug, Loni Kalbhor, District Pune.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 1.2",
+      "page": 1,
+      "evidence": "Institutional Physical Address",
+      "confidence": 1.0,
+      "category": "identity"
     },
     {
-      "fact": "MYP Scope: Years 1, 2, 3, 4 and 5",
-      "source": "MYP Certificate .pdf"
+      "id": "F007",
+      "fact": "The school is located on a 125-acre green campus.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 1.3",
+      "page": 1,
+      "evidence": "125-acre green campus",
+      "confidence": 1.0,
+      "category": "identity"
     },
     {
-      "fact": "CP Authorization Date: October 2025",
-      "source": "CP IB Certificates.pdf"
+      "id": "F008",
+      "fact": "The campus infrastructure supports comprehensive day and residential educational programs.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 1.3",
+      "page": 1,
+      "evidence": "day and residential educational programs",
+      "confidence": 1.0,
+      "category": "identity"
     },
     {
-      "fact": "Director General: Olli-Pekka Heinonen",
-      "source": "All Certificates"
+      "id": "F009",
+      "fact": "The school is an International Day and Residential School.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 6-Identity Q6",
+      "page": 4,
+      "evidence": "International Day and Residential School",
+      "confidence": 1.0,
+      "category": "identity"
+    },
+    {
+      "id": "F010",
+      "fact": "The current Head of School is Dr. Vidhukesh Vimal.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 6-Identity Q7",
+      "page": 4,
+      "evidence": "Head of School",
+      "confidence": 1.0,
+      "category": "identity"
+    },
+    {
+      "id": "F011",
+      "fact": "The primary pedagogical framework is the International Baccalaureate (IB).",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 6-Identity Q9",
+      "page": 4,
+      "evidence": "primary pedagogical framework",
+      "confidence": 1.0,
+      "category": "identity"
+    },
+    {
+      "id": "F012",
+      "fact": "The Sanskrit motto on the official logo is: tejasvinavadhitamastu (Devanagari script on logo).",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 6-Misc Q4",
+      "page": 6,
+      "evidence": "Sanskrit motto on logo",
+      "confidence": 1.0,
+      "category": "brand"
+    },
+    {
+      "id": "F013",
+      "fact": "The campus infrastructure supports 20+ sports disciplines.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 6-Accolades Q10",
+      "page": 6,
+      "evidence": "20+ sports",
+      "confidence": 1.0,
+      "category": "identity"
+    },
+    {
+      "id": "F020",
+      "fact": "Vishwashanti Gurukul World School is a formally authorized IB Continuum School.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 2.1",
+      "page": 1,
+      "evidence": "authorized IB Continuum School",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F021",
+      "fact": "IB Continuum status confirms authority to deliver the full suite of IB programmes across all age groups.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 2.1",
+      "page": 1,
+      "evidence": "full suite of IB programmes",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F022",
+      "fact": "The Primary Years Programme (PYP) was originally authorized in April 2009; the certificate was reissued in November 2025.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 2.2",
+      "page": 1,
+      "evidence": "PYP April 2009",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F023",
+      "fact": "The Middle Years Programme (MYP) was originally authorized in April 2018; the certificate was reissued in November 2025; it is authorized for Years 1, 2, 3, 4, and 5.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 2.2",
+      "page": 1,
+      "evidence": "MYP April 2018",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F024",
+      "fact": "The Diploma Programme (DP) was originally authorized in May 2006; the certificate was reissued in November 2025.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 2.2",
+      "page": 1,
+      "evidence": "DP May 2006",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F025",
+      "fact": "The Career-related Programme (CP) was authorized in October 2025.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 2.2",
+      "page": 1,
+      "evidence": "CP October 2025",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F026",
+      "fact": "All reissued IB certificates are signed by Olli-Pekka Heinonen, Director General (Geneva).",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 2.2",
+      "page": 2,
+      "evidence": "signed by Olli-Pekka Heinonen",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F027",
+      "fact": "The Diploma Programme (May 2006) is the earliest IB programme authorized at the school.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 6-Identity Q10",
+      "page": 4,
+      "evidence": "earliest IB program authorized",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F028",
+      "fact": "The school offers four distinct IB programmes: PYP, MYP, DP, and CP.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 6-Curriculum Q15",
+      "page": 5,
+      "evidence": "Four (PYP, MYP, DP, and CP)",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F029",
+      "fact": "The school is authorized for IB for Standard I through Standard XII.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 6-Curriculum Q10",
+      "page": 5,
+      "evidence": "IB for Std. I through Std. XII",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F030",
+      "fact": "Original IB certificates feature a hologram and a watermark for authenticity verification.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 6-Curriculum Q14",
+      "page": 5,
+      "evidence": "hologram and a watermark",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F031",
+      "fact": "The PYP covers the Primary Education Framework.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 2.2",
+      "page": 1,
+      "evidence": "Primary Education Framework",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F032",
+      "fact": "The DP covers the Pre-university Academic Framework.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 2.2",
+      "page": 1,
+      "evidence": "Pre-university Academic Framework",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F033",
+      "fact": "The CP covers the Vocational/Career-focused Framework.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 2.2",
+      "page": 1,
+      "evidence": "Vocational/Career-focused Framework",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F034",
+      "fact": "The foundational benefits of the IB Continuum are a visionary approach to education and holistic student development.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 6-Curriculum Q12",
+      "page": 5,
+      "evidence": "visionary approach; holistic development",
+      "confidence": 1.0,
+      "category": "ib"
+    },
+    {
+      "id": "F040",
+      "fact": "The institution operates under a No Objection Certificate (NOC) for the IB curriculum issued by the School Education and Sports Department, Government of Maharashtra.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.1",
+      "page": 2,
+      "evidence": "No Objection Certificate",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F041",
+      "fact": "The NOC reference number is NOC-4023/C.R.No.263/SM-3.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.1",
+      "page": 2,
+      "evidence": "NOC Reference Number",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F042",
+      "fact": "The NOC was issued on January 12, 2024 and expires on January 11, 2027 (valid for three years).",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.1",
+      "page": 2,
+      "evidence": "Issuance Date; Expiration Date",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F043",
+      "fact": "NOC Condition 1: Adherence to Sections 18 and 19 of the Right of Children to Free and Compulsory Education Act, 2009.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 2,
+      "evidence": "RTE General Compliance",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F044",
+      "fact": "NOC Condition 2: Strict adherence to Section 12(1)(C) of the RTE Act, 2009 and Maharashtra RTE Rules 2011 (reserved seats).",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 2,
+      "evidence": "RTE Reserved Seats",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F045",
+      "fact": "NOC Condition 3: Mandatory integration of 'Divyang' (Special Needs) students in every class, per Resolution No. Mise 2015/(119-A)/SD-6 dated 8th January 2016.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 2,
+      "evidence": "Inclusive Education",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F046",
+      "fact": "NOC Condition 4: Compliance with all state Educational Acts, Rules, and Policies issued periodically.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 2,
+      "evidence": "Statutory Integration",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F047",
+      "fact": "NOC Condition 5: Mandatory use of State Board or respective Board curriculum for Standard I to VIII.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 2,
+      "evidence": "Basic Curriculum",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F048",
+      "fact": "NOC Condition 6: Compulsory instruction of the Marathi language as a subject from Standard I to X.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 2,
+      "evidence": "Language Mandate",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F049",
+      "fact": "NOC Condition 7: Staff salaries must meet or exceed Schedule 'C' of the Maharashtra Employees of Private Schools (Conditions of Service) Regulation Act, 1981.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 2,
+      "evidence": "Staff Compensation",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F050",
+      "fact": "NOC Condition 8: Compliance with traffic/safety guidelines and fire protection codes per the National Building Code of India, Part-IV Fire 1997.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 2,
+      "evidence": "Safety & Infrastructure",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F051",
+      "fact": "NOC Condition 9: Mandatory conduct of 3 tests annually for students up to Standard VIII, with achievement data recorded in the SARAL database.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 2,
+      "evidence": "Assessment Standards",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F052",
+      "fact": "NOC Condition 10: Regular child-wise data entry into SARAL and U-DISE as demanded by State Authorities.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 2,
+      "evidence": "Information Reporting",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F053",
+      "fact": "NOC Condition 11: Compliance with the Maharashtra Educational Institutions (Regulation of Fees) Act, 2011.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 2,
+      "evidence": "Fee Regulation",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F054",
+      "fact": "NOC Condition 12: Compulsory teaching of Indian History and specifically History related to Maharashtra.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 2,
+      "evidence": "Historical Instruction",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F055",
+      "fact": "NOC Condition 13: Formation of a Complaint Redressal Committee per the Woman and Child Department government resolution dated 19.6.2014.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 3,
+      "evidence": "Harassment Redressal",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F056",
+      "fact": "NOC Condition 14: The fee structure must be published on the official Government RTE portal.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 3,
+      "evidence": "Fiscal Transparency",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F057",
+      "fact": "NOC Condition 15: Compulsory entry of student Aadhar Numbers into the SARAL portal.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 3,
+      "evidence": "Student Identification",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F058",
+      "fact": "NOC Condition 16: The State retains the right to withdraw the NOC at any time without notice for rule deviation.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 3,
+      "evidence": "State Authority",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F059",
+      "fact": "NOC Condition 17: Binding requirement to implement CBSE/ICSE/other board syllabi step-by-step if future affiliation is intended.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 3.2",
+      "page": 3,
+      "evidence": "Affiliation Transitions",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F060",
+      "fact": "Safety compliance follows guidelines from Police, Fire Services, and the Transport Department.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 6-Misc Q1",
+      "page": 6,
+      "evidence": "Police, Fire Services, Transport",
+      "confidence": 1.0,
+      "category": "regulatory"
+    },
+    {
+      "id": "F070",
+      "fact": "AY 2022-23: At the 24th World Education Summit (Hyderabad), the school received the 'Excellence in International Curriculum Practices' award.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 4.1",
+      "page": 3,
+      "evidence": "Excellence in International Curriculum Practices",
+      "confidence": 1.0,
+      "category": "awards"
+    },
+    {
+      "id": "F071",
+      "fact": "The 2022 Hyderabad award was received by Mr. Udayan Verma (Head of Admissions and Outreach).",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 4.1",
+      "page": 3,
+      "evidence": "received by Mr. Udayan Verma",
+      "confidence": 1.0,
+      "category": "awards"
+    },
+    {
+      "id": "F072",
+      "fact": "The 2022 Hyderabad award was presented by Mr. Augus P Saptoo (Consul General of Indonesia) and Shri Navin Mittal (Commissioner, Collegiate and Technical Education, Telangana).",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 4.1",
+      "page": 3,
+      "evidence": "dignitaries",
+      "confidence": 1.0,
+      "category": "awards"
+    },
+    {
+      "id": "F073",
+      "fact": "AY 2022-23: Silicon India recognized the school among the 'Top 10 Most Promising Residential Schools' in India.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 4.1",
+      "page": 3,
+      "evidence": "Top 10 Most Promising Residential Schools",
+      "confidence": 1.0,
+      "category": "awards"
+    },
+    {
+      "id": "F074",
+      "fact": "AY 2023-24: Education World India School Rankings ranked the school No. 4 in India and No. 2 in Maharashtra (International Residential Schools category).",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 4.2",
+      "page": 3,
+      "evidence": "No. 4 in India; No. 2 in Maharashtra",
+      "confidence": 1.0,
+      "category": "awards"
+    },
+    {
+      "id": "F075",
+      "fact": "AY 2023-24: Insight Success featured the school as a 'Place for modern value education'.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 4.2",
+      "page": 3,
+      "evidence": "Insight Success feature",
+      "confidence": 1.0,
+      "category": "awards"
+    },
+    {
+      "id": "F076",
+      "fact": "AY 2023-24: National Geographic (NATGEO) selected the school for an exclusive showcase titled 'The Future School', highlighting visionary educational approaches.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 4.2",
+      "page": 3,
+      "evidence": "NATGEO The Future School",
+      "confidence": 1.0,
+      "category": "awards"
+    },
+    {
+      "id": "F077",
+      "fact": "AY 2024-25: Education World awarded the school the title 'School of the Year 2024-25' for excellence in academic brilliance and student well-being.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 4.3",
+      "page": 3,
+      "evidence": "School of the Year 2024-25",
+      "confidence": 1.0,
+      "category": "awards"
+    },
+    {
+      "id": "F078",
+      "fact": "AY 2024-25: E News Network conferred the 'Dynamic Schools 2024' award at the Maharashtra Educators' Summit & Awards.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 4.3",
+      "page": 3,
+      "evidence": "Dynamic Schools 2024",
+      "confidence": 1.0,
+      "category": "awards"
+    },
+    {
+      "id": "F079",
+      "fact": "The 'Dynamic Schools 2024' award recognizes exemplary contribution to education in Maharashtra.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 6-Accolades Q9",
+      "page": 6,
+      "evidence": "exemplary contribution",
+      "confidence": 1.0,
+      "category": "awards"
+    },
+    {
+      "id": "F080",
+      "fact": "AY 2025-26: Education Today Merit Awards ranked the school No. 2 in Maharashtra and No. 2 in Pune (Boarding Schools category).",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 4.4",
+      "page": 3,
+      "evidence": "Education Today Merit Awards",
+      "confidence": 1.0,
+      "category": "awards"
+    },
+    {
+      "id": "F081",
+      "fact": "AY 2025-26: Education World India School Rankings ranked the school No. 4 in India and No. 1 in Maharashtra (International Residential Schools category).",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 4.4",
+      "page": 3,
+      "evidence": "No. 1 position in Maharashtra",
+      "confidence": 1.0,
+      "category": "awards"
+    },
+    {
+      "id": "F082",
+      "fact": "AY 2025-26: The New Age Summit 2026 conferred the \"Best India's International Day and Residential School\" award.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 4.4",
+      "page": 3,
+      "evidence": "New Age Summit 2026",
+      "confidence": 1.0,
+      "category": "awards"
+    },
+    {
+      "id": "F090",
+      "fact": "Official YouTube channel: www.youtube.com/@Mitgurukulpune",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 5",
+      "page": 3,
+      "evidence": "Official YouTube",
+      "confidence": 1.0,
+      "category": "social"
+    },
+    {
+      "id": "F091",
+      "fact": "Official Facebook page: https://www.facebook.com/share/1DMrmpAAGJ/",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 5",
+      "page": 3,
+      "evidence": "Official Facebook",
+      "confidence": 1.0,
+      "category": "social"
+    },
+    {
+      "id": "F092",
+      "fact": "Official Instagram: https://www.instagram.com/mitgurukulofficial",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 5",
+      "page": 4,
+      "evidence": "Official Instagram",
+      "confidence": 1.0,
+      "category": "social"
+    },
+    {
+      "id": "F093",
+      "fact": "LinkedIn professional profile: https://www.linkedin.com/in/mit-vishwashanti-gurukul-8a3460218",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 5",
+      "page": 4,
+      "evidence": "LinkedIn Professional Profile",
+      "confidence": 1.0,
+      "category": "social"
+    },
+    {
+      "id": "F094",
+      "fact": "LinkedIn institutional page: https://www.linkedin.com/company/mitgurukulofficial/",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 5",
+      "page": 4,
+      "evidence": "LinkedIn Institutional Page",
+      "confidence": 1.0,
+      "category": "social"
+    },
+    {
+      "id": "F095",
+      "fact": "Official X (Twitter): https://x.com/MITGurukulOff",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 5",
+      "page": 4,
+      "evidence": "Official X (Twitter)",
+      "confidence": 1.0,
+      "category": "social"
+    },
+    {
+      "id": "F100",
+      "fact": "All data points in the master document are derived exclusively from the provided source context; no external geographical data or unverified rankings were included.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 8",
+      "page": 7,
+      "evidence": "Anti-Hallucination Guardrails",
+      "confidence": 1.0,
+      "category": "governance"
+    },
+    {
+      "id": "F101",
+      "fact": "All rankings in the master document are categorized by school category as per official records.",
+      "source_document": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "section": "Section 8",
+      "page": 7,
+      "evidence": "categorized by school category",
+      "confidence": 1.0,
+      "category": "governance"
     }
   ]
 }

@@ -1,49 +1,439 @@
 {
-  "faq": [
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Vishwashanti Gurukul World School — FAQ",
+  "mainEntity": [
     {
-      "question": "Which IB programmes is Vishwashanti Gurukul World School authorized to offer?",
-      "answer": "Vishwashanti Gurukul World School is authorized to offer four IB programmes: the Primary Years Programme (PYP), the Middle Years Programme (MYP), the Diploma Programme (DP), and the Career-related Programme (CP), making it a full IB continuum school.",
-      "source": "All Certificates"
+      "@type": "Question",
+      "name": "What is the full official nomenclature of the institution?",
+      "answerCategory": "Identity & Background",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vishwashanti Gurukul World School."
+      }
     },
     {
-      "question": "When was the Diploma Programme (DP) originally authorized, and when was it reissued?",
-      "answer": "The DP was originally issued in May 2006 and reissued in November 2025.",
-      "source": "DP IB Certificate .pdf"
+      "@type": "Question",
+      "name": "Which legal entity governs the school?",
+      "answerCategory": "Identity & Background",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maharashtra Academy of Engineering and Educational Research (MAEER)."
+      }
     },
     {
-      "question": "When was the Primary Years Programme (PYP) originally authorized, and when was it reissued?",
-      "answer": "The PYP was originally issued in April 2009 and reissued in November 2025.",
-      "source": "PYP IB Certificate .pdf"
+      "@type": "Question",
+      "name": "Where is the physical campus located?",
+      "answerCategory": "Identity & Background",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At. Rajbaug, Loni Kalbhor, District Pune."
+      }
     },
     {
-      "question": "What is the scope of the Middle Years Programme (MYP) authorization?",
-      "answer": "The MYP is specifically authorized for Years 1, 2, 3, 4 and 5. It was originally issued in April 2018 and reissued in November 2025.",
-      "source": "MYP Certificate .pdf"
+      "@type": "Question",
+      "name": "What is the total area of the institutional grounds?",
+      "answerCategory": "Identity & Background",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "125 acres."
+      }
     },
     {
-      "question": "When was the Career-related Programme (CP) authorized?",
-      "answer": "The CP authorization date is October 2025. This certificate does not list a separate reissue date.",
-      "source": "CP IB Certificates.pdf"
+      "@type": "Question",
+      "name": "Why was the 'World School' suffix added to the branding?",
+      "answerCategory": "Identity & Background",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To clarify the school's status as an IB Continuum institution and prevent confusion with MAEER's CBSE or other MIT-branded entities."
+      }
     },
     {
-      "question": "Who signs the IB authorization certificates and where are they based?",
-      "answer": "All certificates are signed by Olli-Pekka Heinonen, Director General of the International Baccalaureate, based in Geneva. The signature appears as 'Olli-Pekha Hein' and is standardized as 'Olli-Pekka Heinonen'.",
-      "source": "All Certificates"
+      "@type": "Question",
+      "name": "Does the institution offer residential facilities?",
+      "answerCategory": "Identity & Background",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it is an International Day and Residential School."
+      }
     },
     {
-      "question": "What authentication features are present on the certificates?",
-      "answer": "Holograms and watermarks are present on all source certificates.",
-      "source": "All Certificates"
+      "@type": "Question",
+      "name": "Who is the current Head of School?",
+      "answerCategory": "Identity & Background",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dr. Vidhukesh Vimal, Head of School."
+      }
     },
     {
-      "question": "What is the school's current IB authorization status?",
-      "answer": "The current authorization status is Authorized, with the most recent authorization/reissue window being October – November 2025.",
-      "source": "All Certificates"
+      "@type": "Question",
+      "name": "What is the registered address of the MAEER Trust?",
+      "answerCategory": "Identity & Background",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Survey No. 124, Kothrud Paud Road, Ex-Servicemen Colony, Pune-411 038."
+      }
     },
     {
-      "question": "By what other names is the International Baccalaureate known?",
-      "answer": "The International Baccalaureate is also known as Baccalauréat International and Bachillerato Internacional.",
-      "source": "All Certificates"
+      "@type": "Question",
+      "name": "What is the primary pedagogical framework?",
+      "answerCategory": "Identity & Background",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The International Baccalaureate (IB)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When was the earliest IB program authorized?",
+      "answerCategory": "Identity & Background",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Diploma Programme (DP) was originally authorized in May 2006."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What programs comprise the school's 'IB Continuum' status?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PYP, MYP, DP, and CP."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When was the PYP first authorized?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "April 2009."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When was the MYP first authorized?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "April 2018."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the original authorization date for the DP?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "May 2006."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When was the CP authorized?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "October 2025."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which year groups does the MYP cover?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Years 1, 2, 3, 4, and 5."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When were current IB certificates reissued?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "November 2025."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is the signatory for current IB authorizations?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Olli-Pekka Heinonen, Director General."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is the IB headquarters located for certification purposes?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geneva."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the IB curriculum used for all grades?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The school is authorized for IB for Std. I through Std. XII."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Has the school been recognized for its IB implementation?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it received the 'Excellence in International Curriculum Practices' award in 2022."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the foundational benefits of the IB Continuum?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A visionary approach to education and holistic student development."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Career-related Programme (CP) currently active?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it was authorized in October 2025."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are IB certificates verified for authenticity?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Original certificates feature a hologram and a watermark."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many distinct IB programs are offered?",
+      "answerCategory": "Curriculum & IB",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Four (PYP, MYP, DP, and CP)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the status of the school's state recognition?",
+      "answerCategory": "Regulatory & Admissions",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It holds a valid No Objection Certificate (NOC) from the Government of Maharashtra."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Marathi instruction mandatory?",
+      "answerCategory": "Regulatory & Admissions",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, as a subject from Std I to X."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the regulatory requirement for inclusive education?",
+      "answerCategory": "Regulatory & Admissions",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "'Divyang' children must be integrated into every class."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the mandate regarding regional history?",
+      "answerCategory": "Regulatory & Admissions",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "History of Maharashtra must be taught."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is the fee structure publicly disclosed?",
+      "answerCategory": "Regulatory & Admissions",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On the Government's RTE portal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the school follow the RTE Act 2009?",
+      "answerCategory": "Regulatory & Admissions",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, as mandated by NOC conditions 1 and 2."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is student data tracked by the state?",
+      "answerCategory": "Regulatory & Admissions",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Through the SARAL and U-DISE databases."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Under what conditions can the NOC be revoked?",
+      "answerCategory": "Regulatory & Admissions",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If there is any deviation from state rules or instructions, without prior notice."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What was the school's Education World rank for 2023-24?",
+      "answerCategory": "Accolades & Facilities",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. 4 in India and No. 2 in Maharashtra."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What was the Education World rank for 2025-26?",
+      "answerCategory": "Accolades & Facilities",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. 4 in India and No. 1 in Maharashtra."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who received the 24th World Education Summit award for the school?",
+      "answerCategory": "Accolades & Facilities",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mr. Udayan Verma."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In which NATGEO program was the school featured?",
+      "answerCategory": "Accolades & Facilities",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "'The Future School.'"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When was the 'School of the Year' title awarded?",
+      "answerCategory": "Accolades & Facilities",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2024-25."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What was the Silicon India ranking achievement?",
+      "answerCategory": "Accolades & Facilities",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Top 10 Most Promising Residential Schools (2022)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What were the 2025 Education Today ranks?",
+      "answerCategory": "Accolades & Facilities",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. 2 in Maharashtra and No. 2 in Pune."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which summit awarded the school in 2026?",
+      "answerCategory": "Accolades & Facilities",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The New Age Summit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the significance of the 'Dynamic Schools 2024' award?",
+      "answerCategory": "Accolades & Facilities",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It recognizes exemplary contribution to education in Maharashtra."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many sports disciplines are supported by the campus infrastructure?",
+      "answerCategory": "Accolades & Facilities",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "20+ sports."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the school ensure safety compliance?",
+      "answerCategory": "Miscellaneous",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Following guidelines from Police, Fire Services, and the Transport Department."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the school have a sexual harassment policy?",
+      "answerCategory": "Miscellaneous",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a Complaint Redressal Committee is formed as per state mandates."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is student Aadhar registration required?",
+      "answerCategory": "Miscellaneous",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, registration on the SARAL portal is mandatory."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Sanskrit motto on the official logo?",
+      "answerCategory": "Miscellaneous",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "tejasvinavadhitamastu (rendered in Devanagari on the official logo)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who presented the 2022 Hyderabad award?",
+      "answerCategory": "Miscellaneous",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mr. Augus P Saptoo and Shri Navin Mittal."
+      }
     }
   ]
 }

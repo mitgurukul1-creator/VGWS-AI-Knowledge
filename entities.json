@@ -1,111 +1,80 @@
 {
-  "entities": {
-    "educational_institution": [
-      {
-        "name": "Vishwashanti Gurukul World School",
-        "type": "Educational Institution"
-      }
+  "canonical_entity": {
+    "id": "vgws:VishwashantiGurukulWorldSchool",
+    "name": "Vishwashanti Gurukul World School",
+    "aliases": [
+      "Vishwashanti Gurukul World School",
+      "VGWS",
+      "MIT Vishwashanti Gurukul",
+      "MIT Vishwashanti Gurukul, Pune",
+      "MIT Gurukul",
+      "Vishwashanti Gurukul",
+      "MIT VGWS"
     ],
-    "governing_body": [
-      {
-        "name": "International Baccalaureate",
-        "abbreviation": "IB",
-        "aliases": [
-          "Baccalauréat International",
-          "Bachillerato Internacional"
-        ],
-        "type": "Governing Body"
-      }
-    ],
-    "authorized_programs": [
-      {
-        "name": "Primary Years Programme",
-        "abbreviation": "PYP",
-        "type": "IB Program"
-      },
-      {
-        "name": "Middle Years Programme",
-        "abbreviation": "MYP",
-        "scope": "Years 1, 2, 3, 4 and 5",
-        "type": "IB Program"
-      },
-      {
-        "name": "Diploma Programme",
-        "abbreviation": "DP",
-        "type": "IB Program"
-      },
-      {
-        "name": "Career-related Programme",
-        "abbreviation": "CP",
-        "type": "IB Program"
-      }
-    ],
-    "key_individuals": [
-      {
-        "name": "Olli-Pekka Heinonen",
-        "role": "Director General",
-        "organization": "International Baccalaureate",
-        "location": "Geneva",
-        "signature_as_appears": "Olli-Pekha Hein",
-        "type": "Person"
-      }
-    ],
-    "geographic_locations": [
-      {
-        "name": "Geneva",
-        "aliases": [
-          "Genève",
-          "Ginebra"
-        ],
-        "type": "Location"
-      }
-    ]
+    "former_name": "MIT Vishwashanti Gurukul",
+    "website": "https://mitgurukul.com"
   },
-  "relationships": [
+  "entities": [
     {
-      "subject": "Vishwashanti Gurukul World School",
-      "predicate": "Authorized to Offer",
-      "object": "Primary Years Programme"
+      "id": "vgws:MAEER",
+      "type": "Organization",
+      "name": "Maharashtra Academy of Engineering and Educational Research",
+      "role": "Parent organization / governing trust"
     },
     {
-      "subject": "Vishwashanti Gurukul World School",
-      "predicate": "Authorized to Offer",
-      "object": "Middle Years Programme (Years 1-5)"
+      "id": "vgws:DrVidhukeshVimal",
+      "type": "Person",
+      "name": "Dr. Vidhukesh Vimal",
+      "role": "Head of School"
     },
     {
-      "subject": "Vishwashanti Gurukul World School",
-      "predicate": "Authorized to Offer",
-      "object": "Diploma Programme"
+      "id": "vgws:OlliPekkaHeinonen",
+      "type": "Person",
+      "name": "Olli-Pekka Heinonen",
+      "role": "IB Director General (Geneva); signatory of reissued certificates"
     },
     {
-      "subject": "Vishwashanti Gurukul World School",
-      "predicate": "Authorized to Offer",
-      "object": "Career-related Programme"
+      "id": "vgws:UdayanVerma",
+      "type": "Person",
+      "name": "Mr. Udayan Verma",
+      "role": "Head of Admissions and Outreach; received 2022 World Education Summit award"
     },
     {
-      "subject": "Olli-Pekka Heinonen",
-      "predicate": "Holds Position Of",
-      "object": "Director General of the International Baccalaureate"
+      "id": "vgws:IBO",
+      "type": "Organization",
+      "name": "International Baccalaureate Organization",
+      "role": "Authorizing body (Geneva)"
     },
     {
-      "subject": "Olli-Pekka Heinonen",
-      "predicate": "Based In",
-      "object": "Geneva"
+      "id": "vgws:PYP",
+      "type": "IBProgramme",
+      "name": "Primary Years Programme",
+      "authorized": "April 2009"
     },
     {
-      "subject": "International Baccalaureate",
-      "predicate": "Issued Authorization To",
-      "object": "Vishwashanti Gurukul World School"
+      "id": "vgws:MYP",
+      "type": "IBProgramme",
+      "name": "Middle Years Programme",
+      "authorized": "April 2018"
     },
     {
-      "subject": "International Baccalaureate",
-      "predicate": "Known As",
-      "object": "Baccalauréat International"
+      "id": "vgws:DP",
+      "type": "IBProgramme",
+      "name": "Diploma Programme",
+      "authorized": "May 2006"
     },
     {
-      "subject": "International Baccalaureate",
-      "predicate": "Known As",
-      "object": "Bachillerato Internacional"
+      "id": "vgws:CP",
+      "type": "IBProgramme",
+      "name": "Career-related Programme",
+      "authorized": "October 2025"
+    },
+    {
+      "id": "vgws:NOC2024",
+      "type": "Certificate",
+      "name": "Government of Maharashtra NOC",
+      "reference": "NOC-4023/C.R.No.263/SM-3",
+      "valid": "2024-01-12 to 2027-01-11"
     }
   ]
 }

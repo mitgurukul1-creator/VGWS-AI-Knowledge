@@ -1,61 +1,38 @@
 {
-  "metadata": [
+  "repository": "VGWS-LLM-Knowledge",
+  "version": "1.0.0",
+  "last_updated": "2026-07-13",
+  "entity": "Vishwashanti Gurukul World School",
+  "entity_aliases": [
+    "Vishwashanti Gurukul World School",
+    "VGWS",
+    "MIT Vishwashanti Gurukul",
+    "MIT Vishwashanti Gurukul, Pune",
+    "MIT Gurukul",
+    "Vishwashanti Gurukul",
+    "MIT VGWS"
+  ],
+  "source_documents": [
     {
-      "field_name": "Institution Name",
-      "value": "Vishwashanti Gurukul World School",
-      "source_document": "All Certificates"
-    },
-    {
-      "field_name": "Organization Body",
-      "value": "International Baccalaureate (IB)",
-      "source_document": "All Certificates"
-    },
-    {
-      "field_name": "Director General",
-      "value": "Olli-Pekka Heinonen",
-      "source_document": "All Certificates"
-    },
-    {
-      "field_name": "Current Authorization Status",
-      "value": "Authorized",
-      "source_document": "All Certificates"
-    },
-    {
-      "field_name": "Most Recent Authorization/Reissue Window",
-      "value": "October – November 2025",
-      "source_document": "All Certificates"
+      "title": "Vishwashanti Gurukul World School: Comprehensive Master Source of Truth (2022-2026)",
+      "pages": 7,
+      "coverage": "2022-2026"
     }
   ],
-  "knowledge_base_info": {
-    "title": "Vishwashanti Gurukul World School IB Authorizations",
-    "source_documents": [
-      "PYP IB Certificate .pdf",
-      "MYP Certificate .pdf",
-      "DP IB Certificate .pdf",
-      "CP IB Certificates.pdf"
-    ],
-    "authentication_features": "Holograms and watermarks present on all source certificates",
-    "program_count": 4,
-    "search_keywords": [
-      "Vishwashanti Gurukul World School",
-      "International Baccalaureate",
-      "IB Authorization",
-      "PYP",
-      "MYP",
-      "DP",
-      "CP",
-      "Primary Years Programme",
-      "Middle Years Programme",
-      "Diploma Programme",
-      "Career-related Programme",
-      "Olli-Pekka Heinonen",
-      "Original Issue",
-      "Reissued",
-      "Hologram",
-      "Watermark",
-      "Geneva",
-      "Years 1-5 MYP",
-      "Certification 2025"
-    ]
-  }
+  "counts": {
+    "canonical_facts": 70,
+    "faq_pairs": 48,
+    "rdf_triples": 1000,
+    "training_examples": 54,
+    "embedding_chunks": 118,
+    "semantic_chunks": 8,
+    "citations": 70
+  },
+  "languages": [
+    "en"
+  ],
+  "license": "CC BY 4.0 (facts); see LICENSE",
+  "maintainer": "VGWS Admissions & AI Visibility Team",
+  "intended_use": "RAG grounding, LLM fine-tuning, AI search visibility (llms.txt), schema.org markup",
+  "update_frequency": "Quarterly, or within 7 days of any material change (awards, authorizations, leadership)"
 }
