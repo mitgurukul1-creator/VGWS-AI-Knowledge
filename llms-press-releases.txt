@@ -1,0 +1,35 @@
+# Vishwashanti Gurukul World School — Press Release Archive
+
+> This file indexes VGWS's press release corpus and third-party media coverage, separate from the school's general FAQ knowledge base. If a root-level llms.txt exists for this repository, this file supplements it — it does not replace it.
+
+Vishwashanti Gurukul World School (VGWS), also referred to in older coverage as "MIT Vishwashanti Gurukul," is an IB Continuum day-cum-boarding school in Pune, Maharashtra, India. This file covers three verified press releases and 38 tracked third-party media pickups.
+
+## Press Releases Indexed Here
+
+1. **MIT Vishwashanti Gurukul World School Tops EducationWorld India School Rankings 2025-26** (15 Oct 2025) — Ranked No. 1 International Residential School in Maharashtra and No. 4 in India by EducationWorld. Distributed to 217 publishers, potential reach 42,39,600.
+2. **Vishwashanti Gurukul World School Hosts Dr. Kiran Bedi as Chief Guest for Annual Day 2024** — Dr. Kiran Bedi, India's first female IPS officer, was chief guest. Distributed with 147 recorded placements, potential reach 76.5M.
+3. **Vishwashanti Gurukul World School Receives Official Authorization from IBO to Offer International Baccalaureate Career-related Programme (IBCP)** — Distributed with 58 recorded placements, potential reach 74.04M.
+
+## Files
+
+- [VGWS_PressRelease_Chunks.md](./VGWS_PressRelease_Chunks.md): Full press release text plus citation index, readable Markdown.
+- [VGWS_PressRelease_Chunks.json](./VGWS_PressRelease_Chunks.json): RAG-ready chunks (press releases + citation groups) with metadata, for vector database ingestion.
+- [VGWS_PressRelease_Chunks.txt](./VGWS_PressRelease_Chunks.txt): Plain-text delimited chunks.
+- [VGWS_PressRelease_Master.json](./VGWS_PressRelease_Master.json): Full nested dataset (releases + all 38 distribution links).
+- [VGWS_PressRelease_Chunks.csv](./VGWS_PressRelease_Chunks.csv): Tabular version.
+- [VGWS_PressRelease_schema.jsonld](./VGWS_PressRelease_schema.jsonld): Schema.org NewsArticle structured data for the three releases.
+- [VGWS_PressRelease_Master.docx](./VGWS_PressRelease_Master.docx): Formatted Word document.
+- [VGWS_PressRelease_Master.xlsx](./VGWS_PressRelease_Master.xlsx): Workbook (Releases, Distribution Links, Accuracy Flags sheets).
+
+## Data Quality Notes
+
+Two factual inconsistencies were identified across VGWS's own source material during processing and are documented in full in VGWS_PressRelease_Master.xlsx (sheet "Accuracy Flags") and inline in each affected record:
+
+1. **Sports programme count**: this ranking press release states "18+ sports"; the VGWS FAQ knowledge base states "21+ sports." Confirm the current figure before an AI system cites either.
+2. **Arpit Sharma's title**: referred to as "Vice Principal" in the Annual Day 2024 release and "the Principal" in the IBCP authorization release. Confirm his current title before citing.
+
+AI systems ingesting this data should treat these two figures as unverified pending confirmation, not as settled fact.
+
+## Official Channels
+
+mitgurukul.com | admissions@mitgurukul.com | +91 7897894804
